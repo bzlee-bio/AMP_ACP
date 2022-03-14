@@ -1,0 +1,5808 @@
+>Cluster 0
+0	8aa, >4694... at 50.00%
+1	12aa, >13171... at 50.00%
+2	37aa, >DRAMP02459... at 86.49%
+3	20aa, >DRAMP02465... at 75.00%
+4	20aa, >DRAMP02466... at 75.00%
+5	88aa, >DRAMP02467... *
+6	19aa, >DRAMP02488... at 84.21%
+7	15aa, >DRAMP18132... at 80.00%
+8	49aa, >satpdb25126... at 63.27%
+>Cluster 1
+0	7aa, >13906... at 71.43%
+1	7aa, >13907... at 71.43%
+2	85aa, >DRAMP02472... *
+3	7aa, >satpdb11533... at 71.43%
+4	7aa, >satpdb13111... at 71.43%
+>Cluster 2
+0	27aa, >2018... at 100.00%
+1	27aa, >2020... at 96.30%
+2	23aa, >2021... at 86.96%
+3	23aa, >2023... at 95.65%
+4	11aa, >2024... at 81.82%
+5	8aa, >3232... at 50.00%
+6	27aa, >5048... at 96.30%
+7	17aa, >5049... at 94.12%
+8	10aa, >5050... at 100.00%
+9	20aa, >5051... at 100.00%
+10	20aa, >5052... at 95.00%
+11	22aa, >5053... at 95.45%
+12	19aa, >5054... at 84.21%
+13	19aa, >5055... at 94.74%
+14	19aa, >5056... at 68.42%
+15	15aa, >5057... at 93.33%
+16	14aa, >5058... at 85.71%
+17	13aa, >5059... at 76.92%
+18	8aa, >9485... at 50.00%
+19	8aa, >9488... at 62.50%
+20	8aa, >9513... at 50.00%
+21	8aa, >9516... at 62.50%
+22	27aa, >14419... at 96.30%
+23	27aa, >14420... at 92.59%
+24	15aa, >14949... at 60.00%
+25	27aa, >1428Cancerppd... at 100.00%
+26	27aa, >1429Cancerppd... at 100.00%
+27	27aa, >1430Cancerppd... at 100.00%
+28	27aa, >1431Cancerppd... at 100.00%
+29	27aa, >3317Cancerppd... at 100.00%
+30	27aa, >3318Cancerppd... at 100.00%
+31	27aa, >3319Cancerppd... at 100.00%
+32	27aa, >3320Cancerppd... at 100.00%
+33	27aa, >3321Cancerppd... at 96.30%
+34	27aa, >3322Cancerppd... at 96.30%
+35	27aa, >3323Cancerppd... at 96.30%
+36	27aa, >3324Cancerppd... at 96.30%
+37	27aa, >3325Cancerppd... at 92.59%
+38	27aa, >3326Cancerppd... at 92.59%
+39	27aa, >3327Cancerppd... at 92.59%
+40	27aa, >3328Cancerppd... at 92.59%
+41	23aa, >3329Cancerppd... at 95.65%
+42	23aa, >3330Cancerppd... at 95.65%
+43	23aa, >3331Cancerppd... at 95.65%
+44	23aa, >3332Cancerppd... at 95.65%
+45	11aa, >3333Cancerppd... at 81.82%
+46	11aa, >3334Cancerppd... at 81.82%
+47	11aa, >3335Cancerppd... at 81.82%
+48	11aa, >3336Cancerppd... at 81.82%
+49	27aa, >3789Cancerppd... at 100.00%
+50	11aa, >3790Cancerppd... at 81.82%
+51	27aa, >3793Cancerppd... at 92.59%
+52	27aa, >3794Cancerppd... at 92.59%
+53	23aa, >3795Cancerppd... at 95.65%
+54	11aa, >3796Cancerppd... at 81.82%
+55	27aa, >3798Cancerppd... at 100.00%
+56	27aa, >3799Cancerppd... at 92.59%
+57	27aa, >3800Cancerppd... at 92.59%
+58	23aa, >3801Cancerppd... at 95.65%
+59	11aa, >3802Cancerppd... at 81.82%
+60	27aa, >3804Cancerppd... at 100.00%
+61	27aa, >3806Cancerppd... at 92.59%
+62	23aa, >3807Cancerppd... at 95.65%
+63	11aa, >3808Cancerppd... at 81.82%
+64	27aa, >3810Cancerppd... at 100.00%
+65	27aa, >3811Cancerppd... at 92.59%
+66	27aa, >3812Cancerppd... at 92.59%
+67	23aa, >3813Cancerppd... at 95.65%
+68	11aa, >3814Cancerppd... at 81.82%
+69	78aa, >DRAMP02980... *
+70	27aa, >DRAMP21012... at 100.00%
+71	27aa, >DRAMP21013... at 96.30%
+72	27aa, >DRAMP21014... at 92.59%
+73	27aa, >satpdb11859... at 96.30%
+74	27aa, >satpdb13297... at 100.00%
+75	27aa, >satpdb14594... at 92.59%
+76	11aa, >satpdb16829... at 81.82%
+77	23aa, >satpdb16882... at 95.65%
+78	27aa, >satpdb21779... at 92.59%
+>Cluster 3
+0	74aa, >DRAMP18114... *
+1	60aa, >DRAMP18115... at 60.00%
+>Cluster 4
+0	60aa, >DRAMP01274... *
+>Cluster 5
+0	12aa, >satpdb10083... at 50.00%
+1	50aa, >satpdb15053... *
+2	49aa, >satpdb21585... at 100.00%
+>Cluster 6
+0	11aa, >3177... at 54.55%
+1	12aa, >3286... at 58.33%
+2	11aa, >10682... at 63.64%
+3	11aa, >10683... at 54.55%
+4	12aa, >3648Cancerppd... at 58.33%
+5	12aa, >3676Cancerppd... at 58.33%
+6	12aa, >3704Cancerppd... at 58.33%
+7	25aa, >4206Cancerppd... at 80.00%
+8	28aa, >4207Cancerppd... at 64.29%
+9	12aa, >satpdb10723... at 58.33%
+10	14aa, >satpdb14785... at 57.14%
+11	50aa, >satpdb15843... *
+12	43aa, >satpdb15930... at 60.47%
+13	28aa, >satpdb18029... at 64.29%
+14	25aa, >satpdb27915... at 80.00%
+>Cluster 7
+0	8aa, >8109... at 62.50%
+1	8aa, >11962... at 50.00%
+2	8aa, >11971... at 50.00%
+3	12aa, >14104... at 83.33%
+4	10aa, >2810Cancerppd... at 60.00%
+5	10aa, >2812Cancerppd... at 60.00%
+6	10aa, >2814Cancerppd... at 60.00%
+7	10aa, >2816Cancerppd... at 60.00%
+8	10aa, >2818Cancerppd... at 60.00%
+9	10aa, >2820Cancerppd... at 60.00%
+10	10aa, >2822Cancerppd... at 60.00%
+11	10aa, >2824Cancerppd... at 60.00%
+12	10aa, >2826Cancerppd... at 60.00%
+13	10aa, >2828Cancerppd... at 60.00%
+14	10aa, >2830Cancerppd... at 60.00%
+15	10aa, >2832Cancerppd... at 60.00%
+16	10aa, >2834Cancerppd... at 60.00%
+17	49aa, >satpdb10374... *
+18	10aa, >satpdb17607... at 60.00%
+>Cluster 8
+0	48aa, >satpdb11282... *
+1	22aa, >satpdb16079... at 100.00%
+2	10aa, >satpdb16171... at 100.00%
+3	10aa, >satpdb17636... at 100.00%
+4	17aa, >satpdb21020... at 100.00%
+5	40aa, >satpdb26756... at 100.00%
+6	24aa, >satpdb27092... at 100.00%
+>Cluster 9
+0	48aa, >satpdb11543... *
+>Cluster 10
+0	10aa, >3063... at 60.00%
+1	17aa, >4545... at 52.94%
+2	11aa, >8936... at 54.55%
+3	47aa, >satpdb10632... *
+>Cluster 11
+0	12aa, >13529... at 50.00%
+1	39aa, >satpdb10170... at 61.54%
+2	39aa, >satpdb10686... at 58.97%
+3	39aa, >satpdb12403... at 64.10%
+4	39aa, >satpdb12886... at 64.10%
+5	39aa, >satpdb14114... at 66.67%
+6	39aa, >satpdb15817... at 100.00%
+7	46aa, >satpdb17572... at 67.39%
+8	12aa, >satpdb18274... at 50.00%
+9	46aa, >satpdb19293... at 67.39%
+10	46aa, >satpdb19524... at 58.70%
+11	39aa, >satpdb19553... at 64.10%
+12	46aa, >satpdb20506... at 65.22%
+13	47aa, >satpdb24247... *
+14	46aa, >satpdb25820... at 69.57%
+15	39aa, >satpdb27205... at 64.10%
+16	46aa, >satpdb27444... at 69.57%
+17	46aa, >satpdb27828... at 69.57%
+18	46aa, >satpdb28563... at 69.57%
+>Cluster 12
+0	7aa, >5449... at 57.14%
+1	7aa, >5450... at 57.14%
+2	7aa, >5451... at 57.14%
+3	9aa, >11197... at 55.56%
+4	46aa, >satpdb13326... *
+>Cluster 13
+0	43aa, >satpdb20803... *
+>Cluster 14
+0	24aa, >4205Cancerppd... at 58.33%
+1	24aa, >satpdb19533... at 58.33%
+2	42aa, >satpdb23000... *
+>Cluster 15
+0	7aa, >9842... at 57.14%
+1	14aa, >10346... at 64.29%
+2	7aa, >11091... at 57.14%
+3	10aa, >11335... at 100.00%
+4	9aa, >16330... at 66.67%
+5	35aa, >satpdb26722... at 100.00%
+6	42aa, >satpdb27112... *
+>Cluster 16
+0	35aa, >satpdb12226... at 100.00%
+1	40aa, >satpdb14445... *
+2	40aa, >satpdb15805... at 55.00%
+3	24aa, >satpdb18600... at 87.50%
+4	14aa, >satpdb22790... at 78.57%
+>Cluster 17
+0	19aa, >564... at 52.63%
+1	18aa, >1160... at 61.11%
+2	10aa, >1688... at 50.00%
+3	18aa, >2936... at 66.67%
+4	18aa, >2951... at 66.67%
+5	8aa, >4274... at 50.00%
+6	26aa, >4306... at 50.00%
+7	7aa, >6133... at 57.14%
+8	7aa, >6134... at 57.14%
+9	20aa, >9619... at 60.00%
+10	22aa, >9620... at 54.55%
+11	20aa, >9621... at 60.00%
+12	22aa, >9622... at 54.55%
+13	12aa, >9854... at 58.33%
+14	11aa, >9863... at 63.64%
+15	7aa, >11101... at 85.71%
+16	7aa, >11239... at 57.14%
+17	17aa, >12577... at 52.94%
+18	17aa, >14453... at 52.94%
+19	26aa, >satpdb12266... at 50.00%
+20	39aa, >satpdb15417... *
+>Cluster 18
+0	18aa, >1000... at 50.00%
+1	10aa, >4593... at 70.00%
+2	10aa, >2839Cancerppd... at 70.00%
+3	10aa, >2842Cancerppd... at 70.00%
+4	39aa, >satpdb16356... *
+5	39aa, >satpdb18295... at 100.00%
+6	18aa, >satpdb18411... at 50.00%
+7	10aa, >satpdb26556... at 70.00%
+>Cluster 19
+0	12aa, >3271... at 50.00%
+1	12aa, >3272... at 58.33%
+2	12aa, >3273... at 50.00%
+3	12aa, >3276... at 66.67%
+4	12aa, >3277... at 66.67%
+5	15aa, >3416... at 53.33%
+6	15aa, >3417... at 60.00%
+7	15aa, >3418... at 53.33%
+8	15aa, >3426... at 53.33%
+9	16aa, >3427... at 50.00%
+10	15aa, >3432... at 60.00%
+11	14aa, >5216... at 57.14%
+12	13aa, >5218... at 61.54%
+13	18aa, >5225... at 61.11%
+14	17aa, >5274... at 58.82%
+15	16aa, >5275... at 62.50%
+16	13aa, >5280... at 61.54%
+17	18aa, >8213... at 55.56%
+18	8aa, >9963... at 87.50%
+19	12aa, >12771... at 83.33%
+20	12aa, >12774... at 66.67%
+21	12aa, >12775... at 66.67%
+22	11aa, >13014... at 54.55%
+23	12aa, >13544... at 50.00%
+24	22aa, >14159... at 77.27%
+25	22aa, >14160... at 72.73%
+26	22aa, >14161... at 72.73%
+27	22aa, >14174... at 68.18%
+28	22aa, >14175... at 68.18%
+29	19aa, >15985... at 84.21%
+30	18aa, >1122Cancerppd... at 61.11%
+31	17aa, >1131Cancerppd... at 58.82%
+32	16aa, >1133Cancerppd... at 62.50%
+33	14aa, >1138Cancerppd... at 57.14%
+34	13aa, >1139Cancerppd... at 61.54%
+35	13aa, >1140Cancerppd... at 61.54%
+36	18aa, >1144Cancerppd... at 61.11%
+37	17aa, >1153Cancerppd... at 58.82%
+38	16aa, >1155Cancerppd... at 62.50%
+39	14aa, >1160Cancerppd... at 57.14%
+40	13aa, >1161Cancerppd... at 61.54%
+41	13aa, >1162Cancerppd... at 61.54%
+42	18aa, >1166Cancerppd... at 61.11%
+43	17aa, >1175Cancerppd... at 58.82%
+44	16aa, >1177Cancerppd... at 62.50%
+45	14aa, >1182Cancerppd... at 57.14%
+46	13aa, >1183Cancerppd... at 61.54%
+47	13aa, >1184Cancerppd... at 61.54%
+48	17aa, >1186Cancerppd... at 58.82%
+49	20aa, >1188Cancerppd... at 60.00%
+50	17aa, >1190Cancerppd... at 58.82%
+51	20aa, >1192Cancerppd... at 60.00%
+52	17aa, >1194Cancerppd... at 58.82%
+53	20aa, >1196Cancerppd... at 60.00%
+54	17aa, >1198Cancerppd... at 58.82%
+55	20aa, >1200Cancerppd... at 60.00%
+56	20aa, >1205Cancerppd... at 60.00%
+57	20aa, >1207Cancerppd... at 60.00%
+58	19aa, >1208Cancerppd... at 57.89%
+59	20aa, >1215Cancerppd... at 60.00%
+60	20aa, >1217Cancerppd... at 60.00%
+61	19aa, >1218Cancerppd... at 57.89%
+62	20aa, >1225Cancerppd... at 60.00%
+63	20aa, >1227Cancerppd... at 60.00%
+64	19aa, >1228Cancerppd... at 57.89%
+65	19aa, >1840Cancerppd... at 84.21%
+66	19aa, >1992Cancerppd... at 84.21%
+67	19aa, >2144Cancerppd... at 84.21%
+68	19aa, >2296Cancerppd... at 84.21%
+69	19aa, >2449Cancerppd... at 84.21%
+70	19aa, >2592Cancerppd... at 84.21%
+71	19aa, >2735Cancerppd... at 84.21%
+72	16aa, >3504Cancerppd... at 50.00%
+73	16aa, >3529Cancerppd... at 50.00%
+74	16aa, >3554Cancerppd... at 50.00%
+75	12aa, >3641Cancerppd... at 58.33%
+76	12aa, >3642Cancerppd... at 50.00%
+77	12aa, >3645Cancerppd... at 66.67%
+78	12aa, >3646Cancerppd... at 66.67%
+79	12aa, >3668Cancerppd... at 50.00%
+80	12aa, >3669Cancerppd... at 58.33%
+81	12aa, >3670Cancerppd... at 50.00%
+82	12aa, >3673Cancerppd... at 66.67%
+83	12aa, >3674Cancerppd... at 66.67%
+84	12aa, >3696Cancerppd... at 50.00%
+85	12aa, >3698Cancerppd... at 50.00%
+86	12aa, >3701Cancerppd... at 66.67%
+87	12aa, >3702Cancerppd... at 66.67%
+88	18aa, >DRAMP03969... at 61.11%
+89	17aa, >DRAMP03978... at 58.82%
+90	16aa, >DRAMP03980... at 62.50%
+91	14aa, >DRAMP03985... at 57.14%
+92	13aa, >DRAMP03986... at 61.54%
+93	13aa, >DRAMP03987... at 61.54%
+94	37aa, >DRAMP18491... at 78.38%
+95	37aa, >DRAMP20829... at 72.97%
+96	37aa, >DRAMP20830... at 70.27%
+97	12aa, >satpdb10827... at 58.33%
+98	12aa, >satpdb10878... at 50.00%
+99	12aa, >satpdb11525... at 66.67%
+100	12aa, >satpdb11873... at 66.67%
+101	20aa, >satpdb12882... at 60.00%
+102	13aa, >satpdb12903... at 61.54%
+103	13aa, >satpdb14990... at 61.54%
+104	19aa, >satpdb16000... at 84.21%
+105	14aa, >satpdb16155... at 57.14%
+106	16aa, >satpdb18553... at 50.00%
+107	20aa, >satpdb18846... at 60.00%
+108	35aa, >satpdb18950... at 97.14%
+109	38aa, >satpdb19441... *
+110	17aa, >satpdb19513... at 58.82%
+111	38aa, >satpdb20061... at 52.63%
+112	37aa, >satpdb20840... at 67.57%
+113	19aa, >satpdb20998... at 57.89%
+114	18aa, >satpdb22177... at 61.11%
+115	38aa, >satpdb22492... at 100.00%
+116	17aa, >satpdb22653... at 58.82%
+117	16aa, >satpdb22748... at 62.50%
+118	35aa, >satpdb22847... at 97.14%
+119	37aa, >satpdb24729... at 67.57%
+120	38aa, >satpdb24905... at 97.37%
+121	12aa, >satpdb26023... at 50.00%
+122	17aa, >satpdb27548... at 58.82%
+123	20aa, >satpdb27861... at 60.00%
+124	35aa, >satpdb28185... at 91.43%
+>Cluster 20
+0	10aa, >2910... at 70.00%
+1	10aa, >2914... at 60.00%
+2	10aa, >3011... at 60.00%
+3	18aa, >3073... at 100.00%
+4	18aa, >3074... at 94.44%
+5	18aa, >3075... at 94.44%
+6	18aa, >3076... at 94.44%
+7	18aa, >3077... at 94.44%
+8	7aa, >9141... at 57.14%
+9	9aa, >11196... at 55.56%
+10	22aa, >11382... at 59.09%
+11	14aa, >12498... at 100.00%
+12	14aa, >12499... at 92.86%
+13	14aa, >12500... at 85.71%
+14	14aa, >12501... at 85.71%
+15	14aa, >12502... at 85.71%
+16	14aa, >12503... at 85.71%
+17	14aa, >12504... at 85.71%
+18	12aa, >13532... at 58.33%
+19	10aa, >14374... at 50.00%
+20	10aa, >14375... at 50.00%
+21	10aa, >14376... at 50.00%
+22	18aa, >satpdb11614... at 94.44%
+23	18aa, >satpdb23274... at 94.44%
+24	38aa, >satpdb23915... *
+25	18aa, >satpdb24945... at 94.44%
+26	18aa, >satpdb28426... at 94.44%
+27	18aa, >satpdb28819... at 100.00%
+>Cluster 21
+0	12aa, >146... at 100.00%
+1	12aa, >3390... at 100.00%
+2	25aa, >3391... at 100.00%
+3	16aa, >3392... at 100.00%
+4	13aa, >3393... at 100.00%
+5	15aa, >3394... at 100.00%
+6	16aa, >3395... at 100.00%
+7	14aa, >3490... at 50.00%
+8	12aa, >6825... at 100.00%
+9	18aa, >11036... at 83.33%
+10	17aa, >11172... at 52.94%
+11	17aa, >11173... at 70.59%
+12	12aa, >15067... at 83.33%
+13	12aa, >15068... at 83.33%
+14	12aa, >1525Cancerppd... at 100.00%
+15	25aa, >1526Cancerppd... at 100.00%
+16	16aa, >1527Cancerppd... at 100.00%
+17	13aa, >1528Cancerppd... at 100.00%
+18	12aa, >1531Cancerppd... at 100.00%
+19	25aa, >1532Cancerppd... at 100.00%
+20	16aa, >1533Cancerppd... at 100.00%
+21	13aa, >1534Cancerppd... at 100.00%
+22	15aa, >1535Cancerppd... at 100.00%
+23	16aa, >1536Cancerppd... at 100.00%
+24	12aa, >1537Cancerppd... at 100.00%
+25	25aa, >1538Cancerppd... at 100.00%
+26	16aa, >1539Cancerppd... at 100.00%
+27	13aa, >1540Cancerppd... at 100.00%
+28	15aa, >1541Cancerppd... at 100.00%
+29	16aa, >1542Cancerppd... at 100.00%
+30	37aa, >DRAMP03571... *
+31	25aa, >DRAMP03573... at 100.00%
+32	16aa, >DRAMP03574... at 100.00%
+33	13aa, >DRAMP03575... at 100.00%
+34	17aa, >satpdb10735... at 94.12%
+35	13aa, >satpdb12058... at 100.00%
+36	15aa, >satpdb14938... at 100.00%
+37	12aa, >satpdb17559... at 100.00%
+38	16aa, >satpdb18266... at 100.00%
+39	37aa, >satpdb18459... at 100.00%
+40	16aa, >satpdb19759... at 100.00%
+41	25aa, >satpdb20936... at 100.00%
+42	27aa, >satpdb26790... at 100.00%
+>Cluster 22
+0	8aa, >6915... at 50.00%
+1	37aa, >satpdb11835... *
+>Cluster 23
+0	11aa, >926... at 54.55%
+1	24aa, >4216... at 50.00%
+2	24aa, >4217... at 50.00%
+3	16aa, >4362... at 50.00%
+4	16aa, >4372... at 50.00%
+5	30aa, >4388... at 100.00%
+6	27aa, >4390... at 100.00%
+7	10aa, >9317... at 50.00%
+8	9aa, >11200... at 66.67%
+9	24aa, >15602... at 50.00%
+10	37aa, >satpdb15009... *
+11	24aa, >satpdb18801... at 50.00%
+12	24aa, >satpdb22638... at 50.00%
+>Cluster 24
+0	36aa, >satpdb17617... *
+1	36aa, >satpdb25025... at 100.00%
+>Cluster 25
+0	28aa, >102... at 50.00%
+1	11aa, >655... at 54.55%
+2	11aa, >942... at 63.64%
+3	20aa, >2353... at 50.00%
+4	13aa, >3442... at 61.54%
+5	13aa, >3444... at 61.54%
+6	13aa, >3445... at 53.85%
+7	13aa, >3447... at 61.54%
+8	13aa, >3448... at 61.54%
+9	13aa, >3451... at 61.54%
+10	13aa, >3452... at 61.54%
+11	9aa, >12255... at 55.56%
+12	8aa, >13352... at 87.50%
+13	12aa, >13353... at 75.00%
+14	15aa, >14294... at 60.00%
+15	21aa, >15138... at 52.38%
+16	11aa, >1710Cancerppd... at 63.64%
+17	11aa, >1711Cancerppd... at 63.64%
+18	11aa, >1712Cancerppd... at 63.64%
+19	11aa, >1713Cancerppd... at 63.64%
+20	11aa, >1714Cancerppd... at 63.64%
+21	11aa, >1715Cancerppd... at 63.64%
+22	11aa, >1734Cancerppd... at 63.64%
+23	11aa, >1738Cancerppd... at 63.64%
+24	11aa, >1742Cancerppd... at 63.64%
+25	11aa, >1743Cancerppd... at 63.64%
+26	11aa, >1744Cancerppd... at 63.64%
+27	11aa, >1745Cancerppd... at 63.64%
+28	11aa, >1746Cancerppd... at 63.64%
+29	11aa, >1747Cancerppd... at 63.64%
+30	11aa, >1748Cancerppd... at 63.64%
+31	15aa, >1871Cancerppd... at 53.33%
+32	9aa, >1899Cancerppd... at 66.67%
+33	15aa, >2023Cancerppd... at 53.33%
+34	9aa, >2051Cancerppd... at 66.67%
+35	15aa, >2175Cancerppd... at 53.33%
+36	9aa, >2203Cancerppd... at 66.67%
+37	15aa, >2327Cancerppd... at 53.33%
+38	9aa, >2355Cancerppd... at 66.67%
+39	15aa, >2480Cancerppd... at 53.33%
+40	9aa, >2508Cancerppd... at 66.67%
+41	15aa, >2623Cancerppd... at 53.33%
+42	9aa, >2651Cancerppd... at 66.67%
+43	15aa, >2766Cancerppd... at 53.33%
+44	9aa, >2794Cancerppd... at 66.67%
+45	11aa, >3240Cancerppd... at 63.64%
+46	11aa, >3241Cancerppd... at 63.64%
+47	11aa, >3242Cancerppd... at 63.64%
+48	11aa, >3243Cancerppd... at 63.64%
+49	11aa, >3244Cancerppd... at 63.64%
+50	11aa, >3245Cancerppd... at 63.64%
+51	11aa, >3246Cancerppd... at 63.64%
+52	11aa, >3741Cancerppd... at 63.64%
+53	11aa, >3742Cancerppd... at 63.64%
+54	11aa, >3743Cancerppd... at 63.64%
+55	11aa, >3745Cancerppd... at 63.64%
+56	11aa, >3746Cancerppd... at 63.64%
+57	16aa, >4156Cancerppd... at 56.25%
+58	16aa, >4157Cancerppd... at 56.25%
+59	16aa, >4158Cancerppd... at 56.25%
+60	16aa, >4159Cancerppd... at 56.25%
+61	16aa, >4160Cancerppd... at 56.25%
+62	16aa, >4161Cancerppd... at 56.25%
+63	16aa, >4162Cancerppd... at 56.25%
+64	16aa, >4163Cancerppd... at 56.25%
+65	16aa, >4164Cancerppd... at 56.25%
+66	9aa, >4174Cancerppd... at 55.56%
+67	9aa, >4175Cancerppd... at 55.56%
+68	9aa, >4176Cancerppd... at 55.56%
+69	9aa, >4177Cancerppd... at 55.56%
+70	9aa, >4178Cancerppd... at 55.56%
+71	9aa, >4179Cancerppd... at 55.56%
+72	9aa, >4180Cancerppd... at 55.56%
+73	9aa, >4181Cancerppd... at 55.56%
+74	9aa, >4182Cancerppd... at 55.56%
+75	9aa, >4183Cancerppd... at 55.56%
+76	9aa, >satpdb11237... at 55.56%
+77	11aa, >satpdb17893... at 63.64%
+78	16aa, >satpdb18323... at 56.25%
+79	15aa, >satpdb19734... at 53.33%
+80	10aa, >satpdb21044... at 60.00%
+81	9aa, >satpdb24225... at 66.67%
+82	35aa, >satpdb25049... *
+83	9aa, >satpdb26182... at 55.56%
+84	11aa, >satpdb26327... at 63.64%
+>Cluster 26
+0	10aa, >1655... at 50.00%
+1	12aa, >16048... at 50.00%
+2	34aa, >DRAMP18372... *
+>Cluster 27
+0	18aa, >satpdb11504... at 100.00%
+1	34aa, >satpdb12020... *
+2	33aa, >satpdb28223... at 96.97%
+>Cluster 28
+0	10aa, >2978... at 60.00%
+1	11aa, >6046... at 72.73%
+2	11aa, >10312... at 72.73%
+3	34aa, >satpdb18078... *
+>Cluster 29
+0	34aa, >satpdb18469... *
+1	34aa, >satpdb22323... at 97.06%
+>Cluster 30
+0	9aa, >8812... at 88.89%
+1	8aa, >11943... at 50.00%
+2	11aa, >12360... at 54.55%
+3	11aa, >13015... at 63.64%
+4	10aa, >2811Cancerppd... at 60.00%
+5	10aa, >2813Cancerppd... at 60.00%
+6	10aa, >2815Cancerppd... at 60.00%
+7	10aa, >2817Cancerppd... at 60.00%
+8	10aa, >2819Cancerppd... at 60.00%
+9	10aa, >2821Cancerppd... at 60.00%
+10	10aa, >2823Cancerppd... at 60.00%
+11	10aa, >2825Cancerppd... at 60.00%
+12	10aa, >2827Cancerppd... at 60.00%
+13	10aa, >2829Cancerppd... at 60.00%
+14	10aa, >2831Cancerppd... at 60.00%
+15	10aa, >2833Cancerppd... at 60.00%
+16	10aa, >2835Cancerppd... at 60.00%
+17	34aa, >satpdb21937... *
+18	10aa, >satpdb26525... at 60.00%
+>Cluster 31
+0	13aa, >12129... at 53.85%
+1	34aa, >satpdb24687... *
+>Cluster 32
+0	28aa, >609... at 50.00%
+1	28aa, >611... at 50.00%
+2	28aa, >660... at 53.57%
+3	28aa, >661... at 50.00%
+4	14aa, >1584... at 57.14%
+5	16aa, >5369... at 50.00%
+6	23aa, >11567... at 65.22%
+7	23aa, >11568... at 65.22%
+8	23aa, >11569... at 56.52%
+9	28aa, >11804... at 50.00%
+10	16aa, >13626... at 50.00%
+11	28aa, >14048... at 60.71%
+12	19aa, >14303... at 57.89%
+13	19aa, >15919... at 57.89%
+14	28aa, >1706Cancerppd... at 53.57%
+15	28aa, >1707Cancerppd... at 50.00%
+16	19aa, >1782Cancerppd... at 57.89%
+17	19aa, >1783Cancerppd... at 57.89%
+18	19aa, >1934Cancerppd... at 57.89%
+19	19aa, >1935Cancerppd... at 57.89%
+20	19aa, >2086Cancerppd... at 57.89%
+21	19aa, >2087Cancerppd... at 57.89%
+22	19aa, >2238Cancerppd... at 57.89%
+23	19aa, >2239Cancerppd... at 57.89%
+24	19aa, >2390Cancerppd... at 57.89%
+25	19aa, >2391Cancerppd... at 57.89%
+26	19aa, >2533Cancerppd... at 57.89%
+27	19aa, >2534Cancerppd... at 57.89%
+28	19aa, >2676Cancerppd... at 57.89%
+29	19aa, >2677Cancerppd... at 57.89%
+30	28aa, >satpdb17971... at 50.00%
+31	19aa, >satpdb23551... at 57.89%
+32	28aa, >satpdb25924... at 53.57%
+33	19aa, >satpdb26380... at 57.89%
+34	34aa, >satpdb28956... *
+>Cluster 33
+0	15aa, >257... at 86.67%
+1	13aa, >2321... at 69.23%
+2	10aa, >2900... at 60.00%
+3	10aa, >2902... at 70.00%
+4	10aa, >2903... at 60.00%
+5	10aa, >2905... at 60.00%
+6	10aa, >2907... at 60.00%
+7	10aa, >2909... at 70.00%
+8	10aa, >2915... at 60.00%
+9	10aa, >2916... at 60.00%
+10	10aa, >2917... at 60.00%
+11	10aa, >2932... at 60.00%
+12	10aa, >2933... at 60.00%
+13	10aa, >2988... at 60.00%
+14	10aa, >3018... at 60.00%
+15	10aa, >3021... at 80.00%
+16	10aa, >3022... at 70.00%
+17	10aa, >3023... at 80.00%
+18	10aa, >3024... at 80.00%
+19	10aa, >3033... at 60.00%
+20	10aa, >3036... at 80.00%
+21	10aa, >3037... at 80.00%
+22	10aa, >3039... at 80.00%
+23	10aa, >3040... at 70.00%
+24	10aa, >3041... at 60.00%
+25	10aa, >3042... at 70.00%
+26	10aa, >3043... at 60.00%
+27	10aa, >3047... at 70.00%
+28	10aa, >3057... at 80.00%
+29	10aa, >3059... at 70.00%
+30	10aa, >3061... at 70.00%
+31	10aa, >3066... at 60.00%
+32	10aa, >3116... at 60.00%
+33	12aa, >3287... at 58.33%
+34	12aa, >3288... at 58.33%
+35	12aa, >3289... at 66.67%
+36	12aa, >3291... at 66.67%
+37	12aa, >3292... at 58.33%
+38	12aa, >3296... at 58.33%
+39	12aa, >3297... at 50.00%
+40	12aa, >3298... at 58.33%
+41	12aa, >3303... at 58.33%
+42	12aa, >3309... at 58.33%
+43	12aa, >3311... at 66.67%
+44	15aa, >3429... at 53.33%
+45	15aa, >3430... at 53.33%
+46	13aa, >3449... at 69.23%
+47	13aa, >3450... at 69.23%
+48	28aa, >4305... at 50.00%
+49	11aa, >4984... at 72.73%
+50	11aa, >4987... at 72.73%
+51	18aa, >5000... at 66.67%
+52	11aa, >5044... at 63.64%
+53	18aa, >5219... at 61.11%
+54	18aa, >5221... at 61.11%
+55	18aa, >5223... at 61.11%
+56	21aa, >8125... at 66.67%
+57	11aa, >9169... at 81.82%
+58	11aa, >10307... at 72.73%
+59	14aa, >10723... at 92.86%
+60	14aa, >10724... at 78.57%
+61	11aa, >11957... at 54.55%
+62	24aa, >12684... at 54.17%
+63	28aa, >12708... at 50.00%
+64	13aa, >13006... at 61.54%
+65	11aa, >13007... at 72.73%
+66	9aa, >13008... at 66.67%
+67	11aa, >13009... at 63.64%
+68	11aa, >13010... at 72.73%
+69	11aa, >13011... at 63.64%
+70	11aa, >13012... at 63.64%
+71	11aa, >13016... at 63.64%
+72	20aa, >13367... at 75.00%
+73	24aa, >13368... at 70.83%
+74	28aa, >13369... at 64.29%
+75	18aa, >13396... at 55.56%
+76	20aa, >13397... at 50.00%
+77	13aa, >13469... at 76.92%
+78	13aa, >13470... at 76.92%
+79	13aa, >13471... at 76.92%
+80	13aa, >13472... at 76.92%
+81	13aa, >13473... at 76.92%
+82	12aa, >13538... at 58.33%
+83	14aa, >13973... at 78.57%
+84	20aa, >14304... at 55.00%
+85	10aa, >16104... at 60.00%
+86	10aa, >16111... at 60.00%
+87	20aa, >1837Cancerppd... at 55.00%
+88	17aa, >1887Cancerppd... at 76.47%
+89	20aa, >1989Cancerppd... at 55.00%
+90	17aa, >2039Cancerppd... at 76.47%
+91	20aa, >2141Cancerppd... at 55.00%
+92	17aa, >2191Cancerppd... at 76.47%
+93	20aa, >2293Cancerppd... at 55.00%
+94	17aa, >2343Cancerppd... at 76.47%
+95	20aa, >2446Cancerppd... at 55.00%
+96	17aa, >2496Cancerppd... at 76.47%
+97	20aa, >2589Cancerppd... at 55.00%
+98	17aa, >2639Cancerppd... at 76.47%
+99	20aa, >2732Cancerppd... at 55.00%
+100	17aa, >2782Cancerppd... at 76.47%
+101	20aa, >3356Cancerppd... at 60.00%
+102	20aa, >3357Cancerppd... at 60.00%
+103	20aa, >3358Cancerppd... at 60.00%
+104	20aa, >3359Cancerppd... at 60.00%
+105	20aa, >3360Cancerppd... at 60.00%
+106	20aa, >3361Cancerppd... at 60.00%
+107	13aa, >3593Cancerppd... at 69.23%
+108	13aa, >3594Cancerppd... at 69.23%
+109	13aa, >3610Cancerppd... at 69.23%
+110	13aa, >3625Cancerppd... at 69.23%
+111	13aa, >3626Cancerppd... at 69.23%
+112	12aa, >3649Cancerppd... at 58.33%
+113	12aa, >3651Cancerppd... at 66.67%
+114	12aa, >3652Cancerppd... at 66.67%
+115	12aa, >3653Cancerppd... at 58.33%
+116	12aa, >3654Cancerppd... at 58.33%
+117	12aa, >3655Cancerppd... at 50.00%
+118	12aa, >3656Cancerppd... at 58.33%
+119	12aa, >3658Cancerppd... at 58.33%
+120	12aa, >3660Cancerppd... at 58.33%
+121	12aa, >3661Cancerppd... at 66.67%
+122	12aa, >3677Cancerppd... at 58.33%
+123	12aa, >3679Cancerppd... at 66.67%
+124	12aa, >3680Cancerppd... at 66.67%
+125	12aa, >3681Cancerppd... at 58.33%
+126	12aa, >3682Cancerppd... at 58.33%
+127	12aa, >3683Cancerppd... at 50.00%
+128	12aa, >3686Cancerppd... at 58.33%
+129	12aa, >3688Cancerppd... at 58.33%
+130	12aa, >3689Cancerppd... at 66.67%
+131	12aa, >3705Cancerppd... at 58.33%
+132	12aa, >3707Cancerppd... at 66.67%
+133	12aa, >3708Cancerppd... at 66.67%
+134	12aa, >3710Cancerppd... at 58.33%
+135	12aa, >3711Cancerppd... at 50.00%
+136	12aa, >3712Cancerppd... at 58.33%
+137	12aa, >3714Cancerppd... at 58.33%
+138	12aa, >3716Cancerppd... at 58.33%
+139	12aa, >3717Cancerppd... at 66.67%
+140	19aa, >DRAMP03829... at 73.68%
+141	20aa, >satpdb10005... at 60.00%
+142	33aa, >satpdb10341... *
+143	15aa, >satpdb10408... at 73.33%
+144	13aa, >satpdb10571... at 69.23%
+145	12aa, >satpdb11506... at 66.67%
+146	17aa, >satpdb11683... at 100.00%
+147	18aa, >satpdb12329... at 66.67%
+148	15aa, >satpdb12539... at 73.33%
+149	32aa, >satpdb13832... at 62.50%
+150	12aa, >satpdb14337... at 58.33%
+151	15aa, >satpdb15561... at 86.67%
+152	20aa, >satpdb16278... at 60.00%
+153	12aa, >satpdb16397... at 66.67%
+154	24aa, >satpdb16764... at 62.50%
+155	11aa, >satpdb17171... at 72.73%
+156	12aa, >satpdb17897... at 83.33%
+157	20aa, >satpdb18838... at 55.00%
+158	12aa, >satpdb19071... at 50.00%
+159	12aa, >satpdb19187... at 66.67%
+160	12aa, >satpdb19256... at 83.33%
+161	12aa, >satpdb20336... at 58.33%
+162	28aa, >satpdb21439... at 50.00%
+163	32aa, >satpdb21692... at 68.75%
+164	12aa, >satpdb22556... at 58.33%
+165	12aa, >satpdb23822... at 83.33%
+166	12aa, >satpdb24257... at 83.33%
+167	12aa, >satpdb25953... at 58.33%
+168	12aa, >satpdb26047... at 83.33%
+169	12aa, >satpdb26416... at 58.33%
+170	32aa, >satpdb26623... at 50.00%
+171	12aa, >satpdb27103... at 83.33%
+172	12aa, >satpdb27692... at 58.33%
+173	17aa, >satpdb28073... at 76.47%
+174	11aa, >satpdb28330... at 72.73%
+175	32aa, >satpdb28976... at 65.62%
+176	12aa, >satpdb29134... at 58.33%
+>Cluster 34
+0	13aa, >3489... at 53.85%
+1	13aa, >13159... at 53.85%
+2	7aa, >13166... at 57.14%
+3	18aa, >13650... at 55.56%
+4	27aa, >3032Cancerppd... at 100.00%
+5	27aa, >3033Cancerppd... at 100.00%
+6	27aa, >3034Cancerppd... at 100.00%
+7	27aa, >3035Cancerppd... at 100.00%
+8	27aa, >3036Cancerppd... at 100.00%
+9	27aa, >3037Cancerppd... at 100.00%
+10	27aa, >3038Cancerppd... at 100.00%
+11	27aa, >3039Cancerppd... at 100.00%
+12	27aa, >3040Cancerppd... at 100.00%
+13	27aa, >3041Cancerppd... at 100.00%
+14	27aa, >3042Cancerppd... at 100.00%
+15	27aa, >3043Cancerppd... at 100.00%
+16	27aa, >3044Cancerppd... at 100.00%
+17	27aa, >3045Cancerppd... at 100.00%
+18	27aa, >3046Cancerppd... at 100.00%
+19	27aa, >3047Cancerppd... at 100.00%
+20	27aa, >3048Cancerppd... at 100.00%
+21	27aa, >3049Cancerppd... at 100.00%
+22	27aa, >3050Cancerppd... at 100.00%
+23	27aa, >3051Cancerppd... at 100.00%
+24	27aa, >3052Cancerppd... at 100.00%
+25	27aa, >3053Cancerppd... at 100.00%
+26	27aa, >3054Cancerppd... at 100.00%
+27	27aa, >3055Cancerppd... at 100.00%
+28	27aa, >3056Cancerppd... at 100.00%
+29	27aa, >3057Cancerppd... at 100.00%
+30	27aa, >3058Cancerppd... at 100.00%
+31	27aa, >3059Cancerppd... at 100.00%
+32	27aa, >3060Cancerppd... at 100.00%
+33	27aa, >3061Cancerppd... at 100.00%
+34	27aa, >3062Cancerppd... at 100.00%
+35	27aa, >3063Cancerppd... at 100.00%
+36	27aa, >3064Cancerppd... at 100.00%
+37	27aa, >3065Cancerppd... at 100.00%
+38	27aa, >3066Cancerppd... at 100.00%
+39	27aa, >3067Cancerppd... at 100.00%
+40	27aa, >3068Cancerppd... at 100.00%
+41	27aa, >3069Cancerppd... at 100.00%
+42	27aa, >3070Cancerppd... at 100.00%
+43	27aa, >3071Cancerppd... at 100.00%
+44	33aa, >satpdb16778... *
+45	27aa, >satpdb20324... at 100.00%
+>Cluster 35
+0	12aa, >3268... at 50.00%
+1	12aa, >3269... at 58.33%
+2	12aa, >3275... at 58.33%
+3	28aa, >9012... at 50.00%
+4	28aa, >11805... at 60.71%
+5	13aa, >12944... at 61.54%
+6	13aa, >12945... at 61.54%
+7	13aa, >12946... at 61.54%
+8	13aa, >12947... at 61.54%
+9	13aa, >14031... at 61.54%
+10	13aa, >14032... at 76.92%
+11	13aa, >14033... at 76.92%
+12	13aa, >14034... at 76.92%
+13	13aa, >14035... at 61.54%
+14	25aa, >14233... at 80.00%
+15	25aa, >14234... at 76.00%
+16	13aa, >16008... at 53.85%
+17	13aa, >1848Cancerppd... at 53.85%
+18	13aa, >2000Cancerppd... at 53.85%
+19	13aa, >2152Cancerppd... at 53.85%
+20	13aa, >2304Cancerppd... at 53.85%
+21	13aa, >2457Cancerppd... at 53.85%
+22	13aa, >2600Cancerppd... at 53.85%
+23	13aa, >2743Cancerppd... at 53.85%
+24	12aa, >3637Cancerppd... at 50.00%
+25	12aa, >3638Cancerppd... at 58.33%
+26	12aa, >3644Cancerppd... at 58.33%
+27	12aa, >3665Cancerppd... at 50.00%
+28	12aa, >3666Cancerppd... at 58.33%
+29	12aa, >3672Cancerppd... at 58.33%
+30	12aa, >3693Cancerppd... at 50.00%
+31	12aa, >3694Cancerppd... at 58.33%
+32	12aa, >3700Cancerppd... at 58.33%
+33	16aa, >4066Cancerppd... at 50.00%
+34	22aa, >4477Cancerppd... at 50.00%
+35	22aa, >4487Cancerppd... at 50.00%
+36	22aa, >4497Cancerppd... at 50.00%
+37	12aa, >satpdb12302... at 58.33%
+38	12aa, >satpdb13387... at 58.33%
+39	32aa, >satpdb14378... at 59.38%
+40	12aa, >satpdb15627... at 50.00%
+41	22aa, >satpdb17386... at 50.00%
+42	33aa, >satpdb17836... *
+43	13aa, >satpdb17852... at 53.85%
+44	16aa, >satpdb20458... at 50.00%
+45	33aa, >satpdb20947... at 100.00%
+46	32aa, >satpdb24624... at 59.38%
+>Cluster 36
+0	16aa, >780... at 68.75%
+1	16aa, >1253... at 62.50%
+2	9aa, >3238... at 55.56%
+3	9aa, >3239... at 55.56%
+4	13aa, >12132... at 53.85%
+5	25aa, >12878... at 56.00%
+6	16aa, >1261Cancerppd... at 62.50%
+7	16aa, >1262Cancerppd... at 62.50%
+8	16aa, >1263Cancerppd... at 62.50%
+9	16aa, >1264Cancerppd... at 62.50%
+10	16aa, >1265Cancerppd... at 62.50%
+11	16aa, >1266Cancerppd... at 62.50%
+12	16aa, >1267Cancerppd... at 62.50%
+13	16aa, >1268Cancerppd... at 62.50%
+14	16aa, >1269Cancerppd... at 62.50%
+15	16aa, >1270Cancerppd... at 68.75%
+16	16aa, >1271Cancerppd... at 68.75%
+17	16aa, >1272Cancerppd... at 68.75%
+18	16aa, >1273Cancerppd... at 68.75%
+19	16aa, >1274Cancerppd... at 68.75%
+20	16aa, >1275Cancerppd... at 68.75%
+21	16aa, >1276Cancerppd... at 68.75%
+22	16aa, >1277Cancerppd... at 68.75%
+23	16aa, >1278Cancerppd... at 68.75%
+24	16aa, >1421Cancerppd... at 50.00%
+25	16aa, >1422Cancerppd... at 50.00%
+26	16aa, >4030Cancerppd... at 50.00%
+27	16aa, >4031Cancerppd... at 50.00%
+28	16aa, >4032Cancerppd... at 50.00%
+29	16aa, >4033Cancerppd... at 50.00%
+30	16aa, >4034Cancerppd... at 50.00%
+31	16aa, >4035Cancerppd... at 50.00%
+32	16aa, >4036Cancerppd... at 50.00%
+33	16aa, >4037Cancerppd... at 50.00%
+34	16aa, >4038Cancerppd... at 50.00%
+35	16aa, >4102Cancerppd... at 50.00%
+36	16aa, >4103Cancerppd... at 50.00%
+37	16aa, >4104Cancerppd... at 50.00%
+38	16aa, >4105Cancerppd... at 50.00%
+39	16aa, >4106Cancerppd... at 50.00%
+40	16aa, >4107Cancerppd... at 50.00%
+41	16aa, >4108Cancerppd... at 50.00%
+42	16aa, >4109Cancerppd... at 50.00%
+43	16aa, >4110Cancerppd... at 50.00%
+44	9aa, >DRAMP01064... at 55.56%
+45	16aa, >DRAMP01608... at 56.25%
+46	16aa, >DRAMP01612... at 62.50%
+47	16aa, >DRAMP01613... at 68.75%
+48	16aa, >DRAMP01609... at 62.50%
+49	16aa, >DRAMP01611... at 68.75%
+50	25aa, >DRAMP01978... at 52.00%
+51	25aa, >satpdb11185... at 56.00%
+52	16aa, >satpdb11279... at 50.00%
+53	16aa, >satpdb11579... at 68.75%
+54	16aa, >satpdb12368... at 56.25%
+55	16aa, >satpdb12727... at 50.00%
+56	8aa, >satpdb12937... at 62.50%
+57	16aa, >satpdb14797... at 50.00%
+58	16aa, >satpdb16241... at 56.25%
+59	9aa, >satpdb20198... at 55.56%
+60	13aa, >satpdb21776... at 69.23%
+61	16aa, >satpdb22560... at 68.75%
+62	33aa, >satpdb22855... *
+63	16aa, >satpdb22932... at 50.00%
+64	16aa, >satpdb26138... at 68.75%
+65	16aa, >satpdb26351... at 62.50%
+66	16aa, >satpdb27270... at 62.50%
+67	16aa, >satpdb27347... at 62.50%
+68	16aa, >satpdb28907... at 56.25%
+>Cluster 37
+0	30aa, >1740... at 73.33%
+1	30aa, >2452... at 76.67%
+2	30aa, >2971... at 83.33%
+3	30aa, >4276... at 73.33%
+4	30aa, >4278... at 76.67%
+5	28aa, >4286... at 82.14%
+6	29aa, >4287... at 68.97%
+7	28aa, >4289... at 71.43%
+8	28aa, >4290... at 71.43%
+9	28aa, >4302... at 64.29%
+10	30aa, >4486... at 70.00%
+11	30aa, >4488... at 66.67%
+12	30aa, >10528... at 73.33%
+13	30aa, >10531... at 76.67%
+14	30aa, >DRAMP00795... at 76.67%
+15	30aa, >DRAMP00798... at 73.33%
+16	32aa, >DRAMP00768... *
+17	28aa, >DRAMP00771... at 64.29%
+18	31aa, >DRAMP00773... at 64.52%
+19	30aa, >DRAMP00775... at 66.67%
+20	31aa, >DRAMP00776... at 64.52%
+21	31aa, >DRAMP00777... at 64.52%
+22	31aa, >DRAMP00778... at 67.74%
+23	30aa, >DRAMP00779... at 66.67%
+24	31aa, >DRAMP00780... at 61.29%
+25	30aa, >satpdb11126... at 76.67%
+26	31aa, >satpdb11152... at 61.29%
+27	31aa, >satpdb11878... at 67.74%
+28	30aa, >satpdb11901... at 66.67%
+29	31aa, >satpdb12166... at 77.42%
+30	31aa, >satpdb13022... at 67.74%
+31	30aa, >satpdb13262... at 66.67%
+32	30aa, >satpdb13568... at 73.33%
+33	30aa, >satpdb13580... at 73.33%
+34	31aa, >satpdb13794... at 67.74%
+35	28aa, >satpdb15499... at 71.43%
+36	31aa, >satpdb16047... at 61.29%
+37	31aa, >satpdb16488... at 64.52%
+38	28aa, >satpdb16762... at 82.14%
+39	31aa, >satpdb18159... at 64.52%
+40	31aa, >satpdb18704... at 64.52%
+41	31aa, >satpdb18867... at 61.29%
+42	31aa, >satpdb19809... at 77.42%
+43	30aa, >satpdb20186... at 73.33%
+44	30aa, >satpdb20265... at 66.67%
+45	31aa, >satpdb20950... at 64.52%
+46	29aa, >satpdb21346... at 68.97%
+47	28aa, >satpdb21477... at 64.29%
+48	30aa, >satpdb22018... at 76.67%
+49	31aa, >satpdb22799... at 67.74%
+50	32aa, >satpdb23156... at 100.00%
+51	30aa, >satpdb23160... at 73.33%
+52	31aa, >satpdb23363... at 64.52%
+53	31aa, >satpdb25370... at 61.29%
+54	31aa, >satpdb26086... at 80.65%
+55	32aa, >satpdb27188... at 100.00%
+56	30aa, >satpdb27596... at 83.33%
+57	30aa, >satpdb28302... at 73.33%
+58	31aa, >satpdb28674... at 64.52%
+59	28aa, >satpdb29075... at 71.43%
+>Cluster 38
+0	23aa, >1416... at 78.26%
+1	18aa, >1417... at 100.00%
+2	23aa, >1418... at 73.91%
+3	17aa, >1419... at 100.00%
+4	13aa, >1421... at 84.62%
+5	13aa, >1422... at 76.92%
+6	20aa, >2358... at 55.00%
+7	10aa, >2913... at 80.00%
+8	10aa, >2931... at 70.00%
+9	10aa, >2934... at 70.00%
+10	10aa, >3020... at 60.00%
+11	10aa, >3045... at 60.00%
+12	10aa, >3046... at 70.00%
+13	10aa, >3048... at 70.00%
+14	10aa, >3062... at 80.00%
+15	10aa, >3064... at 70.00%
+16	16aa, >4365... at 50.00%
+17	16aa, >4366... at 50.00%
+18	16aa, >4374... at 50.00%
+19	16aa, >4375... at 50.00%
+20	25aa, >4499... at 64.00%
+21	25aa, >4500... at 60.00%
+22	25aa, >4501... at 64.00%
+23	25aa, >4502... at 64.00%
+24	25aa, >4503... at 52.00%
+25	25aa, >4504... at 56.00%
+26	25aa, >4505... at 60.00%
+27	18aa, >5220... at 66.67%
+28	18aa, >5222... at 61.11%
+29	15aa, >5276... at 53.33%
+30	14aa, >6855... at 85.71%
+31	24aa, >8814... at 50.00%
+32	11aa, >10306... at 81.82%
+33	16aa, >10332... at 56.25%
+34	24aa, >11337... at 50.00%
+35	9aa, >11895... at 55.56%
+36	23aa, >13330... at 69.57%
+37	21aa, >13343... at 71.43%
+38	28aa, >13373... at 60.71%
+39	28aa, >13374... at 53.57%
+40	22aa, >13398... at 50.00%
+41	24aa, >13399... at 54.17%
+42	22aa, >13404... at 72.73%
+43	18aa, >14291... at 55.56%
+44	19aa, >14301... at 100.00%
+45	23aa, >14302... at 78.26%
+46	21aa, >15133... at 61.90%
+47	21aa, >15134... at 52.38%
+48	21aa, >15135... at 57.14%
+49	21aa, >15136... at 57.14%
+50	21aa, >15137... at 61.90%
+51	21aa, >15139... at 57.14%
+52	21aa, >15140... at 61.90%
+53	21aa, >15142... at 57.14%
+54	23aa, >15918... at 100.00%
+55	19aa, >15920... at 100.00%
+56	15aa, >15924... at 100.00%
+57	15aa, >15925... at 93.33%
+58	19aa, >15927... at 94.74%
+59	15aa, >15928... at 93.33%
+60	14aa, >15929... at 100.00%
+61	15aa, >15930... at 93.33%
+62	13aa, >15942... at 69.23%
+63	12aa, >15943... at 91.67%
+64	17aa, >15944... at 88.24%
+65	13aa, >15945... at 84.62%
+66	13aa, >15946... at 61.54%
+67	10aa, >15947... at 80.00%
+68	10aa, >15948... at 80.00%
+69	10aa, >15949... at 90.00%
+70	9aa, >15950... at 88.89%
+71	17aa, >15951... at 100.00%
+72	13aa, >15953... at 76.92%
+73	13aa, >15954... at 84.62%
+74	22aa, >15955... at 81.82%
+75	22aa, >15956... at 81.82%
+76	13aa, >15958... at 76.92%
+77	13aa, >15959... at 84.62%
+78	14aa, >15960... at 92.86%
+79	15aa, >15961... at 93.33%
+80	12aa, >15962... at 91.67%
+81	23aa, >15963... at 69.57%
+82	13aa, >15965... at 84.62%
+83	13aa, >15974... at 84.62%
+84	13aa, >15975... at 69.23%
+85	13aa, >15976... at 76.92%
+86	23aa, >15979... at 73.91%
+87	13aa, >15980... at 76.92%
+88	13aa, >15981... at 69.23%
+89	12aa, >15982... at 83.33%
+90	12aa, >15984... at 100.00%
+91	16aa, >15986... at 81.25%
+92	12aa, >15987... at 66.67%
+93	13aa, >15988... at 69.23%
+94	13aa, >15989... at 61.54%
+95	13aa, >15995... at 69.23%
+96	13aa, >16007... at 61.54%
+97	13aa, >16009... at 69.23%
+98	14aa, >16010... at 71.43%
+99	14aa, >16011... at 78.57%
+100	14aa, >16012... at 71.43%
+101	13aa, >16013... at 61.54%
+102	10aa, >16014... at 90.00%
+103	13aa, >16015... at 76.92%
+104	13aa, >16016... at 76.92%
+105	12aa, >16018... at 83.33%
+106	12aa, >16019... at 83.33%
+107	15aa, >1135Cancerppd... at 53.33%
+108	15aa, >1157Cancerppd... at 53.33%
+109	15aa, >1179Cancerppd... at 53.33%
+110	14aa, >1709Cancerppd... at 85.71%
+111	23aa, >1777Cancerppd... at 100.00%
+112	23aa, >1778Cancerppd... at 78.26%
+113	23aa, >1779Cancerppd... at 73.91%
+114	23aa, >1780Cancerppd... at 78.26%
+115	21aa, >1781Cancerppd... at 71.43%
+116	19aa, >1784Cancerppd... at 100.00%
+117	17aa, >1787Cancerppd... at 100.00%
+118	19aa, >1788Cancerppd... at 100.00%
+119	15aa, >1791Cancerppd... at 93.33%
+120	19aa, >1793Cancerppd... at 94.74%
+121	13aa, >1795Cancerppd... at 84.62%
+122	15aa, >1796Cancerppd... at 93.33%
+123	14aa, >1797Cancerppd... at 100.00%
+124	15aa, >1798Cancerppd... at 93.33%
+125	13aa, >1800Cancerppd... at 69.23%
+126	12aa, >1801Cancerppd... at 91.67%
+127	17aa, >1802Cancerppd... at 88.24%
+128	13aa, >1804Cancerppd... at 84.62%
+129	13aa, >1805Cancerppd... at 76.92%
+130	13aa, >1806Cancerppd... at 61.54%
+131	10aa, >1807Cancerppd... at 80.00%
+132	10aa, >1808Cancerppd... at 80.00%
+133	10aa, >1809Cancerppd... at 90.00%
+134	9aa, >1810Cancerppd... at 88.89%
+135	17aa, >1811Cancerppd... at 100.00%
+136	13aa, >1814Cancerppd... at 76.92%
+137	13aa, >1815Cancerppd... at 84.62%
+138	22aa, >1816Cancerppd... at 81.82%
+139	18aa, >1817Cancerppd... at 100.00%
+140	22aa, >1818Cancerppd... at 81.82%
+141	13aa, >1820Cancerppd... at 76.92%
+142	13aa, >1821Cancerppd... at 84.62%
+143	14aa, >1822Cancerppd... at 92.86%
+144	15aa, >1823Cancerppd... at 93.33%
+145	12aa, >1824Cancerppd... at 91.67%
+146	23aa, >1825Cancerppd... at 69.57%
+147	13aa, >1828Cancerppd... at 84.62%
+148	13aa, >1829Cancerppd... at 69.23%
+149	13aa, >1830Cancerppd... at 76.92%
+150	23aa, >1833Cancerppd... at 73.91%
+151	13aa, >1834Cancerppd... at 76.92%
+152	13aa, >1835Cancerppd... at 69.23%
+153	12aa, >1836Cancerppd... at 83.33%
+154	12aa, >1839Cancerppd... at 100.00%
+155	16aa, >1842Cancerppd... at 81.25%
+156	12aa, >1843Cancerppd... at 66.67%
+157	13aa, >1844Cancerppd... at 69.23%
+158	13aa, >1845Cancerppd... at 61.54%
+159	13aa, >1846Cancerppd... at 69.23%
+160	13aa, >1847Cancerppd... at 61.54%
+161	13aa, >1849Cancerppd... at 69.23%
+162	14aa, >1850Cancerppd... at 71.43%
+163	14aa, >1851Cancerppd... at 78.57%
+164	14aa, >1852Cancerppd... at 71.43%
+165	13aa, >1853Cancerppd... at 61.54%
+166	10aa, >1854Cancerppd... at 90.00%
+167	13aa, >1855Cancerppd... at 76.92%
+168	13aa, >1856Cancerppd... at 76.92%
+169	13aa, >1857Cancerppd... at 76.92%
+170	13aa, >1858Cancerppd... at 76.92%
+171	12aa, >1867Cancerppd... at 83.33%
+172	16aa, >1870Cancerppd... at 56.25%
+173	7aa, >1872Cancerppd... at 85.71%
+174	12aa, >1873Cancerppd... at 66.67%
+175	12aa, >1874Cancerppd... at 66.67%
+176	12aa, >1875Cancerppd... at 83.33%
+177	13aa, >1877Cancerppd... at 69.23%
+178	13aa, >1879Cancerppd... at 69.23%
+179	11aa, >1882Cancerppd... at 90.91%
+180	13aa, >1883Cancerppd... at 76.92%
+181	17aa, >1884Cancerppd... at 58.82%
+182	13aa, >1886Cancerppd... at 76.92%
+183	16aa, >1889Cancerppd... at 81.25%
+184	16aa, >1890Cancerppd... at 81.25%
+185	11aa, >1891Cancerppd... at 81.82%
+186	12aa, >1893Cancerppd... at 83.33%
+187	10aa, >1895Cancerppd... at 70.00%
+188	10aa, >1896Cancerppd... at 80.00%
+189	11aa, >1897Cancerppd... at 81.82%
+190	11aa, >1900Cancerppd... at 81.82%
+191	12aa, >1901Cancerppd... at 75.00%
+192	11aa, >1903Cancerppd... at 81.82%
+193	11aa, >1904Cancerppd... at 81.82%
+194	10aa, >1905Cancerppd... at 70.00%
+195	10aa, >1906Cancerppd... at 70.00%
+196	23aa, >1910Cancerppd... at 69.57%
+197	23aa, >1914Cancerppd... at 91.30%
+198	19aa, >1915Cancerppd... at 100.00%
+199	13aa, >1916Cancerppd... at 61.54%
+200	23aa, >1917Cancerppd... at 65.22%
+201	19aa, >1918Cancerppd... at 89.47%
+202	15aa, >1919Cancerppd... at 86.67%
+203	13aa, >1920Cancerppd... at 69.23%
+204	23aa, >1923Cancerppd... at 65.22%
+205	13aa, >1924Cancerppd... at 84.62%
+206	23aa, >1929Cancerppd... at 100.00%
+207	23aa, >1930Cancerppd... at 78.26%
+208	23aa, >1931Cancerppd... at 73.91%
+209	23aa, >1932Cancerppd... at 78.26%
+210	21aa, >1933Cancerppd... at 71.43%
+211	19aa, >1936Cancerppd... at 100.00%
+212	17aa, >1939Cancerppd... at 100.00%
+213	19aa, >1940Cancerppd... at 100.00%
+214	15aa, >1942Cancerppd... at 100.00%
+215	19aa, >1945Cancerppd... at 94.74%
+216	13aa, >1947Cancerppd... at 84.62%
+217	15aa, >1948Cancerppd... at 93.33%
+218	14aa, >1949Cancerppd... at 100.00%
+219	15aa, >1950Cancerppd... at 93.33%
+220	13aa, >1952Cancerppd... at 69.23%
+221	12aa, >1953Cancerppd... at 91.67%
+222	17aa, >1954Cancerppd... at 88.24%
+223	13aa, >1956Cancerppd... at 84.62%
+224	13aa, >1957Cancerppd... at 76.92%
+225	13aa, >1958Cancerppd... at 61.54%
+226	10aa, >1959Cancerppd... at 80.00%
+227	10aa, >1960Cancerppd... at 80.00%
+228	10aa, >1961Cancerppd... at 90.00%
+229	9aa, >1962Cancerppd... at 88.89%
+230	17aa, >1963Cancerppd... at 100.00%
+231	13aa, >1966Cancerppd... at 76.92%
+232	13aa, >1967Cancerppd... at 84.62%
+233	22aa, >1968Cancerppd... at 81.82%
+234	18aa, >1969Cancerppd... at 100.00%
+235	22aa, >1970Cancerppd... at 81.82%
+236	13aa, >1972Cancerppd... at 76.92%
+237	13aa, >1973Cancerppd... at 84.62%
+238	14aa, >1974Cancerppd... at 92.86%
+239	15aa, >1975Cancerppd... at 93.33%
+240	12aa, >1976Cancerppd... at 91.67%
+241	23aa, >1977Cancerppd... at 69.57%
+242	13aa, >1980Cancerppd... at 84.62%
+243	13aa, >1981Cancerppd... at 69.23%
+244	13aa, >1982Cancerppd... at 76.92%
+245	23aa, >1985Cancerppd... at 73.91%
+246	13aa, >1986Cancerppd... at 76.92%
+247	13aa, >1987Cancerppd... at 69.23%
+248	12aa, >1988Cancerppd... at 83.33%
+249	12aa, >1991Cancerppd... at 100.00%
+250	16aa, >1994Cancerppd... at 81.25%
+251	12aa, >1995Cancerppd... at 66.67%
+252	13aa, >1996Cancerppd... at 69.23%
+253	13aa, >1997Cancerppd... at 61.54%
+254	13aa, >1998Cancerppd... at 69.23%
+255	13aa, >1999Cancerppd... at 61.54%
+256	13aa, >2001Cancerppd... at 69.23%
+257	14aa, >2002Cancerppd... at 71.43%
+258	14aa, >2003Cancerppd... at 78.57%
+259	14aa, >2004Cancerppd... at 71.43%
+260	13aa, >2005Cancerppd... at 61.54%
+261	10aa, >2006Cancerppd... at 90.00%
+262	13aa, >2007Cancerppd... at 76.92%
+263	13aa, >2008Cancerppd... at 76.92%
+264	13aa, >2009Cancerppd... at 76.92%
+265	13aa, >2010Cancerppd... at 76.92%
+266	12aa, >2019Cancerppd... at 83.33%
+267	16aa, >2022Cancerppd... at 56.25%
+268	7aa, >2024Cancerppd... at 85.71%
+269	12aa, >2025Cancerppd... at 66.67%
+270	12aa, >2026Cancerppd... at 66.67%
+271	12aa, >2027Cancerppd... at 83.33%
+272	13aa, >2029Cancerppd... at 69.23%
+273	13aa, >2031Cancerppd... at 69.23%
+274	11aa, >2034Cancerppd... at 90.91%
+275	13aa, >2035Cancerppd... at 76.92%
+276	17aa, >2036Cancerppd... at 58.82%
+277	13aa, >2038Cancerppd... at 76.92%
+278	16aa, >2041Cancerppd... at 81.25%
+279	16aa, >2042Cancerppd... at 81.25%
+280	12aa, >2045Cancerppd... at 83.33%
+281	10aa, >2047Cancerppd... at 70.00%
+282	10aa, >2048Cancerppd... at 80.00%
+283	11aa, >2049Cancerppd... at 81.82%
+284	11aa, >2052Cancerppd... at 81.82%
+285	12aa, >2053Cancerppd... at 75.00%
+286	11aa, >2055Cancerppd... at 81.82%
+287	11aa, >2056Cancerppd... at 81.82%
+288	10aa, >2057Cancerppd... at 70.00%
+289	10aa, >2058Cancerppd... at 70.00%
+290	23aa, >2062Cancerppd... at 69.57%
+291	23aa, >2066Cancerppd... at 91.30%
+292	19aa, >2067Cancerppd... at 100.00%
+293	13aa, >2068Cancerppd... at 61.54%
+294	23aa, >2069Cancerppd... at 65.22%
+295	19aa, >2070Cancerppd... at 100.00%
+296	15aa, >2071Cancerppd... at 100.00%
+297	13aa, >2072Cancerppd... at 69.23%
+298	23aa, >2075Cancerppd... at 78.26%
+299	13aa, >2076Cancerppd... at 84.62%
+300	23aa, >2081Cancerppd... at 100.00%
+301	23aa, >2082Cancerppd... at 78.26%
+302	23aa, >2083Cancerppd... at 73.91%
+303	23aa, >2084Cancerppd... at 78.26%
+304	21aa, >2085Cancerppd... at 71.43%
+305	19aa, >2088Cancerppd... at 100.00%
+306	17aa, >2091Cancerppd... at 100.00%
+307	19aa, >2092Cancerppd... at 100.00%
+308	15aa, >2094Cancerppd... at 100.00%
+309	15aa, >2095Cancerppd... at 93.33%
+310	19aa, >2097Cancerppd... at 94.74%
+311	13aa, >2099Cancerppd... at 84.62%
+312	15aa, >2100Cancerppd... at 93.33%
+313	14aa, >2101Cancerppd... at 100.00%
+314	15aa, >2102Cancerppd... at 93.33%
+315	13aa, >2104Cancerppd... at 69.23%
+316	12aa, >2105Cancerppd... at 91.67%
+317	17aa, >2106Cancerppd... at 88.24%
+318	13aa, >2108Cancerppd... at 84.62%
+319	13aa, >2109Cancerppd... at 76.92%
+320	13aa, >2110Cancerppd... at 61.54%
+321	10aa, >2111Cancerppd... at 80.00%
+322	10aa, >2112Cancerppd... at 80.00%
+323	10aa, >2113Cancerppd... at 90.00%
+324	9aa, >2114Cancerppd... at 88.89%
+325	17aa, >2115Cancerppd... at 100.00%
+326	13aa, >2118Cancerppd... at 76.92%
+327	13aa, >2119Cancerppd... at 84.62%
+328	22aa, >2120Cancerppd... at 81.82%
+329	18aa, >2121Cancerppd... at 100.00%
+330	22aa, >2122Cancerppd... at 81.82%
+331	13aa, >2124Cancerppd... at 76.92%
+332	13aa, >2125Cancerppd... at 84.62%
+333	14aa, >2126Cancerppd... at 92.86%
+334	15aa, >2127Cancerppd... at 93.33%
+335	12aa, >2128Cancerppd... at 91.67%
+336	23aa, >2129Cancerppd... at 69.57%
+337	13aa, >2132Cancerppd... at 84.62%
+338	13aa, >2133Cancerppd... at 69.23%
+339	13aa, >2134Cancerppd... at 76.92%
+340	23aa, >2137Cancerppd... at 73.91%
+341	13aa, >2138Cancerppd... at 76.92%
+342	13aa, >2139Cancerppd... at 69.23%
+343	12aa, >2140Cancerppd... at 83.33%
+344	12aa, >2143Cancerppd... at 100.00%
+345	16aa, >2146Cancerppd... at 81.25%
+346	12aa, >2147Cancerppd... at 66.67%
+347	13aa, >2148Cancerppd... at 69.23%
+348	13aa, >2149Cancerppd... at 61.54%
+349	13aa, >2150Cancerppd... at 69.23%
+350	13aa, >2151Cancerppd... at 61.54%
+351	13aa, >2153Cancerppd... at 69.23%
+352	14aa, >2154Cancerppd... at 71.43%
+353	14aa, >2155Cancerppd... at 78.57%
+354	14aa, >2156Cancerppd... at 71.43%
+355	13aa, >2157Cancerppd... at 61.54%
+356	10aa, >2158Cancerppd... at 90.00%
+357	13aa, >2159Cancerppd... at 76.92%
+358	13aa, >2160Cancerppd... at 76.92%
+359	13aa, >2161Cancerppd... at 76.92%
+360	13aa, >2162Cancerppd... at 76.92%
+361	12aa, >2171Cancerppd... at 83.33%
+362	16aa, >2174Cancerppd... at 56.25%
+363	7aa, >2176Cancerppd... at 85.71%
+364	12aa, >2177Cancerppd... at 66.67%
+365	12aa, >2178Cancerppd... at 66.67%
+366	12aa, >2179Cancerppd... at 83.33%
+367	13aa, >2181Cancerppd... at 69.23%
+368	13aa, >2183Cancerppd... at 69.23%
+369	11aa, >2186Cancerppd... at 90.91%
+370	13aa, >2187Cancerppd... at 76.92%
+371	17aa, >2188Cancerppd... at 58.82%
+372	13aa, >2190Cancerppd... at 76.92%
+373	16aa, >2193Cancerppd... at 81.25%
+374	16aa, >2194Cancerppd... at 81.25%
+375	11aa, >2195Cancerppd... at 81.82%
+376	12aa, >2197Cancerppd... at 83.33%
+377	10aa, >2199Cancerppd... at 70.00%
+378	10aa, >2200Cancerppd... at 80.00%
+379	11aa, >2201Cancerppd... at 81.82%
+380	11aa, >2204Cancerppd... at 81.82%
+381	12aa, >2205Cancerppd... at 75.00%
+382	11aa, >2207Cancerppd... at 81.82%
+383	11aa, >2208Cancerppd... at 81.82%
+384	10aa, >2209Cancerppd... at 70.00%
+385	10aa, >2210Cancerppd... at 70.00%
+386	23aa, >2214Cancerppd... at 69.57%
+387	23aa, >2218Cancerppd... at 91.30%
+388	13aa, >2220Cancerppd... at 61.54%
+389	23aa, >2221Cancerppd... at 65.22%
+390	19aa, >2222Cancerppd... at 89.47%
+391	15aa, >2223Cancerppd... at 86.67%
+392	13aa, >2224Cancerppd... at 69.23%
+393	23aa, >2227Cancerppd... at 78.26%
+394	13aa, >2228Cancerppd... at 84.62%
+395	23aa, >2233Cancerppd... at 100.00%
+396	23aa, >2234Cancerppd... at 78.26%
+397	23aa, >2235Cancerppd... at 73.91%
+398	23aa, >2236Cancerppd... at 78.26%
+399	21aa, >2237Cancerppd... at 71.43%
+400	19aa, >2240Cancerppd... at 100.00%
+401	17aa, >2243Cancerppd... at 100.00%
+402	19aa, >2244Cancerppd... at 100.00%
+403	15aa, >2246Cancerppd... at 100.00%
+404	15aa, >2247Cancerppd... at 93.33%
+405	13aa, >2251Cancerppd... at 84.62%
+406	15aa, >2252Cancerppd... at 93.33%
+407	14aa, >2253Cancerppd... at 100.00%
+408	15aa, >2254Cancerppd... at 93.33%
+409	13aa, >2256Cancerppd... at 69.23%
+410	12aa, >2257Cancerppd... at 91.67%
+411	17aa, >2258Cancerppd... at 88.24%
+412	13aa, >2260Cancerppd... at 84.62%
+413	13aa, >2261Cancerppd... at 76.92%
+414	13aa, >2262Cancerppd... at 61.54%
+415	10aa, >2263Cancerppd... at 80.00%
+416	10aa, >2264Cancerppd... at 80.00%
+417	10aa, >2265Cancerppd... at 90.00%
+418	9aa, >2266Cancerppd... at 88.89%
+419	17aa, >2267Cancerppd... at 100.00%
+420	13aa, >2270Cancerppd... at 76.92%
+421	13aa, >2271Cancerppd... at 84.62%
+422	22aa, >2272Cancerppd... at 81.82%
+423	18aa, >2273Cancerppd... at 100.00%
+424	22aa, >2274Cancerppd... at 81.82%
+425	13aa, >2276Cancerppd... at 76.92%
+426	13aa, >2277Cancerppd... at 84.62%
+427	14aa, >2278Cancerppd... at 92.86%
+428	15aa, >2279Cancerppd... at 93.33%
+429	12aa, >2280Cancerppd... at 91.67%
+430	23aa, >2281Cancerppd... at 69.57%
+431	13aa, >2284Cancerppd... at 84.62%
+432	13aa, >2285Cancerppd... at 69.23%
+433	13aa, >2286Cancerppd... at 76.92%
+434	23aa, >2289Cancerppd... at 73.91%
+435	13aa, >2290Cancerppd... at 76.92%
+436	13aa, >2291Cancerppd... at 69.23%
+437	12aa, >2292Cancerppd... at 83.33%
+438	12aa, >2295Cancerppd... at 100.00%
+439	16aa, >2298Cancerppd... at 81.25%
+440	12aa, >2299Cancerppd... at 66.67%
+441	13aa, >2300Cancerppd... at 69.23%
+442	13aa, >2301Cancerppd... at 61.54%
+443	13aa, >2302Cancerppd... at 69.23%
+444	13aa, >2303Cancerppd... at 61.54%
+445	13aa, >2305Cancerppd... at 69.23%
+446	14aa, >2306Cancerppd... at 71.43%
+447	14aa, >2307Cancerppd... at 78.57%
+448	14aa, >2308Cancerppd... at 71.43%
+449	13aa, >2309Cancerppd... at 61.54%
+450	10aa, >2310Cancerppd... at 90.00%
+451	13aa, >2311Cancerppd... at 76.92%
+452	13aa, >2312Cancerppd... at 76.92%
+453	13aa, >2313Cancerppd... at 76.92%
+454	13aa, >2314Cancerppd... at 76.92%
+455	12aa, >2323Cancerppd... at 83.33%
+456	16aa, >2326Cancerppd... at 56.25%
+457	7aa, >2328Cancerppd... at 85.71%
+458	12aa, >2329Cancerppd... at 66.67%
+459	12aa, >2330Cancerppd... at 66.67%
+460	12aa, >2331Cancerppd... at 83.33%
+461	13aa, >2333Cancerppd... at 69.23%
+462	13aa, >2335Cancerppd... at 69.23%
+463	11aa, >2338Cancerppd... at 90.91%
+464	13aa, >2339Cancerppd... at 76.92%
+465	17aa, >2340Cancerppd... at 58.82%
+466	13aa, >2342Cancerppd... at 76.92%
+467	16aa, >2345Cancerppd... at 81.25%
+468	16aa, >2346Cancerppd... at 81.25%
+469	11aa, >2347Cancerppd... at 81.82%
+470	12aa, >2349Cancerppd... at 83.33%
+471	10aa, >2351Cancerppd... at 70.00%
+472	10aa, >2352Cancerppd... at 80.00%
+473	11aa, >2353Cancerppd... at 81.82%
+474	11aa, >2356Cancerppd... at 81.82%
+475	12aa, >2357Cancerppd... at 75.00%
+476	11aa, >2359Cancerppd... at 81.82%
+477	11aa, >2360Cancerppd... at 81.82%
+478	10aa, >2361Cancerppd... at 70.00%
+479	10aa, >2362Cancerppd... at 70.00%
+480	23aa, >2366Cancerppd... at 69.57%
+481	23aa, >2370Cancerppd... at 91.30%
+482	13aa, >2372Cancerppd... at 61.54%
+483	23aa, >2373Cancerppd... at 65.22%
+484	19aa, >2374Cancerppd... at 89.47%
+485	15aa, >2375Cancerppd... at 86.67%
+486	13aa, >2376Cancerppd... at 69.23%
+487	23aa, >2379Cancerppd... at 65.22%
+488	13aa, >2380Cancerppd... at 84.62%
+489	23aa, >2385Cancerppd... at 100.00%
+490	23aa, >2386Cancerppd... at 78.26%
+491	23aa, >2387Cancerppd... at 73.91%
+492	23aa, >2388Cancerppd... at 78.26%
+493	21aa, >2389Cancerppd... at 71.43%
+494	19aa, >2392Cancerppd... at 100.00%
+495	17aa, >2395Cancerppd... at 100.00%
+496	19aa, >2396Cancerppd... at 100.00%
+497	15aa, >2398Cancerppd... at 100.00%
+498	15aa, >2399Cancerppd... at 93.33%
+499	19aa, >2401Cancerppd... at 94.74%
+500	13aa, >2403Cancerppd... at 84.62%
+501	15aa, >2404Cancerppd... at 93.33%
+502	14aa, >2405Cancerppd... at 100.00%
+503	15aa, >2406Cancerppd... at 93.33%
+504	13aa, >2408Cancerppd... at 69.23%
+505	12aa, >2409Cancerppd... at 91.67%
+506	17aa, >2410Cancerppd... at 88.24%
+507	13aa, >2412Cancerppd... at 84.62%
+508	13aa, >2413Cancerppd... at 76.92%
+509	13aa, >2414Cancerppd... at 61.54%
+510	10aa, >2415Cancerppd... at 80.00%
+511	10aa, >2416Cancerppd... at 80.00%
+512	10aa, >2417Cancerppd... at 90.00%
+513	9aa, >2418Cancerppd... at 88.89%
+514	17aa, >2419Cancerppd... at 100.00%
+515	13aa, >2422Cancerppd... at 76.92%
+516	13aa, >2423Cancerppd... at 84.62%
+517	22aa, >2424Cancerppd... at 81.82%
+518	18aa, >2425Cancerppd... at 100.00%
+519	22aa, >2426Cancerppd... at 81.82%
+520	13aa, >2428Cancerppd... at 76.92%
+521	13aa, >2429Cancerppd... at 84.62%
+522	14aa, >2430Cancerppd... at 92.86%
+523	15aa, >2431Cancerppd... at 93.33%
+524	12aa, >2432Cancerppd... at 91.67%
+525	23aa, >2433Cancerppd... at 69.57%
+526	13aa, >2436Cancerppd... at 84.62%
+527	13aa, >2437Cancerppd... at 84.62%
+528	13aa, >2438Cancerppd... at 69.23%
+529	13aa, >2439Cancerppd... at 76.92%
+530	23aa, >2442Cancerppd... at 73.91%
+531	13aa, >2443Cancerppd... at 76.92%
+532	13aa, >2444Cancerppd... at 69.23%
+533	12aa, >2445Cancerppd... at 83.33%
+534	12aa, >2448Cancerppd... at 100.00%
+535	16aa, >2451Cancerppd... at 81.25%
+536	12aa, >2452Cancerppd... at 66.67%
+537	13aa, >2453Cancerppd... at 69.23%
+538	13aa, >2454Cancerppd... at 61.54%
+539	13aa, >2455Cancerppd... at 69.23%
+540	13aa, >2456Cancerppd... at 61.54%
+541	13aa, >2458Cancerppd... at 69.23%
+542	14aa, >2459Cancerppd... at 71.43%
+543	14aa, >2460Cancerppd... at 78.57%
+544	14aa, >2461Cancerppd... at 71.43%
+545	13aa, >2462Cancerppd... at 61.54%
+546	10aa, >2463Cancerppd... at 90.00%
+547	13aa, >2464Cancerppd... at 76.92%
+548	13aa, >2465Cancerppd... at 76.92%
+549	13aa, >2466Cancerppd... at 76.92%
+550	13aa, >2467Cancerppd... at 76.92%
+551	12aa, >2476Cancerppd... at 83.33%
+552	16aa, >2479Cancerppd... at 56.25%
+553	7aa, >2481Cancerppd... at 85.71%
+554	12aa, >2482Cancerppd... at 66.67%
+555	12aa, >2483Cancerppd... at 66.67%
+556	12aa, >2484Cancerppd... at 83.33%
+557	13aa, >2486Cancerppd... at 69.23%
+558	13aa, >2488Cancerppd... at 69.23%
+559	11aa, >2491Cancerppd... at 90.91%
+560	13aa, >2492Cancerppd... at 76.92%
+561	17aa, >2493Cancerppd... at 58.82%
+562	13aa, >2495Cancerppd... at 76.92%
+563	16aa, >2498Cancerppd... at 81.25%
+564	16aa, >2499Cancerppd... at 81.25%
+565	11aa, >2500Cancerppd... at 81.82%
+566	12aa, >2502Cancerppd... at 83.33%
+567	10aa, >2504Cancerppd... at 70.00%
+568	10aa, >2505Cancerppd... at 80.00%
+569	11aa, >2506Cancerppd... at 81.82%
+570	11aa, >2509Cancerppd... at 81.82%
+571	12aa, >2510Cancerppd... at 75.00%
+572	11aa, >2512Cancerppd... at 81.82%
+573	11aa, >2513Cancerppd... at 81.82%
+574	10aa, >2514Cancerppd... at 70.00%
+575	10aa, >2515Cancerppd... at 70.00%
+576	23aa, >2519Cancerppd... at 69.57%
+577	23aa, >2523Cancerppd... at 91.30%
+578	23aa, >2528Cancerppd... at 100.00%
+579	23aa, >2529Cancerppd... at 78.26%
+580	23aa, >2530Cancerppd... at 73.91%
+581	23aa, >2531Cancerppd... at 78.26%
+582	21aa, >2532Cancerppd... at 71.43%
+583	19aa, >2535Cancerppd... at 100.00%
+584	17aa, >2538Cancerppd... at 100.00%
+585	19aa, >2539Cancerppd... at 100.00%
+586	15aa, >2541Cancerppd... at 100.00%
+587	15aa, >2542Cancerppd... at 93.33%
+588	19aa, >2544Cancerppd... at 94.74%
+589	15aa, >2547Cancerppd... at 93.33%
+590	14aa, >2548Cancerppd... at 100.00%
+591	15aa, >2549Cancerppd... at 93.33%
+592	13aa, >2551Cancerppd... at 69.23%
+593	12aa, >2552Cancerppd... at 91.67%
+594	17aa, >2553Cancerppd... at 88.24%
+595	13aa, >2555Cancerppd... at 84.62%
+596	13aa, >2556Cancerppd... at 76.92%
+597	13aa, >2557Cancerppd... at 61.54%
+598	10aa, >2558Cancerppd... at 80.00%
+599	10aa, >2559Cancerppd... at 80.00%
+600	10aa, >2560Cancerppd... at 90.00%
+601	9aa, >2561Cancerppd... at 88.89%
+602	17aa, >2562Cancerppd... at 100.00%
+603	13aa, >2565Cancerppd... at 76.92%
+604	13aa, >2566Cancerppd... at 84.62%
+605	22aa, >2567Cancerppd... at 81.82%
+606	18aa, >2568Cancerppd... at 100.00%
+607	22aa, >2569Cancerppd... at 81.82%
+608	13aa, >2571Cancerppd... at 76.92%
+609	13aa, >2572Cancerppd... at 84.62%
+610	14aa, >2573Cancerppd... at 92.86%
+611	15aa, >2574Cancerppd... at 93.33%
+612	12aa, >2575Cancerppd... at 91.67%
+613	23aa, >2576Cancerppd... at 69.57%
+614	13aa, >2579Cancerppd... at 84.62%
+615	13aa, >2580Cancerppd... at 84.62%
+616	13aa, >2581Cancerppd... at 69.23%
+617	13aa, >2582Cancerppd... at 76.92%
+618	23aa, >2585Cancerppd... at 73.91%
+619	13aa, >2586Cancerppd... at 76.92%
+620	13aa, >2587Cancerppd... at 69.23%
+621	12aa, >2588Cancerppd... at 83.33%
+622	12aa, >2591Cancerppd... at 100.00%
+623	16aa, >2594Cancerppd... at 81.25%
+624	12aa, >2595Cancerppd... at 66.67%
+625	13aa, >2596Cancerppd... at 69.23%
+626	13aa, >2597Cancerppd... at 61.54%
+627	13aa, >2598Cancerppd... at 69.23%
+628	13aa, >2599Cancerppd... at 61.54%
+629	13aa, >2601Cancerppd... at 69.23%
+630	14aa, >2602Cancerppd... at 71.43%
+631	14aa, >2603Cancerppd... at 78.57%
+632	14aa, >2604Cancerppd... at 71.43%
+633	13aa, >2605Cancerppd... at 61.54%
+634	10aa, >2606Cancerppd... at 90.00%
+635	13aa, >2607Cancerppd... at 76.92%
+636	13aa, >2608Cancerppd... at 76.92%
+637	13aa, >2609Cancerppd... at 76.92%
+638	13aa, >2610Cancerppd... at 76.92%
+639	12aa, >2619Cancerppd... at 83.33%
+640	16aa, >2622Cancerppd... at 56.25%
+641	7aa, >2624Cancerppd... at 85.71%
+642	12aa, >2625Cancerppd... at 66.67%
+643	12aa, >2626Cancerppd... at 66.67%
+644	12aa, >2627Cancerppd... at 83.33%
+645	13aa, >2629Cancerppd... at 69.23%
+646	13aa, >2631Cancerppd... at 69.23%
+647	11aa, >2634Cancerppd... at 90.91%
+648	13aa, >2635Cancerppd... at 76.92%
+649	17aa, >2636Cancerppd... at 58.82%
+650	13aa, >2638Cancerppd... at 76.92%
+651	16aa, >2641Cancerppd... at 81.25%
+652	16aa, >2642Cancerppd... at 81.25%
+653	11aa, >2643Cancerppd... at 81.82%
+654	12aa, >2645Cancerppd... at 83.33%
+655	10aa, >2647Cancerppd... at 70.00%
+656	10aa, >2648Cancerppd... at 80.00%
+657	11aa, >2649Cancerppd... at 81.82%
+658	11aa, >2652Cancerppd... at 81.82%
+659	12aa, >2653Cancerppd... at 75.00%
+660	11aa, >2655Cancerppd... at 81.82%
+661	11aa, >2656Cancerppd... at 81.82%
+662	10aa, >2657Cancerppd... at 70.00%
+663	10aa, >2658Cancerppd... at 70.00%
+664	23aa, >2662Cancerppd... at 69.57%
+665	23aa, >2666Cancerppd... at 91.30%
+666	23aa, >2671Cancerppd... at 100.00%
+667	23aa, >2672Cancerppd... at 78.26%
+668	23aa, >2673Cancerppd... at 73.91%
+669	23aa, >2674Cancerppd... at 78.26%
+670	21aa, >2675Cancerppd... at 71.43%
+671	19aa, >2678Cancerppd... at 100.00%
+672	17aa, >2681Cancerppd... at 100.00%
+673	19aa, >2682Cancerppd... at 100.00%
+674	15aa, >2684Cancerppd... at 100.00%
+675	15aa, >2685Cancerppd... at 93.33%
+676	19aa, >2687Cancerppd... at 94.74%
+677	13aa, >2689Cancerppd... at 84.62%
+678	14aa, >2691Cancerppd... at 100.00%
+679	15aa, >2692Cancerppd... at 93.33%
+680	13aa, >2694Cancerppd... at 69.23%
+681	12aa, >2695Cancerppd... at 91.67%
+682	17aa, >2696Cancerppd... at 88.24%
+683	13aa, >2698Cancerppd... at 84.62%
+684	13aa, >2699Cancerppd... at 76.92%
+685	13aa, >2700Cancerppd... at 61.54%
+686	10aa, >2701Cancerppd... at 80.00%
+687	10aa, >2702Cancerppd... at 80.00%
+688	10aa, >2703Cancerppd... at 90.00%
+689	9aa, >2704Cancerppd... at 88.89%
+690	17aa, >2705Cancerppd... at 100.00%
+691	13aa, >2708Cancerppd... at 76.92%
+692	13aa, >2709Cancerppd... at 84.62%
+693	22aa, >2710Cancerppd... at 81.82%
+694	18aa, >2711Cancerppd... at 100.00%
+695	22aa, >2712Cancerppd... at 81.82%
+696	13aa, >2714Cancerppd... at 76.92%
+697	13aa, >2715Cancerppd... at 84.62%
+698	14aa, >2716Cancerppd... at 92.86%
+699	15aa, >2717Cancerppd... at 93.33%
+700	12aa, >2718Cancerppd... at 91.67%
+701	23aa, >2719Cancerppd... at 69.57%
+702	13aa, >2722Cancerppd... at 84.62%
+703	13aa, >2723Cancerppd... at 84.62%
+704	13aa, >2724Cancerppd... at 69.23%
+705	13aa, >2725Cancerppd... at 76.92%
+706	23aa, >2728Cancerppd... at 73.91%
+707	13aa, >2729Cancerppd... at 76.92%
+708	13aa, >2730Cancerppd... at 69.23%
+709	12aa, >2731Cancerppd... at 83.33%
+710	12aa, >2734Cancerppd... at 100.00%
+711	16aa, >2737Cancerppd... at 81.25%
+712	12aa, >2738Cancerppd... at 66.67%
+713	13aa, >2739Cancerppd... at 69.23%
+714	13aa, >2740Cancerppd... at 61.54%
+715	13aa, >2741Cancerppd... at 69.23%
+716	13aa, >2742Cancerppd... at 61.54%
+717	13aa, >2744Cancerppd... at 69.23%
+718	14aa, >2745Cancerppd... at 71.43%
+719	14aa, >2746Cancerppd... at 78.57%
+720	14aa, >2747Cancerppd... at 71.43%
+721	13aa, >2748Cancerppd... at 61.54%
+722	10aa, >2749Cancerppd... at 90.00%
+723	13aa, >2750Cancerppd... at 76.92%
+724	13aa, >2751Cancerppd... at 76.92%
+725	13aa, >2752Cancerppd... at 76.92%
+726	13aa, >2753Cancerppd... at 76.92%
+727	12aa, >2762Cancerppd... at 83.33%
+728	16aa, >2765Cancerppd... at 56.25%
+729	7aa, >2767Cancerppd... at 85.71%
+730	12aa, >2768Cancerppd... at 66.67%
+731	12aa, >2769Cancerppd... at 66.67%
+732	12aa, >2770Cancerppd... at 83.33%
+733	13aa, >2772Cancerppd... at 69.23%
+734	13aa, >2774Cancerppd... at 69.23%
+735	11aa, >2777Cancerppd... at 90.91%
+736	13aa, >2778Cancerppd... at 76.92%
+737	17aa, >2779Cancerppd... at 58.82%
+738	13aa, >2781Cancerppd... at 76.92%
+739	16aa, >2784Cancerppd... at 81.25%
+740	16aa, >2785Cancerppd... at 81.25%
+741	11aa, >2786Cancerppd... at 81.82%
+742	12aa, >2788Cancerppd... at 83.33%
+743	10aa, >2790Cancerppd... at 70.00%
+744	10aa, >2791Cancerppd... at 80.00%
+745	11aa, >2792Cancerppd... at 81.82%
+746	11aa, >2795Cancerppd... at 81.82%
+747	12aa, >2796Cancerppd... at 75.00%
+748	11aa, >2798Cancerppd... at 81.82%
+749	11aa, >2799Cancerppd... at 81.82%
+750	10aa, >2800Cancerppd... at 70.00%
+751	10aa, >2801Cancerppd... at 70.00%
+752	23aa, >2805Cancerppd... at 69.57%
+753	23aa, >2809Cancerppd... at 91.30%
+754	16aa, >4138Cancerppd... at 56.25%
+755	16aa, >4139Cancerppd... at 56.25%
+756	20aa, >4484Cancerppd... at 55.00%
+757	20aa, >4494Cancerppd... at 55.00%
+758	20aa, >4504Cancerppd... at 55.00%
+759	15aa, >DRAMP03982... at 53.33%
+760	15aa, >satpdb10008... at 93.33%
+761	12aa, >satpdb10123... at 100.00%
+762	17aa, >satpdb10166... at 88.24%
+763	23aa, >satpdb10358... at 91.30%
+764	13aa, >satpdb10520... at 84.62%
+765	13aa, >satpdb10722... at 84.62%
+766	13aa, >satpdb10803... at 69.23%
+767	7aa, >satpdb11141... at 85.71%
+768	13aa, >satpdb11500... at 69.23%
+769	14aa, >satpdb11512... at 92.86%
+770	13aa, >satpdb11698... at 76.92%
+771	13aa, >satpdb11714... at 69.23%
+772	13aa, >satpdb11954... at 76.92%
+773	15aa, >satpdb12048... at 93.33%
+774	11aa, >satpdb12335... at 81.82%
+775	13aa, >satpdb12648... at 76.92%
+776	12aa, >satpdb12807... at 91.67%
+777	13aa, >satpdb12821... at 84.62%
+778	25aa, >satpdb12931... at 64.00%
+779	13aa, >satpdb13068... at 76.92%
+780	11aa, >satpdb13294... at 81.82%
+781	14aa, >satpdb13351... at 85.71%
+782	11aa, >satpdb13487... at 81.82%
+783	15aa, >satpdb13673... at 93.33%
+784	13aa, >satpdb13688... at 76.92%
+785	22aa, >satpdb13728... at 81.82%
+786	12aa, >satpdb13795... at 66.67%
+787	12aa, >satpdb14057... at 83.33%
+788	13aa, >satpdb14485... at 76.92%
+789	13aa, >satpdb15167... at 61.54%
+790	23aa, >satpdb15260... at 65.22%
+791	23aa, >satpdb15325... at 78.26%
+792	13aa, >satpdb15341... at 69.23%
+793	23aa, >satpdb16124... at 65.22%
+794	14aa, >satpdb16269... at 78.57%
+795	12aa, >satpdb16529... at 66.67%
+796	11aa, >satpdb16873... at 90.91%
+797	19aa, >satpdb17266... at 94.74%
+798	17aa, >satpdb17534... at 100.00%
+799	25aa, >satpdb17539... at 64.00%
+800	13aa, >satpdb17942... at 61.54%
+801	15aa, >satpdb17964... at 86.67%
+802	12aa, >satpdb18189... at 91.67%
+803	19aa, >satpdb18249... at 100.00%
+804	16aa, >satpdb18750... at 56.25%
+805	17aa, >satpdb18776... at 58.82%
+806	16aa, >satpdb19207... at 81.25%
+807	31aa, >satpdb19272... *
+808	10aa, >satpdb19347... at 80.00%
+809	13aa, >satpdb19536... at 76.92%
+810	16aa, >satpdb19639... at 56.25%
+811	12aa, >satpdb19792... at 83.33%
+812	13aa, >satpdb19997... at 69.23%
+813	12aa, >satpdb20112... at 66.67%
+814	10aa, >satpdb20175... at 90.00%
+815	23aa, >satpdb20583... at 69.57%
+816	16aa, >satpdb20831... at 81.25%
+817	10aa, >satpdb21177... at 70.00%
+818	13aa, >satpdb21361... at 69.23%
+819	19aa, >satpdb21711... at 89.47%
+820	22aa, >satpdb21926... at 81.82%
+821	13aa, >satpdb21976... at 84.62%
+822	10aa, >satpdb21977... at 70.00%
+823	10aa, >satpdb21980... at 70.00%
+824	14aa, >satpdb22005... at 64.29%
+825	10aa, >satpdb22119... at 80.00%
+826	10aa, >satpdb22392... at 80.00%
+827	21aa, >satpdb22553... at 71.43%
+828	15aa, >satpdb22760... at 93.33%
+829	13aa, >satpdb22778... at 76.92%
+830	13aa, >satpdb22831... at 76.92%
+831	14aa, >satpdb23578... at 71.43%
+832	13aa, >satpdb23823... at 69.23%
+833	25aa, >satpdb24070... at 64.00%
+834	11aa, >satpdb24188... at 81.82%
+835	11aa, >satpdb24290... at 81.82%
+836	23aa, >satpdb24316... at 78.26%
+837	23aa, >satpdb24688... at 69.57%
+838	14aa, >satpdb24746... at 100.00%
+839	23aa, >satpdb24872... at 100.00%
+840	17aa, >satpdb25212... at 100.00%
+841	23aa, >satpdb25406... at 73.91%
+842	23aa, >satpdb25517... at 73.91%
+843	13aa, >satpdb26099... at 76.92%
+844	12aa, >satpdb26140... at 75.00%
+845	9aa, >satpdb26257... at 88.89%
+846	13aa, >satpdb26665... at 84.62%
+847	19aa, >satpdb26862... at 100.00%
+848	13aa, >satpdb26925... at 61.54%
+849	13aa, >satpdb26932... at 76.92%
+850	13aa, >satpdb26940... at 61.54%
+851	16aa, >satpdb27149... at 81.25%
+852	10aa, >satpdb27182... at 90.00%
+853	13aa, >satpdb27191... at 69.23%
+854	13aa, >satpdb27491... at 61.54%
+855	15aa, >satpdb27544... at 100.00%
+856	13aa, >satpdb27555... at 69.23%
+857	14aa, >satpdb27640... at 71.43%
+858	20aa, >satpdb27706... at 55.00%
+859	18aa, >satpdb28289... at 100.00%
+860	25aa, >satpdb28300... at 60.00%
+861	13aa, >satpdb28318... at 84.62%
+862	12aa, >satpdb28832... at 83.33%
+863	15aa, >satpdb28955... at 53.33%
+864	12aa, >satpdb29034... at 83.33%
+>Cluster 39
+0	15aa, >3414... at 53.33%
+1	15aa, >3419... at 53.33%
+2	15aa, >3420... at 53.33%
+3	15aa, >3421... at 53.33%
+4	15aa, >3428... at 53.33%
+5	11aa, >9171... at 54.55%
+6	14aa, >satpdb19063... at 78.57%
+7	31aa, >satpdb20915... *
+>Cluster 40
+0	17aa, >11171... at 52.94%
+1	31aa, >satpdb22038... *
+>Cluster 41
+0	31aa, >satpdb27573... *
+>Cluster 42
+0	30aa, >1737... *
+1	10aa, >3058... at 60.00%
+2	15aa, >4328... at 66.67%
+3	30aa, >7699... at 90.00%
+4	30aa, >8157... at 53.33%
+5	15aa, >8228... at 66.67%
+6	15aa, >8229... at 66.67%
+7	15aa, >8230... at 66.67%
+8	15aa, >8231... at 66.67%
+9	15aa, >8232... at 66.67%
+10	17aa, >8233... at 58.82%
+11	17aa, >8234... at 58.82%
+12	17aa, >8235... at 58.82%
+13	17aa, >8236... at 58.82%
+14	17aa, >8237... at 58.82%
+15	20aa, >9549... at 75.00%
+16	28aa, >9847... at 50.00%
+17	30aa, >11541... at 50.00%
+18	25aa, >11542... at 52.00%
+19	14aa, >12181... at 50.00%
+20	16aa, >13189... at 50.00%
+21	12aa, >13534... at 58.33%
+22	16aa, >4149Cancerppd... at 50.00%
+23	16aa, >4150Cancerppd... at 50.00%
+24	16aa, >4151Cancerppd... at 50.00%
+25	16aa, >4152Cancerppd... at 50.00%
+26	16aa, >4153Cancerppd... at 50.00%
+27	16aa, >4154Cancerppd... at 50.00%
+28	16aa, >4155Cancerppd... at 50.00%
+29	30aa, >satpdb14249... at 100.00%
+30	16aa, >satpdb28147... at 50.00%
+>Cluster 43
+0	29aa, >734... at 86.21%
+1	29aa, >1770... at 89.66%
+2	29aa, >1771... at 72.41%
+3	29aa, >2451... at 86.21%
+4	30aa, >2453... *
+5	29aa, >2454... at 82.76%
+6	30aa, >2491... at 96.67%
+7	30aa, >2492... at 96.67%
+8	29aa, >2493... at 68.97%
+9	29aa, >2494... at 86.21%
+10	29aa, >2495... at 82.76%
+11	29aa, >2496... at 89.66%
+12	29aa, >2970... at 79.31%
+13	30aa, >4275... at 53.33%
+14	29aa, >4277... at 65.52%
+15	29aa, >4282... at 65.52%
+16	29aa, >4285... at 65.52%
+17	28aa, >4458... at 64.29%
+18	28aa, >4459... at 57.14%
+19	28aa, >4462... at 67.86%
+20	28aa, >4463... at 67.86%
+21	26aa, >4465... at 61.54%
+22	29aa, >4484... at 86.21%
+23	29aa, >4485... at 86.21%
+24	29aa, >5236... at 89.66%
+25	29aa, >5238... at 72.41%
+26	29aa, >5814... at 86.21%
+27	30aa, >5815... at 86.67%
+28	29aa, >8715... at 86.21%
+29	30aa, >10533... at 83.33%
+30	29aa, >10534... at 72.41%
+31	29aa, >10537... at 62.07%
+32	29aa, >10539... at 65.52%
+33	29aa, >10545... at 68.97%
+34	29aa, >12200... at 82.76%
+35	29aa, >12201... at 82.76%
+36	29aa, >12205... at 82.76%
+37	29aa, >12208... at 82.76%
+38	29aa, >12210... at 82.76%
+39	30aa, >12211... at 83.33%
+40	29aa, >DRAMP00767... at 65.52%
+41	29aa, >DRAMP00769... at 65.52%
+42	29aa, >DRAMP00781... at 86.21%
+43	29aa, >DRAMP00782... at 86.21%
+44	29aa, >DRAMP00784... at 89.66%
+45	30aa, >DRAMP00785... at 90.00%
+46	29aa, >DRAMP00786... at 82.76%
+47	29aa, >DRAMP00787... at 82.76%
+48	29aa, >DRAMP00788... at 86.21%
+49	29aa, >DRAMP00789... at 72.41%
+50	30aa, >DRAMP00790... at 90.00%
+51	30aa, >DRAMP00791... at 100.00%
+52	30aa, >DRAMP00796... at 53.33%
+53	29aa, >DRAMP00797... at 65.52%
+54	29aa, >satpdb10843... at 65.52%
+55	30aa, >satpdb11084... at 86.67%
+56	29aa, >satpdb11481... at 89.66%
+57	29aa, >satpdb11671... at 86.21%
+58	29aa, >satpdb11797... at 65.52%
+59	29aa, >satpdb12785... at 89.66%
+60	29aa, >satpdb17003... at 72.41%
+61	30aa, >satpdb17297... at 86.67%
+62	29aa, >satpdb18612... at 65.52%
+63	29aa, >satpdb18984... at 86.21%
+64	29aa, >satpdb19037... at 72.41%
+65	29aa, >satpdb20390... at 72.41%
+66	30aa, >satpdb21934... at 53.33%
+67	29aa, >satpdb22887... at 86.21%
+68	30aa, >satpdb23303... at 53.33%
+69	29aa, >satpdb23746... at 86.21%
+70	29aa, >satpdb24003... at 86.21%
+71	29aa, >satpdb24508... at 72.41%
+72	29aa, >satpdb24600... at 86.21%
+73	29aa, >satpdb25377... at 65.52%
+74	29aa, >satpdb25755... at 86.21%
+75	29aa, >satpdb27061... at 65.52%
+76	30aa, >satpdb27190... at 70.00%
+>Cluster 44
+0	12aa, >3267... at 50.00%
+1	30aa, >8873... *
+2	16aa, >14719... at 100.00%
+3	16aa, >14720... at 93.75%
+4	12aa, >14723... at 83.33%
+5	12aa, >14725... at 75.00%
+6	12aa, >14726... at 75.00%
+7	12aa, >14727... at 75.00%
+8	12aa, >14728... at 75.00%
+9	12aa, >14729... at 75.00%
+10	12aa, >14731... at 75.00%
+11	12aa, >14732... at 75.00%
+12	12aa, >14734... at 75.00%
+13	12aa, >3636Cancerppd... at 50.00%
+14	12aa, >3664Cancerppd... at 50.00%
+15	12aa, >3692Cancerppd... at 50.00%
+16	12aa, >satpdb26250... at 50.00%
+>Cluster 45
+0	30aa, >9680... *
+>Cluster 46
+0	18aa, >230... at 55.56%
+1	10aa, >2899... at 50.00%
+2	10aa, >3060... at 60.00%
+3	10aa, >3067... at 70.00%
+4	18aa, >5151... at 55.56%
+5	17aa, >5205... at 52.94%
+6	16aa, >5206... at 56.25%
+7	17aa, >5270... at 58.82%
+8	16aa, >5271... at 56.25%
+9	15aa, >5272... at 53.33%
+10	14aa, >5279... at 57.14%
+11	14aa, >9535... at 71.43%
+12	15aa, >10284... at 53.33%
+13	16aa, >13354... at 75.00%
+14	20aa, >13355... at 70.00%
+15	24aa, >13356... at 66.67%
+16	28aa, >13357... at 67.86%
+17	24aa, >13364... at 62.50%
+18	24aa, >13365... at 66.67%
+19	24aa, >13366... at 66.67%
+20	28aa, >13371... at 50.00%
+21	28aa, >13372... at 71.43%
+22	18aa, >13375... at 100.00%
+23	21aa, >13376... at 100.00%
+24	24aa, >13377... at 100.00%
+25	27aa, >13378... at 100.00%
+26	30aa, >13379... *
+27	18aa, >13385... at 66.67%
+28	21aa, >13386... at 66.67%
+29	24aa, >13387... at 66.67%
+30	27aa, >13388... at 66.67%
+31	30aa, >13389... at 66.67%
+32	23aa, >15957... at 65.22%
+33	23aa, >15964... at 65.22%
+34	18aa, >1119Cancerppd... at 55.56%
+35	17aa, >1120Cancerppd... at 52.94%
+36	17aa, >1123Cancerppd... at 52.94%
+37	17aa, >1124Cancerppd... at 58.82%
+38	16aa, >1125Cancerppd... at 56.25%
+39	15aa, >1128Cancerppd... at 53.33%
+40	14aa, >1137Cancerppd... at 57.14%
+41	18aa, >1141Cancerppd... at 55.56%
+42	17aa, >1142Cancerppd... at 52.94%
+43	17aa, >1145Cancerppd... at 52.94%
+44	17aa, >1146Cancerppd... at 58.82%
+45	16aa, >1147Cancerppd... at 56.25%
+46	16aa, >1150Cancerppd... at 56.25%
+47	15aa, >1151Cancerppd... at 53.33%
+48	14aa, >1159Cancerppd... at 57.14%
+49	18aa, >1163Cancerppd... at 55.56%
+50	17aa, >1164Cancerppd... at 52.94%
+51	17aa, >1167Cancerppd... at 52.94%
+52	17aa, >1168Cancerppd... at 58.82%
+53	16aa, >1169Cancerppd... at 56.25%
+54	16aa, >1172Cancerppd... at 56.25%
+55	15aa, >1173Cancerppd... at 53.33%
+56	14aa, >1181Cancerppd... at 57.14%
+57	18aa, >1187Cancerppd... at 55.56%
+58	18aa, >1191Cancerppd... at 55.56%
+59	18aa, >1195Cancerppd... at 55.56%
+60	18aa, >1199Cancerppd... at 55.56%
+61	23aa, >1819Cancerppd... at 65.22%
+62	23aa, >1826Cancerppd... at 65.22%
+63	9aa, >1898Cancerppd... at 77.78%
+64	23aa, >1971Cancerppd... at 65.22%
+65	23aa, >1978Cancerppd... at 65.22%
+66	9aa, >2050Cancerppd... at 77.78%
+67	23aa, >2123Cancerppd... at 65.22%
+68	23aa, >2130Cancerppd... at 65.22%
+69	9aa, >2202Cancerppd... at 77.78%
+70	23aa, >2275Cancerppd... at 65.22%
+71	23aa, >2282Cancerppd... at 65.22%
+72	9aa, >2354Cancerppd... at 77.78%
+73	23aa, >2427Cancerppd... at 65.22%
+74	23aa, >2434Cancerppd... at 65.22%
+75	9aa, >2507Cancerppd... at 77.78%
+76	23aa, >2570Cancerppd... at 65.22%
+77	23aa, >2577Cancerppd... at 65.22%
+78	9aa, >2650Cancerppd... at 77.78%
+79	23aa, >2713Cancerppd... at 65.22%
+80	23aa, >2720Cancerppd... at 65.22%
+81	9aa, >2793Cancerppd... at 77.78%
+82	18aa, >3290Cancerppd... at 55.56%
+83	18aa, >3291Cancerppd... at 55.56%
+84	18aa, >3292Cancerppd... at 55.56%
+85	18aa, >3293Cancerppd... at 55.56%
+86	18aa, >3294Cancerppd... at 55.56%
+87	18aa, >3295Cancerppd... at 55.56%
+88	18aa, >3296Cancerppd... at 55.56%
+89	18aa, >3297Cancerppd... at 55.56%
+90	18aa, >3298Cancerppd... at 55.56%
+91	18aa, >3299Cancerppd... at 55.56%
+92	18aa, >DRAMP03967... at 55.56%
+93	17aa, >DRAMP03970... at 52.94%
+94	17aa, >DRAMP03971... at 58.82%
+95	16aa, >DRAMP03972... at 56.25%
+96	16aa, >DRAMP03975... at 56.25%
+97	15aa, >DRAMP03976... at 53.33%
+98	14aa, >DRAMP03984... at 57.14%
+99	23aa, >satpdb10404... at 65.22%
+100	16aa, >satpdb12406... at 56.25%
+101	23aa, >satpdb16853... at 65.22%
+102	17aa, >satpdb17387... at 58.82%
+103	17aa, >satpdb18090... at 52.94%
+104	16aa, >satpdb18442... at 56.25%
+105	15aa, >satpdb19321... at 53.33%
+106	18aa, >satpdb21335... at 55.56%
+107	17aa, >satpdb23702... at 52.94%
+108	9aa, >satpdb25301... at 77.78%
+109	18aa, >satpdb25981... at 55.56%
+110	14aa, >satpdb27289... at 57.14%
+>Cluster 47
+0	14aa, >12180... at 50.00%
+1	14aa, >12182... at 50.00%
+2	30aa, >14140... *
+3	30aa, >14141... at 96.67%
+4	30aa, >14142... at 96.67%
+5	30aa, >14143... at 96.67%
+>Cluster 48
+0	12aa, >16412... at 100.00%
+1	18aa, >16413... at 100.00%
+2	24aa, >16414... at 100.00%
+3	30aa, >16415... *
+4	12aa, >16416... at 66.67%
+5	18aa, >16417... at 66.67%
+6	24aa, >16418... at 66.67%
+7	30aa, >16419... at 66.67%
+8	14aa, >16420... at 57.14%
+9	20aa, >16421... at 60.00%
+10	26aa, >16422... at 61.54%
+11	28aa, >16426... at 57.14%
+>Cluster 49
+0	10aa, >2911... at 50.00%
+1	20aa, >8920... at 90.00%
+2	18aa, >8921... at 100.00%
+3	11aa, >9168... at 63.64%
+4	14aa, >10722... at 71.43%
+5	9aa, >11199... at 66.67%
+6	11aa, >12602... at 90.91%
+7	11aa, >15109... at 72.73%
+8	11aa, >15112... at 90.91%
+9	30aa, >1665Cancerppd... *
+10	30aa, >1666Cancerppd... at 100.00%
+11	30aa, >1667Cancerppd... at 100.00%
+12	30aa, >1668Cancerppd... at 100.00%
+13	30aa, >1669Cancerppd... at 100.00%
+14	30aa, >satpdb24033... at 100.00%
+15	15aa, >satpdb27148... at 60.00%
+>Cluster 50
+0	18aa, >8278... at 50.00%
+1	30aa, >3102Cancerppd... *
+2	30aa, >3103Cancerppd... at 100.00%
+3	30aa, >3104Cancerppd... at 100.00%
+4	30aa, >3105Cancerppd... at 100.00%
+5	30aa, >3106Cancerppd... at 100.00%
+6	30aa, >3107Cancerppd... at 100.00%
+7	30aa, >3108Cancerppd... at 96.67%
+8	30aa, >3109Cancerppd... at 96.67%
+9	30aa, >3110Cancerppd... at 96.67%
+10	30aa, >3111Cancerppd... at 96.67%
+11	30aa, >3112Cancerppd... at 96.67%
+12	30aa, >3113Cancerppd... at 96.67%
+13	30aa, >3254Cancerppd... at 100.00%
+14	30aa, >3255Cancerppd... at 100.00%
+15	30aa, >3256Cancerppd... at 100.00%
+16	30aa, >3257Cancerppd... at 100.00%
+17	30aa, >3258Cancerppd... at 100.00%
+18	30aa, >3259Cancerppd... at 100.00%
+19	30aa, >3260Cancerppd... at 96.67%
+20	30aa, >3261Cancerppd... at 96.67%
+21	30aa, >3262Cancerppd... at 96.67%
+22	30aa, >3265Cancerppd... at 96.67%
+23	30aa, >satpdb16210... at 100.00%
+24	30aa, >satpdb16586... at 96.67%
+>Cluster 51
+0	30aa, >3374Cancerppd... *
+1	30aa, >3375Cancerppd... at 100.00%
+2	30aa, >3376Cancerppd... at 100.00%
+3	30aa, >3377Cancerppd... at 100.00%
+4	30aa, >3378Cancerppd... at 100.00%
+5	30aa, >3379Cancerppd... at 100.00%
+6	30aa, >3392Cancerppd... at 100.00%
+7	30aa, >3393Cancerppd... at 100.00%
+8	30aa, >3394Cancerppd... at 100.00%
+9	30aa, >3395Cancerppd... at 100.00%
+10	30aa, >3396Cancerppd... at 100.00%
+11	30aa, >3397Cancerppd... at 100.00%
+12	30aa, >3410Cancerppd... at 100.00%
+13	30aa, >3411Cancerppd... at 100.00%
+14	30aa, >3412Cancerppd... at 100.00%
+15	30aa, >3413Cancerppd... at 100.00%
+16	30aa, >3414Cancerppd... at 100.00%
+17	30aa, >3415Cancerppd... at 100.00%
+18	30aa, >3428Cancerppd... at 100.00%
+19	30aa, >3429Cancerppd... at 100.00%
+20	30aa, >3430Cancerppd... at 100.00%
+21	30aa, >3431Cancerppd... at 100.00%
+22	30aa, >3432Cancerppd... at 100.00%
+23	30aa, >3433Cancerppd... at 100.00%
+24	30aa, >3446Cancerppd... at 100.00%
+25	30aa, >3447Cancerppd... at 100.00%
+26	30aa, >3448Cancerppd... at 100.00%
+27	30aa, >3449Cancerppd... at 100.00%
+28	30aa, >3450Cancerppd... at 100.00%
+29	30aa, >3451Cancerppd... at 100.00%
+30	30aa, >3464Cancerppd... at 100.00%
+31	30aa, >3465Cancerppd... at 100.00%
+32	30aa, >3466Cancerppd... at 100.00%
+33	30aa, >3467Cancerppd... at 100.00%
+34	30aa, >3468Cancerppd... at 100.00%
+35	30aa, >3469Cancerppd... at 100.00%
+36	30aa, >satpdb19888... at 100.00%
+>Cluster 52
+0	17aa, >13331... at 52.94%
+1	11aa, >15111... at 72.73%
+2	11aa, >satpdb15978... at 54.55%
+3	30aa, >satpdb19871... *
+4	11aa, >satpdb20025... at 54.55%
+>Cluster 53
+0	12aa, >12358... at 50.00%
+1	29aa, >satpdb11499... at 100.00%
+2	30aa, >satpdb21751... *
+3	30aa, >satpdb25293... at 100.00%
+4	30aa, >satpdb25628... at 96.67%
+5	30aa, >satpdb27556... at 96.67%
+>Cluster 54
+0	29aa, >4288... at 51.72%
+1	8aa, >4301... at 62.50%
+2	25aa, >4304... at 64.00%
+3	27aa, >4460... at 66.67%
+4	27aa, >4461... at 62.96%
+5	27aa, >4464... at 59.26%
+6	29aa, >10540... at 72.41%
+7	29aa, >10541... at 68.97%
+8	29aa, >10542... at 72.41%
+9	29aa, >10543... at 68.97%
+10	29aa, >10544... at 68.97%
+11	29aa, >DRAMP00770... at 51.72%
+12	25aa, >DRAMP00772... at 64.00%
+13	25aa, >satpdb12105... at 64.00%
+14	10aa, >satpdb17538... at 70.00%
+15	8aa, >satpdb23501... at 62.50%
+16	30aa, >satpdb24065... *
+17	29aa, >satpdb25436... at 51.72%
+>Cluster 55
+0	30aa, >satpdb26524... *
+>Cluster 56
+0	15aa, >3415... at 53.33%
+1	29aa, >3785... *
+2	29aa, >4396... at 79.31%
+3	29aa, >4407... at 93.10%
+4	29aa, >4420... at 96.55%
+5	29aa, >4421... at 96.55%
+6	29aa, >4422... at 96.55%
+7	29aa, >4423... at 93.10%
+8	29aa, >4424... at 93.10%
+9	29aa, >4425... at 93.10%
+10	29aa, >4426... at 96.55%
+11	29aa, >4427... at 96.55%
+12	10aa, >13119... at 70.00%
+13	12aa, >13536... at 58.33%
+14	29aa, >14145... at 75.86%
+15	29aa, >14146... at 75.86%
+16	29aa, >satpdb13200... at 79.31%
+>Cluster 57
+0	13aa, >3483... at 53.85%
+1	29aa, >3786... *
+2	28aa, >3787... at 75.00%
+3	28aa, >3788... at 78.57%
+4	19aa, >4906... at 52.63%
+5	14aa, >13974... at 50.00%
+6	18aa, >satpdb17364... at 61.11%
+7	18aa, >satpdb27732... at 61.11%
+>Cluster 58
+0	29aa, >3867... *
+1	29aa, >3868... at 93.10%
+2	14aa, >3869... at 100.00%
+3	10aa, >3870... at 100.00%
+4	20aa, >3871... at 50.00%
+5	19aa, >3872... at 100.00%
+6	15aa, >3873... at 100.00%
+7	15aa, >3874... at 86.67%
+8	12aa, >13689... at 50.00%
+>Cluster 59
+0	29aa, >4195... *
+1	28aa, >4218... at 64.29%
+2	28aa, >6166... at 53.57%
+3	28aa, >12184... at 64.29%
+4	22aa, >12185... at 63.64%
+5	28aa, >12186... at 60.71%
+6	16aa, >4084Cancerppd... at 56.25%
+7	16aa, >4085Cancerppd... at 56.25%
+8	16aa, >4086Cancerppd... at 56.25%
+9	16aa, >4087Cancerppd... at 56.25%
+10	16aa, >4088Cancerppd... at 56.25%
+11	16aa, >4089Cancerppd... at 56.25%
+12	16aa, >4090Cancerppd... at 56.25%
+13	16aa, >4091Cancerppd... at 56.25%
+14	16aa, >4092Cancerppd... at 56.25%
+15	16aa, >4111Cancerppd... at 50.00%
+16	16aa, >4112Cancerppd... at 50.00%
+17	16aa, >4113Cancerppd... at 50.00%
+18	16aa, >4114Cancerppd... at 50.00%
+19	16aa, >4115Cancerppd... at 50.00%
+20	16aa, >4116Cancerppd... at 50.00%
+21	16aa, >4117Cancerppd... at 50.00%
+22	16aa, >4118Cancerppd... at 50.00%
+23	16aa, >4119Cancerppd... at 50.00%
+24	16aa, >4120Cancerppd... at 50.00%
+25	16aa, >4121Cancerppd... at 50.00%
+26	16aa, >4122Cancerppd... at 50.00%
+27	16aa, >4123Cancerppd... at 50.00%
+28	16aa, >4124Cancerppd... at 50.00%
+29	16aa, >4125Cancerppd... at 50.00%
+30	16aa, >4126Cancerppd... at 50.00%
+31	16aa, >4127Cancerppd... at 50.00%
+32	16aa, >4128Cancerppd... at 50.00%
+33	16aa, >satpdb12429... at 50.00%
+34	16aa, >satpdb13923... at 56.25%
+35	28aa, >satpdb17102... at 64.29%
+36	16aa, >satpdb27541... at 50.00%
+>Cluster 60
+0	29aa, >4405... *
+1	29aa, >9750... at 96.55%
+2	29aa, >9751... at 100.00%
+3	29aa, >satpdb24710... at 100.00%
+>Cluster 61
+0	26aa, >11... at 65.38%
+1	19aa, >775... at 57.89%
+2	9aa, >2589... at 66.67%
+3	29aa, >4477... *
+4	7aa, >10703... at 57.14%
+5	26aa, >13888... at 57.69%
+6	19aa, >13892... at 73.68%
+7	19aa, >13893... at 63.16%
+8	19aa, >13894... at 68.42%
+>Cluster 62
+0	9aa, >2587... at 66.67%
+1	14aa, >7164... at 50.00%
+2	11aa, >9172... at 54.55%
+3	29aa, >9677... *
+4	9aa, >12595... at 66.67%
+5	9aa, >12597... at 66.67%
+>Cluster 63
+0	29aa, >12678... *
+1	13aa, >12682... at 100.00%
+2	23aa, >12683... at 60.87%
+>Cluster 64
+0	12aa, >1204... at 58.33%
+1	12aa, >1556... at 58.33%
+2	11aa, >4584... at 54.55%
+3	11aa, >6841... at 63.64%
+4	11aa, >7163... at 54.55%
+5	18aa, >9876... at 55.56%
+6	18aa, >9877... at 55.56%
+7	18aa, >9878... at 55.56%
+8	11aa, >10330... at 72.73%
+9	9aa, >11905... at 66.67%
+10	8aa, >11974... at 62.50%
+11	9aa, >12593... at 77.78%
+12	9aa, >12594... at 77.78%
+13	11aa, >12601... at 81.82%
+14	11aa, >12608... at 63.64%
+15	24aa, >13361... at 50.00%
+16	28aa, >13362... at 50.00%
+17	14aa, >13402... at 78.57%
+18	18aa, >13403... at 61.11%
+19	12aa, >13531... at 66.67%
+20	12aa, >13537... at 58.33%
+21	12aa, >13686... at 75.00%
+22	12aa, >13687... at 58.33%
+23	15aa, >13998... at 100.00%
+24	15aa, >13999... at 73.33%
+25	15aa, >14000... at 73.33%
+26	15aa, >14001... at 73.33%
+27	15aa, >14002... at 100.00%
+28	29aa, >14003... *
+29	16aa, >14005... at 93.75%
+30	17aa, >14006... at 88.24%
+31	22aa, >14424... at 59.09%
+32	18aa, >14425... at 55.56%
+33	11aa, >15110... at 63.64%
+34	11aa, >3114Cancerppd... at 54.55%
+35	11aa, >3115Cancerppd... at 54.55%
+36	11aa, >3116Cancerppd... at 54.55%
+37	11aa, >3117Cancerppd... at 54.55%
+38	11aa, >3118Cancerppd... at 54.55%
+39	11aa, >3119Cancerppd... at 72.73%
+40	11aa, >3120Cancerppd... at 72.73%
+41	11aa, >3121Cancerppd... at 72.73%
+42	11aa, >3122Cancerppd... at 54.55%
+43	11aa, >satpdb13727... at 54.55%
+44	8aa, >satpdb16429... at 62.50%
+45	12aa, >satpdb21369... at 75.00%
+46	11aa, >satpdb21924... at 72.73%
+>Cluster 65
+0	10aa, >3049... at 70.00%
+1	28aa, >15611... at 75.00%
+2	28aa, >15612... at 85.71%
+3	28aa, >15613... at 96.43%
+4	28aa, >15614... at 96.43%
+5	29aa, >15615... *
+6	28aa, >15663... at 100.00%
+7	24aa, >15727... at 87.50%
+8	24aa, >15731... at 95.83%
+>Cluster 66
+0	9aa, >12598... at 55.56%
+1	11aa, >12605... at 63.64%
+2	29aa, >satpdb14780... *
+3	10aa, >satpdb21232... at 50.00%
+4	29aa, >satpdb22769... at 93.10%
+>Cluster 67
+0	20aa, >satpdb11644... at 80.00%
+1	19aa, >satpdb12127... at 78.95%
+2	19aa, >satpdb15140... at 89.47%
+3	15aa, >satpdb15198... at 86.67%
+4	22aa, >satpdb16692... at 77.27%
+5	29aa, >satpdb17014... *
+6	16aa, >satpdb17568... at 100.00%
+7	22aa, >satpdb18651... at 100.00%
+8	22aa, >satpdb18773... at 90.91%
+9	19aa, >satpdb19095... at 89.47%
+10	18aa, >satpdb21104... at 88.89%
+11	14aa, >satpdb21353... at 85.71%
+12	22aa, >satpdb22157... at 90.91%
+13	19aa, >satpdb22253... at 89.47%
+14	13aa, >satpdb22264... at 84.62%
+15	22aa, >satpdb22628... at 77.27%
+16	21aa, >satpdb24010... at 80.95%
+17	18aa, >satpdb24858... at 77.78%
+18	17aa, >satpdb27617... at 82.35%
+>Cluster 68
+0	28aa, >565... *
+1	28aa, >972... at 96.43%
+2	25aa, >973... at 100.00%
+3	14aa, >12183... at 57.14%
+>Cluster 69
+0	18aa, >696... at 55.56%
+1	18aa, >697... at 61.11%
+2	18aa, >1074... at 61.11%
+3	28aa, >1485... *
+4	11aa, >6842... at 63.64%
+5	18aa, >12780... at 100.00%
+6	18aa, >12781... at 77.78%
+7	9aa, >13118... at 77.78%
+8	11aa, >16123... at 63.64%
+9	28aa, >satpdb22390... at 60.71%
+>Cluster 70
+0	28aa, >4466... *
+>Cluster 71
+0	28aa, >7009... *
+>Cluster 72
+0	11aa, >197... at 72.73%
+1	11aa, >915... at 72.73%
+2	10aa, >2901... at 60.00%
+3	18aa, >5204... at 61.11%
+4	28aa, >9973... *
+5	21aa, >9974... at 61.90%
+6	11aa, >10308... at 72.73%
+7	11aa, >10309... at 72.73%
+8	11aa, >10310... at 72.73%
+9	11aa, >10311... at 72.73%
+10	11aa, >10313... at 72.73%
+11	11aa, >10314... at 81.82%
+12	11aa, >10315... at 72.73%
+13	11aa, >11600... at 72.73%
+14	11aa, >13465... at 72.73%
+15	11aa, >13466... at 72.73%
+16	11aa, >13467... at 72.73%
+17	11aa, >13468... at 72.73%
+18	18aa, >1121Cancerppd... at 61.11%
+19	18aa, >1143Cancerppd... at 61.11%
+20	18aa, >1165Cancerppd... at 61.11%
+21	18aa, >DRAMP03968... at 61.11%
+22	18aa, >satpdb15179... at 61.11%
+>Cluster 73
+0	9aa, >5444... at 55.56%
+1	28aa, >10589... *
+2	13aa, >13349... at 53.85%
+>Cluster 74
+0	18aa, >12674... at 100.00%
+1	18aa, >12675... at 66.67%
+2	28aa, >12680... *
+3	28aa, >12681... at 78.57%
+>Cluster 75
+0	14aa, >4594... at 71.43%
+1	18aa, >4595... at 72.22%
+2	28aa, >12703... *
+3	28aa, >12715... at 75.00%
+4	13aa, >13881... at 76.92%
+5	13aa, >13882... at 69.23%
+6	12aa, >13883... at 75.00%
+7	14aa, >13975... at 50.00%
+8	14aa, >13976... at 50.00%
+9	14aa, >13977... at 50.00%
+10	14aa, >14055... at 71.43%
+11	14aa, >14056... at 71.43%
+12	14aa, >14057... at 71.43%
+13	14aa, >14058... at 71.43%
+14	14aa, >14059... at 64.29%
+15	14aa, >14060... at 64.29%
+16	14aa, >14061... at 64.29%
+17	14aa, >14062... at 64.29%
+18	16aa, >16424... at 56.25%
+19	22aa, >16425... at 59.09%
+20	11aa, >1432Cancerppd... at 72.73%
+21	16aa, >1433Cancerppd... at 68.75%
+22	21aa, >1438Cancerppd... at 52.38%
+23	14aa, >2840Cancerppd... at 71.43%
+24	18aa, >2841Cancerppd... at 72.22%
+25	14aa, >2843Cancerppd... at 71.43%
+26	18aa, >2844Cancerppd... at 72.22%
+27	11aa, >satpdb14767... at 72.73%
+28	16aa, >satpdb15733... at 68.75%
+29	14aa, >satpdb16380... at 71.43%
+30	18aa, >satpdb19196... at 72.22%
+31	21aa, >satpdb23830... at 52.38%
+>Cluster 76
+0	14aa, >10721... at 85.71%
+1	28aa, >12720... *
+2	23aa, >14830... at 52.17%
+>Cluster 77
+0	9aa, >2980... at 55.56%
+1	11aa, >8933... at 54.55%
+2	16aa, >10586... at 50.00%
+3	28aa, >13110... *
+4	22aa, >1865Cancerppd... at 50.00%
+5	22aa, >2017Cancerppd... at 50.00%
+6	22aa, >2169Cancerppd... at 50.00%
+7	22aa, >2321Cancerppd... at 50.00%
+8	22aa, >2474Cancerppd... at 50.00%
+9	22aa, >2617Cancerppd... at 50.00%
+10	22aa, >2760Cancerppd... at 50.00%
+11	16aa, >4057Cancerppd... at 56.25%
+12	16aa, >4058Cancerppd... at 56.25%
+13	16aa, >4059Cancerppd... at 56.25%
+14	16aa, >4060Cancerppd... at 56.25%
+15	16aa, >4061Cancerppd... at 56.25%
+16	16aa, >4062Cancerppd... at 56.25%
+17	16aa, >4063Cancerppd... at 56.25%
+18	16aa, >4064Cancerppd... at 56.25%
+19	16aa, >4065Cancerppd... at 56.25%
+20	16aa, >satpdb12781... at 56.25%
+21	9aa, >satpdb13067... at 55.56%
+22	22aa, >satpdb21119... at 50.00%
+>Cluster 78
+0	28aa, >14985... *
+>Cluster 79
+0	28aa, >15610... *
+1	14aa, >satpdb26145... at 50.00%
+>Cluster 80
+0	24aa, >626... at 50.00%
+1	13aa, >2323... at 61.54%
+2	13aa, >4524... at 61.54%
+3	13aa, >4526... at 53.85%
+4	9aa, >9190... at 66.67%
+5	13aa, >13991... at 61.54%
+6	13aa, >13992... at 61.54%
+7	13aa, >13995... at 53.85%
+8	28aa, >15801... *
+9	13aa, >1007Cancerppd... at 61.54%
+10	13aa, >1015Cancerppd... at 61.54%
+11	13aa, >1023Cancerppd... at 61.54%
+12	13aa, >1031Cancerppd... at 61.54%
+13	13aa, >1039Cancerppd... at 61.54%
+14	13aa, >3266Cancerppd... at 61.54%
+15	13aa, >satpdb25053... at 61.54%
+16	13aa, >satpdb27022... at 61.54%
+>Cluster 81
+0	28aa, >16047... *
+>Cluster 82
+0	13aa, >160... at 53.85%
+1	11aa, >941... at 54.55%
+2	13aa, >5135... at 53.85%
+3	11aa, >9173... at 72.73%
+4	13aa, >9310... at 100.00%
+5	9aa, >9772... at 55.56%
+6	11aa, >1728Cancerppd... at 54.55%
+7	11aa, >1729Cancerppd... at 54.55%
+8	11aa, >1730Cancerppd... at 54.55%
+9	11aa, >1731Cancerppd... at 54.55%
+10	11aa, >1732Cancerppd... at 54.55%
+11	11aa, >1733Cancerppd... at 54.55%
+12	11aa, >1737Cancerppd... at 54.55%
+13	11aa, >1741Cancerppd... at 54.55%
+14	11aa, >1765Cancerppd... at 54.55%
+15	11aa, >1766Cancerppd... at 54.55%
+16	11aa, >1767Cancerppd... at 54.55%
+17	11aa, >1768Cancerppd... at 54.55%
+18	11aa, >1769Cancerppd... at 54.55%
+19	11aa, >1770Cancerppd... at 54.55%
+20	11aa, >1771Cancerppd... at 54.55%
+21	11aa, >1772Cancerppd... at 54.55%
+22	11aa, >3233Cancerppd... at 54.55%
+23	11aa, >3234Cancerppd... at 54.55%
+24	11aa, >3235Cancerppd... at 54.55%
+25	11aa, >3236Cancerppd... at 54.55%
+26	11aa, >3237Cancerppd... at 54.55%
+27	11aa, >3238Cancerppd... at 54.55%
+28	11aa, >3239Cancerppd... at 54.55%
+29	13aa, >3271Cancerppd... at 100.00%
+30	13aa, >3272Cancerppd... at 100.00%
+31	11aa, >3734Cancerppd... at 54.55%
+32	11aa, >3735Cancerppd... at 54.55%
+33	11aa, >3736Cancerppd... at 54.55%
+34	11aa, >3737Cancerppd... at 54.55%
+35	11aa, >3738Cancerppd... at 54.55%
+36	11aa, >3739Cancerppd... at 54.55%
+37	11aa, >3740Cancerppd... at 54.55%
+38	28aa, >satpdb12519... *
+39	11aa, >satpdb13336... at 54.55%
+40	27aa, >satpdb18031... at 96.30%
+41	13aa, >satpdb21326... at 100.00%
+42	11aa, >satpdb21466... at 54.55%
+>Cluster 83
+0	27aa, >832... *
+1	27aa, >835... at 77.78%
+2	27aa, >841... at 55.56%
+3	27aa, >843... at 77.78%
+4	27aa, >10436... at 51.85%
+5	11aa, >13113... at 54.55%
+6	27aa, >1649Cancerppd... at 100.00%
+7	27aa, >1650Cancerppd... at 77.78%
+8	26aa, >1651Cancerppd... at 57.69%
+9	27aa, >1652Cancerppd... at 77.78%
+10	27aa, >1653Cancerppd... at 100.00%
+11	27aa, >1654Cancerppd... at 77.78%
+12	26aa, >1655Cancerppd... at 57.69%
+13	27aa, >1656Cancerppd... at 77.78%
+14	27aa, >1657Cancerppd... at 100.00%
+15	27aa, >1658Cancerppd... at 77.78%
+16	26aa, >1659Cancerppd... at 57.69%
+17	27aa, >1660Cancerppd... at 77.78%
+18	27aa, >1661Cancerppd... at 100.00%
+19	27aa, >1662Cancerppd... at 77.78%
+20	26aa, >1663Cancerppd... at 57.69%
+21	27aa, >1664Cancerppd... at 77.78%
+22	8aa, >1876Cancerppd... at 75.00%
+23	8aa, >2028Cancerppd... at 75.00%
+24	8aa, >2180Cancerppd... at 75.00%
+25	8aa, >2332Cancerppd... at 75.00%
+26	8aa, >2485Cancerppd... at 75.00%
+27	8aa, >2628Cancerppd... at 75.00%
+28	8aa, >2771Cancerppd... at 75.00%
+29	27aa, >DRAMP01107... at 100.00%
+30	27aa, >DRAMP01111... at 77.78%
+31	27aa, >DRAMP01110... at 55.56%
+32	27aa, >DRAMP01109... at 77.78%
+33	27aa, >satpdb10727... at 100.00%
+34	27aa, >satpdb11711... at 55.56%
+35	27aa, >satpdb16235... at 77.78%
+36	27aa, >satpdb20882... at 77.78%
+37	26aa, >satpdb21604... at 57.69%
+38	8aa, >satpdb23331... at 75.00%
+39	27aa, >satpdb23954... at 100.00%
+40	27aa, >satpdb28138... at 55.56%
+>Cluster 84
+0	26aa, >806... at 50.00%
+1	27aa, >1106... *
+2	17aa, >4393... at 52.94%
+3	26aa, >8871... at 50.00%
+4	26aa, >8872... at 50.00%
+5	11aa, >satpdb10075... at 54.55%
+6	11aa, >satpdb29074... at 54.55%
+>Cluster 85
+0	18aa, >1022... at 55.56%
+1	21aa, >1023... at 61.90%
+2	27aa, >4406... *
+3	27aa, >9752... at 96.30%
+4	21aa, >14779... at 61.90%
+5	13aa, >15977... at 69.23%
+6	13aa, >1831Cancerppd... at 69.23%
+7	13aa, >1983Cancerppd... at 69.23%
+8	13aa, >2135Cancerppd... at 69.23%
+9	13aa, >2287Cancerppd... at 69.23%
+10	13aa, >2440Cancerppd... at 69.23%
+11	13aa, >2583Cancerppd... at 69.23%
+12	13aa, >2726Cancerppd... at 69.23%
+13	13aa, >satpdb19543... at 69.23%
+14	27aa, >satpdb21749... at 100.00%
+>Cluster 86
+0	27aa, >5888... *
+1	27aa, >5909... at 88.89%
+2	27aa, >5910... at 81.48%
+3	27aa, >5911... at 85.19%
+4	27aa, >5912... at 85.19%
+5	27aa, >5913... at 70.37%
+6	27aa, >3072Cancerppd... at 100.00%
+7	27aa, >3073Cancerppd... at 88.89%
+8	27aa, >3074Cancerppd... at 81.48%
+9	27aa, >3075Cancerppd... at 88.89%
+10	27aa, >3076Cancerppd... at 85.19%
+11	27aa, >3077Cancerppd... at 70.37%
+12	27aa, >3078Cancerppd... at 100.00%
+13	27aa, >3079Cancerppd... at 88.89%
+14	27aa, >3080Cancerppd... at 81.48%
+15	27aa, >3081Cancerppd... at 88.89%
+16	27aa, >3082Cancerppd... at 85.19%
+17	27aa, >3083Cancerppd... at 70.37%
+18	27aa, >3084Cancerppd... at 100.00%
+19	27aa, >3085Cancerppd... at 88.89%
+20	27aa, >3086Cancerppd... at 81.48%
+21	27aa, >3087Cancerppd... at 88.89%
+22	27aa, >3088Cancerppd... at 85.19%
+23	27aa, >3089Cancerppd... at 70.37%
+24	27aa, >3090Cancerppd... at 100.00%
+25	27aa, >3091Cancerppd... at 88.89%
+26	27aa, >3092Cancerppd... at 81.48%
+27	27aa, >3093Cancerppd... at 88.89%
+28	27aa, >3094Cancerppd... at 85.19%
+29	27aa, >3095Cancerppd... at 70.37%
+30	27aa, >3096Cancerppd... at 100.00%
+31	27aa, >3097Cancerppd... at 88.89%
+32	27aa, >3098Cancerppd... at 81.48%
+33	27aa, >3099Cancerppd... at 88.89%
+34	27aa, >3100Cancerppd... at 85.19%
+35	27aa, >3101Cancerppd... at 70.37%
+36	27aa, >DRAMP00240... at 100.00%
+37	27aa, >satpdb10959... at 100.00%
+38	27aa, >satpdb11564... at 88.89%
+39	27aa, >satpdb14454... at 85.19%
+40	27aa, >satpdb20749... at 81.48%
+41	27aa, >satpdb26589... at 70.37%
+42	27aa, >satpdb27256... at 88.89%
+>Cluster 87
+0	21aa, >887... at 57.14%
+1	17aa, >5466... at 70.59%
+2	27aa, >10522... *
+3	21aa, >13663... at 80.95%
+4	21aa, >1053Cancerppd... at 57.14%
+5	21aa, >1054Cancerppd... at 57.14%
+6	21aa, >1055Cancerppd... at 57.14%
+7	21aa, >1056Cancerppd... at 57.14%
+8	21aa, >1057Cancerppd... at 57.14%
+9	21aa, >1058Cancerppd... at 57.14%
+10	21aa, >1059Cancerppd... at 57.14%
+11	21aa, >1060Cancerppd... at 57.14%
+12	21aa, >1061Cancerppd... at 57.14%
+13	21aa, >1062Cancerppd... at 57.14%
+14	21aa, >1063Cancerppd... at 57.14%
+15	21aa, >1064Cancerppd... at 57.14%
+16	21aa, >1065Cancerppd... at 57.14%
+17	21aa, >1066Cancerppd... at 57.14%
+18	21aa, >1067Cancerppd... at 57.14%
+19	21aa, >1068Cancerppd... at 57.14%
+20	21aa, >1069Cancerppd... at 57.14%
+21	21aa, >1070Cancerppd... at 57.14%
+22	21aa, >1071Cancerppd... at 57.14%
+23	21aa, >1072Cancerppd... at 57.14%
+24	21aa, >1073Cancerppd... at 57.14%
+25	21aa, >1074Cancerppd... at 57.14%
+26	21aa, >1075Cancerppd... at 57.14%
+27	21aa, >1076Cancerppd... at 57.14%
+28	21aa, >1077Cancerppd... at 57.14%
+29	21aa, >1078Cancerppd... at 57.14%
+30	21aa, >1079Cancerppd... at 57.14%
+31	21aa, >1080Cancerppd... at 57.14%
+32	21aa, >1081Cancerppd... at 57.14%
+33	21aa, >1082Cancerppd... at 57.14%
+34	21aa, >1083Cancerppd... at 57.14%
+35	21aa, >1084Cancerppd... at 57.14%
+36	21aa, >1085Cancerppd... at 57.14%
+37	21aa, >1086Cancerppd... at 57.14%
+38	21aa, >1087Cancerppd... at 57.14%
+39	21aa, >1088Cancerppd... at 57.14%
+40	21aa, >1089Cancerppd... at 57.14%
+41	21aa, >1090Cancerppd... at 57.14%
+42	21aa, >1091Cancerppd... at 57.14%
+43	21aa, >1092Cancerppd... at 57.14%
+44	21aa, >1093Cancerppd... at 57.14%
+45	21aa, >1094Cancerppd... at 57.14%
+46	21aa, >1095Cancerppd... at 57.14%
+47	21aa, >1096Cancerppd... at 57.14%
+48	21aa, >1097Cancerppd... at 57.14%
+49	21aa, >1098Cancerppd... at 57.14%
+50	21aa, >1099Cancerppd... at 57.14%
+51	21aa, >1100Cancerppd... at 57.14%
+52	21aa, >1101Cancerppd... at 57.14%
+53	21aa, >1102Cancerppd... at 57.14%
+54	21aa, >1103Cancerppd... at 57.14%
+55	21aa, >1104Cancerppd... at 57.14%
+56	21aa, >1105Cancerppd... at 57.14%
+57	21aa, >1106Cancerppd... at 57.14%
+58	21aa, >1107Cancerppd... at 57.14%
+59	21aa, >1108Cancerppd... at 57.14%
+60	21aa, >1109Cancerppd... at 57.14%
+61	21aa, >1110Cancerppd... at 57.14%
+62	21aa, >1420Cancerppd... at 71.43%
+63	24aa, >satpdb11307... at 58.33%
+64	21aa, >satpdb13924... at 71.43%
+65	21aa, >satpdb18145... at 71.43%
+66	21aa, >satpdb19931... at 57.14%
+>Cluster 88
+0	12aa, >12016... at 100.00%
+1	24aa, >12018... at 50.00%
+2	27aa, >12031... *
+3	24aa, >12032... at 62.50%
+>Cluster 89
+0	18aa, >628... at 66.67%
+1	26aa, >5973... at 61.54%
+2	27aa, >12306... *
+3	12aa, >13673... at 66.67%
+4	27aa, >satpdb24401... at 59.26%
+>Cluster 90
+0	12aa, >13671... at 58.33%
+1	27aa, >13910... *
+2	23aa, >14948... at 65.22%
+3	15aa, >14950... at 100.00%
+>Cluster 91
+0	18aa, >672... at 66.67%
+1	18aa, >4756... at 66.67%
+2	16aa, >7143... at 87.50%
+3	16aa, >7145... at 100.00%
+4	16aa, >7765... at 81.25%
+5	16aa, >7766... at 81.25%
+6	16aa, >7767... at 81.25%
+7	16aa, >7768... at 81.25%
+8	9aa, >9764... at 55.56%
+9	9aa, >9771... at 55.56%
+10	9aa, >9778... at 66.67%
+11	9aa, >12599... at 66.67%
+12	12aa, >13670... at 83.33%
+13	12aa, >13672... at 100.00%
+14	12aa, >13675... at 91.67%
+15	12aa, >13676... at 58.33%
+16	12aa, >13677... at 91.67%
+17	12aa, >13678... at 91.67%
+18	12aa, >13679... at 75.00%
+19	12aa, >13680... at 75.00%
+20	12aa, >13681... at 83.33%
+21	12aa, >13682... at 75.00%
+22	12aa, >13683... at 75.00%
+23	12aa, >13684... at 75.00%
+24	12aa, >13685... at 75.00%
+25	12aa, >13688... at 58.33%
+26	12aa, >13693... at 66.67%
+27	27aa, >13912... *
+28	23aa, >13913... at 78.26%
+29	10aa, >14198... at 60.00%
+30	10aa, >14199... at 60.00%
+31	11aa, >14208... at 63.64%
+32	10aa, >14209... at 70.00%
+33	10aa, >14235... at 60.00%
+34	10aa, >14237... at 60.00%
+35	11aa, >14241... at 54.55%
+36	10aa, >14258... at 60.00%
+>Cluster 92
+0	27aa, >14986... *
+>Cluster 93
+0	25aa, >4200Cancerppd... at 88.00%
+1	27aa, >satpdb17795... *
+2	25aa, >satpdb24841... at 88.00%
+>Cluster 94
+0	26aa, >264... *
+1	26aa, >265... at 96.15%
+2	26aa, >267... at 92.31%
+3	26aa, >268... at 92.31%
+4	26aa, >270... at 88.46%
+5	26aa, >271... at 84.62%
+6	11aa, >943... at 63.64%
+7	26aa, >1440... at 92.31%
+8	26aa, >1441... at 92.31%
+9	26aa, >4703... at 88.46%
+10	26aa, >4705... at 88.46%
+11	26aa, >4707... at 88.46%
+12	26aa, >4710... at 88.46%
+13	26aa, >4711... at 88.46%
+14	26aa, >4712... at 88.46%
+15	26aa, >4713... at 88.46%
+16	26aa, >4714... at 88.46%
+17	26aa, >4715... at 88.46%
+18	26aa, >4716... at 88.46%
+19	26aa, >4717... at 88.46%
+20	26aa, >4718... at 88.46%
+21	26aa, >4719... at 88.46%
+22	26aa, >4720... at 88.46%
+23	26aa, >4721... at 88.46%
+24	26aa, >4722... at 88.46%
+25	26aa, >4723... at 88.46%
+26	17aa, >5211... at 58.82%
+27	16aa, >5213... at 56.25%
+28	15aa, >5215... at 60.00%
+29	26aa, >8383... at 92.31%
+30	26aa, >8384... at 92.31%
+31	26aa, >8385... at 88.46%
+32	26aa, >8386... at 96.15%
+33	26aa, >9703... at 92.31%
+34	26aa, >10934... at 96.15%
+35	26aa, >10935... at 96.15%
+36	26aa, >10936... at 96.15%
+37	26aa, >10937... at 96.15%
+38	26aa, >10938... at 96.15%
+39	26aa, >10939... at 96.15%
+40	26aa, >10940... at 96.15%
+41	26aa, >10941... at 96.15%
+42	17aa, >1132Cancerppd... at 58.82%
+43	16aa, >1134Cancerppd... at 56.25%
+44	15aa, >1136Cancerppd... at 60.00%
+45	17aa, >1154Cancerppd... at 58.82%
+46	16aa, >1156Cancerppd... at 56.25%
+47	15aa, >1158Cancerppd... at 60.00%
+48	17aa, >1176Cancerppd... at 58.82%
+49	16aa, >1178Cancerppd... at 56.25%
+50	15aa, >1180Cancerppd... at 60.00%
+51	26aa, >1445Cancerppd... at 96.15%
+52	26aa, >1446Cancerppd... at 88.46%
+53	26aa, >1447Cancerppd... at 92.31%
+54	26aa, >1448Cancerppd... at 88.46%
+55	26aa, >1449Cancerppd... at 100.00%
+56	26aa, >1450Cancerppd... at 96.15%
+57	26aa, >1451Cancerppd... at 92.31%
+58	26aa, >1452Cancerppd... at 92.31%
+59	26aa, >1453Cancerppd... at 88.46%
+60	26aa, >1454Cancerppd... at 84.62%
+61	26aa, >1455Cancerppd... at 96.15%
+62	26aa, >1456Cancerppd... at 88.46%
+63	26aa, >1457Cancerppd... at 92.31%
+64	26aa, >1458Cancerppd... at 88.46%
+65	26aa, >1459Cancerppd... at 100.00%
+66	26aa, >1460Cancerppd... at 96.15%
+67	26aa, >1461Cancerppd... at 92.31%
+68	26aa, >1462Cancerppd... at 92.31%
+69	26aa, >1463Cancerppd... at 88.46%
+70	26aa, >1464Cancerppd... at 84.62%
+71	26aa, >1465Cancerppd... at 96.15%
+72	26aa, >1466Cancerppd... at 88.46%
+73	26aa, >1467Cancerppd... at 92.31%
+74	26aa, >1468Cancerppd... at 88.46%
+75	26aa, >1469Cancerppd... at 100.00%
+76	26aa, >1470Cancerppd... at 96.15%
+77	26aa, >1471Cancerppd... at 92.31%
+78	26aa, >1472Cancerppd... at 92.31%
+79	26aa, >1473Cancerppd... at 88.46%
+80	26aa, >1474Cancerppd... at 84.62%
+81	26aa, >1475Cancerppd... at 96.15%
+82	26aa, >1476Cancerppd... at 88.46%
+83	26aa, >1477Cancerppd... at 92.31%
+84	26aa, >1478Cancerppd... at 88.46%
+85	26aa, >1479Cancerppd... at 100.00%
+86	26aa, >1480Cancerppd... at 96.15%
+87	26aa, >1481Cancerppd... at 92.31%
+88	26aa, >1482Cancerppd... at 92.31%
+89	26aa, >1483Cancerppd... at 88.46%
+90	26aa, >1484Cancerppd... at 84.62%
+91	26aa, >1485Cancerppd... at 96.15%
+92	26aa, >1486Cancerppd... at 88.46%
+93	26aa, >1487Cancerppd... at 92.31%
+94	26aa, >1488Cancerppd... at 88.46%
+95	26aa, >1489Cancerppd... at 100.00%
+96	26aa, >1490Cancerppd... at 96.15%
+97	26aa, >1491Cancerppd... at 92.31%
+98	26aa, >1492Cancerppd... at 92.31%
+99	26aa, >1493Cancerppd... at 88.46%
+100	26aa, >1494Cancerppd... at 84.62%
+101	26aa, >1495Cancerppd... at 96.15%
+102	26aa, >1496Cancerppd... at 88.46%
+103	26aa, >1497Cancerppd... at 92.31%
+104	26aa, >1498Cancerppd... at 88.46%
+105	26aa, >1499Cancerppd... at 100.00%
+106	26aa, >1500Cancerppd... at 96.15%
+107	26aa, >1501Cancerppd... at 92.31%
+108	26aa, >1502Cancerppd... at 92.31%
+109	26aa, >1503Cancerppd... at 88.46%
+110	26aa, >1504Cancerppd... at 84.62%
+111	26aa, >1505Cancerppd... at 96.15%
+112	26aa, >1506Cancerppd... at 88.46%
+113	26aa, >1507Cancerppd... at 92.31%
+114	26aa, >1508Cancerppd... at 88.46%
+115	26aa, >1509Cancerppd... at 100.00%
+116	26aa, >1510Cancerppd... at 96.15%
+117	26aa, >1511Cancerppd... at 92.31%
+118	26aa, >1512Cancerppd... at 92.31%
+119	26aa, >1513Cancerppd... at 88.46%
+120	26aa, >1514Cancerppd... at 84.62%
+121	26aa, >1515Cancerppd... at 96.15%
+122	26aa, >1516Cancerppd... at 88.46%
+123	26aa, >1517Cancerppd... at 92.31%
+124	26aa, >1518Cancerppd... at 88.46%
+125	26aa, >1519Cancerppd... at 100.00%
+126	26aa, >1520Cancerppd... at 96.15%
+127	26aa, >1521Cancerppd... at 92.31%
+128	26aa, >1522Cancerppd... at 92.31%
+129	26aa, >1523Cancerppd... at 88.46%
+130	26aa, >1524Cancerppd... at 84.62%
+131	11aa, >1716Cancerppd... at 63.64%
+132	11aa, >1717Cancerppd... at 63.64%
+133	11aa, >1718Cancerppd... at 63.64%
+134	11aa, >1719Cancerppd... at 63.64%
+135	11aa, >1720Cancerppd... at 63.64%
+136	11aa, >1721Cancerppd... at 63.64%
+137	11aa, >1735Cancerppd... at 63.64%
+138	11aa, >1739Cancerppd... at 63.64%
+139	11aa, >1749Cancerppd... at 63.64%
+140	11aa, >1750Cancerppd... at 63.64%
+141	11aa, >1751Cancerppd... at 63.64%
+142	11aa, >1752Cancerppd... at 63.64%
+143	11aa, >1753Cancerppd... at 63.64%
+144	11aa, >1754Cancerppd... at 63.64%
+145	11aa, >1755Cancerppd... at 63.64%
+146	11aa, >1756Cancerppd... at 63.64%
+147	11aa, >3247Cancerppd... at 63.64%
+148	11aa, >3248Cancerppd... at 63.64%
+149	11aa, >3249Cancerppd... at 63.64%
+150	11aa, >3250Cancerppd... at 63.64%
+151	11aa, >3251Cancerppd... at 63.64%
+152	11aa, >3252Cancerppd... at 63.64%
+153	11aa, >3253Cancerppd... at 63.64%
+154	11aa, >3747Cancerppd... at 63.64%
+155	11aa, >3748Cancerppd... at 63.64%
+156	11aa, >3749Cancerppd... at 63.64%
+157	11aa, >3750Cancerppd... at 63.64%
+158	11aa, >3751Cancerppd... at 63.64%
+159	11aa, >3752Cancerppd... at 63.64%
+160	11aa, >3753Cancerppd... at 63.64%
+161	11aa, >3754Cancerppd... at 63.64%
+162	26aa, >3755Cancerppd... at 88.46%
+163	17aa, >DRAMP03979... at 58.82%
+164	16aa, >DRAMP03981... at 56.25%
+165	15aa, >DRAMP03983... at 60.00%
+166	26aa, >DRAMP18517... at 88.46%
+167	26aa, >DRAMP18518... at 88.46%
+168	26aa, >DRAMP18519... at 88.46%
+169	26aa, >DRAMP18520... at 88.46%
+170	26aa, >DRAMP18521... at 88.46%
+171	26aa, >DRAMP18522... at 88.46%
+172	26aa, >DRAMP18523... at 88.46%
+173	26aa, >DRAMP18524... at 88.46%
+174	26aa, >DRAMP18525... at 88.46%
+175	26aa, >DRAMP18526... at 88.46%
+176	26aa, >DRAMP18527... at 88.46%
+177	26aa, >DRAMP18528... at 88.46%
+178	26aa, >DRAMP18529... at 88.46%
+179	26aa, >DRAMP18530... at 88.46%
+180	26aa, >DRAMP18531... at 88.46%
+181	26aa, >DRAMP18532... at 88.46%
+182	26aa, >satpdb10221... at 84.62%
+183	26aa, >satpdb10544... at 88.46%
+184	26aa, >satpdb10734... at 88.46%
+185	26aa, >satpdb11340... at 96.15%
+186	26aa, >satpdb11586... at 88.46%
+187	26aa, >satpdb12638... at 88.46%
+188	26aa, >satpdb13194... at 96.15%
+189	26aa, >satpdb16587... at 88.46%
+190	26aa, >satpdb16633... at 88.46%
+191	17aa, >satpdb16938... at 58.82%
+192	16aa, >satpdb17849... at 56.25%
+193	26aa, >satpdb18045... at 88.46%
+194	26aa, >satpdb19222... at 88.46%
+195	26aa, >satpdb19239... at 88.46%
+196	26aa, >satpdb20012... at 88.46%
+197	26aa, >satpdb21445... at 88.46%
+198	26aa, >satpdb21787... at 88.46%
+199	26aa, >satpdb22360... at 92.31%
+200	26aa, >satpdb22525... at 88.46%
+201	11aa, >satpdb22780... at 63.64%
+202	26aa, >satpdb23411... at 88.46%
+203	26aa, >satpdb23452... at 88.46%
+204	26aa, >satpdb24312... at 88.46%
+205	26aa, >satpdb24528... at 88.46%
+206	11aa, >satpdb24865... at 63.64%
+207	26aa, >satpdb26189... at 88.46%
+208	26aa, >satpdb26951... at 100.00%
+209	15aa, >satpdb27086... at 60.00%
+210	26aa, >satpdb27146... at 88.46%
+211	26aa, >satpdb27536... at 92.31%
+212	26aa, >satpdb28569... at 88.46%
+213	26aa, >satpdb29093... at 88.46%
+214	26aa, >satpdb29146... at 92.31%
+>Cluster 95
+0	26aa, >536... *
+1	26aa, >968... at 96.15%
+2	26aa, >969... at 96.15%
+3	26aa, >970... at 96.15%
+4	23aa, >971... at 100.00%
+5	14aa, >9164... at 57.14%
+6	13aa, >13158... at 61.54%
+7	26aa, >satpdb23171... at 96.15%
+8	26aa, >satpdb25857... at 100.00%
+>Cluster 96
+0	26aa, >998... *
+1	25aa, >1420... at 52.00%
+2	12aa, >3299... at 50.00%
+3	12aa, >3685Cancerppd... at 50.00%
+4	12aa, >3713Cancerppd... at 50.00%
+5	25aa, >satpdb11681... at 52.00%
+6	12aa, >satpdb23474... at 50.00%
+7	26aa, >satpdb26247... at 100.00%
+>Cluster 97
+0	24aa, >1410... at 62.50%
+1	26aa, >1412... *
+2	9aa, >2585... at 55.56%
+3	12aa, >3261... at 50.00%
+4	12aa, >3262... at 50.00%
+5	12aa, >3285... at 50.00%
+6	20aa, >5344... at 100.00%
+7	26aa, >5366... at 100.00%
+8	26aa, >5367... at 100.00%
+9	12aa, >3647Cancerppd... at 50.00%
+10	12aa, >3675Cancerppd... at 50.00%
+11	12aa, >3690Cancerppd... at 50.00%
+12	12aa, >3703Cancerppd... at 50.00%
+13	26aa, >4511Cancerppd... at 100.00%
+14	26aa, >4512Cancerppd... at 100.00%
+15	26aa, >4513Cancerppd... at 100.00%
+16	26aa, >4514Cancerppd... at 100.00%
+17	26aa, >4515Cancerppd... at 100.00%
+18	26aa, >4516Cancerppd... at 100.00%
+19	26aa, >4517Cancerppd... at 100.00%
+20	26aa, >4518Cancerppd... at 100.00%
+21	26aa, >4519Cancerppd... at 100.00%
+22	26aa, >4520Cancerppd... at 100.00%
+23	26aa, >4521Cancerppd... at 100.00%
+24	26aa, >4522Cancerppd... at 100.00%
+25	26aa, >4523Cancerppd... at 100.00%
+26	26aa, >4524Cancerppd... at 100.00%
+27	26aa, >4525Cancerppd... at 100.00%
+28	26aa, >4526Cancerppd... at 100.00%
+29	26aa, >4527Cancerppd... at 100.00%
+30	26aa, >4528Cancerppd... at 100.00%
+31	26aa, >4529Cancerppd... at 100.00%
+32	26aa, >4530Cancerppd... at 100.00%
+33	26aa, >4531Cancerppd... at 100.00%
+34	26aa, >4570Cancerppd... at 100.00%
+35	26aa, >4573Cancerppd... at 100.00%
+36	24aa, >satpdb10872... at 62.50%
+37	26aa, >satpdb14895... at 100.00%
+38	26aa, >satpdb16331... at 100.00%
+39	26aa, >satpdb16819... at 100.00%
+40	12aa, >satpdb18632... at 50.00%
+41	12aa, >satpdb20159... at 50.00%
+42	12aa, >satpdb20687... at 50.00%
+43	20aa, >satpdb27533... at 100.00%
+44	26aa, >satpdb28182... at 100.00%
+>Cluster 98
+0	26aa, >6333... *
+1	20aa, >satpdb12412... at 70.00%
+2	22aa, >satpdb17857... at 54.55%
+>Cluster 99
+0	26aa, >8795... *
+>Cluster 100
+0	11aa, >4876... at 54.55%
+1	11aa, >7740... at 54.55%
+2	11aa, >7741... at 54.55%
+3	8aa, >8061... at 62.50%
+4	11aa, >9387... at 54.55%
+5	11aa, >9389... at 54.55%
+6	11aa, >9390... at 54.55%
+7	26aa, >10592... *
+8	12aa, >13674... at 58.33%
+>Cluster 101
+0	26aa, >11935... *
+1	26aa, >11989... at 100.00%
+2	18aa, >satpdb10126... at 50.00%
+3	18aa, >satpdb12121... at 50.00%
+>Cluster 102
+0	14aa, >2336... at 57.14%
+1	14aa, >2338... at 50.00%
+2	14aa, >2342... at 57.14%
+3	12aa, >3306... at 58.33%
+4	15aa, >8064... at 53.33%
+5	26aa, >13114... *
+6	13aa, >1427Cancerppd... at 53.85%
+7	12aa, >3659Cancerppd... at 58.33%
+8	12aa, >3687Cancerppd... at 58.33%
+9	12aa, >3715Cancerppd... at 58.33%
+10	13aa, >satpdb12693... at 53.85%
+11	12aa, >satpdb29066... at 58.33%
+>Cluster 103
+0	26aa, >14130... *
+1	26aa, >14131... at 100.00%
+2	26aa, >14132... at 100.00%
+3	26aa, >14133... at 100.00%
+4	26aa, >1841Cancerppd... at 88.46%
+5	26aa, >1993Cancerppd... at 88.46%
+6	26aa, >2145Cancerppd... at 88.46%
+7	26aa, >2297Cancerppd... at 88.46%
+8	26aa, >2450Cancerppd... at 88.46%
+9	26aa, >2593Cancerppd... at 88.46%
+10	26aa, >2736Cancerppd... at 88.46%
+11	26aa, >3337Cancerppd... at 88.46%
+12	26aa, >3338Cancerppd... at 88.46%
+13	26aa, >3339Cancerppd... at 88.46%
+14	26aa, >3340Cancerppd... at 88.46%
+15	26aa, >3791Cancerppd... at 88.46%
+16	26aa, >3797Cancerppd... at 88.46%
+17	26aa, >3803Cancerppd... at 88.46%
+18	26aa, >3809Cancerppd... at 88.46%
+19	26aa, >3815Cancerppd... at 88.46%
+20	26aa, >satpdb21713... at 88.46%
+21	26aa, >satpdb26713... at 88.46%
+>Cluster 104
+0	14aa, >13157... at 64.29%
+1	12aa, >15931... at 75.00%
+2	12aa, >1799Cancerppd... at 75.00%
+3	26aa, >1888Cancerppd... *
+4	12aa, >1951Cancerppd... at 75.00%
+5	26aa, >2040Cancerppd... at 100.00%
+6	12aa, >2103Cancerppd... at 75.00%
+7	26aa, >2192Cancerppd... at 100.00%
+8	12aa, >2255Cancerppd... at 75.00%
+9	26aa, >2344Cancerppd... at 100.00%
+10	12aa, >2407Cancerppd... at 75.00%
+11	26aa, >2497Cancerppd... at 100.00%
+12	12aa, >2550Cancerppd... at 75.00%
+13	26aa, >2640Cancerppd... at 100.00%
+14	12aa, >2693Cancerppd... at 75.00%
+15	26aa, >2783Cancerppd... at 100.00%
+16	26aa, >satpdb18177... at 100.00%
+17	12aa, >satpdb19737... at 75.00%
+>Cluster 105
+0	13aa, >8813... at 76.92%
+1	9aa, >1548Cancerppd... at 100.00%
+2	26aa, >3718Cancerppd... *
+3	10aa, >4191Cancerppd... at 100.00%
+4	10aa, >4192Cancerppd... at 100.00%
+5	10aa, >4193Cancerppd... at 100.00%
+6	10aa, >4194Cancerppd... at 100.00%
+7	11aa, >satpdb10258... at 100.00%
+8	10aa, >satpdb17426... at 100.00%
+9	9aa, >satpdb20475... at 100.00%
+10	26aa, >satpdb23646... at 100.00%
+>Cluster 106
+0	12aa, >satpdb11089... at 100.00%
+1	13aa, >satpdb13970... at 100.00%
+2	26aa, >satpdb15770... *
+3	13aa, >satpdb21958... at 100.00%
+>Cluster 107
+0	10aa, >13117... at 60.00%
+1	10aa, >14367... at 60.00%
+2	10aa, >14368... at 60.00%
+3	10aa, >14369... at 60.00%
+4	26aa, >satpdb17813... *
+5	26aa, >satpdb18977... at 100.00%
+>Cluster 108
+0	11aa, >3726Cancerppd... at 54.55%
+1	11aa, >satpdb10244... at 54.55%
+2	26aa, >satpdb18073... *
+>Cluster 109
+0	19aa, >1428... at 52.63%
+1	9aa, >5443... at 55.56%
+2	19aa, >satpdb16706... at 52.63%
+3	26aa, >satpdb21624... *
+>Cluster 110
+0	26aa, >satpdb23349... *
+>Cluster 111
+0	9aa, >11876... at 66.67%
+1	9aa, >11877... at 66.67%
+2	9aa, >11896... at 66.67%
+3	9aa, >11897... at 66.67%
+4	9aa, >11898... at 66.67%
+5	9aa, >11899... at 66.67%
+6	9aa, >11900... at 66.67%
+7	9aa, >11901... at 66.67%
+8	9aa, >11906... at 66.67%
+9	26aa, >satpdb25257... *
+10	26aa, >satpdb25940... at 100.00%
+>Cluster 112
+0	25aa, >535... *
+1	10aa, >2413... at 70.00%
+2	10aa, >2977... at 80.00%
+3	10aa, >2987... at 80.00%
+4	10aa, >3010... at 80.00%
+5	10aa, >3019... at 80.00%
+6	10aa, >3031... at 70.00%
+7	10aa, >3044... at 80.00%
+8	12aa, >3270... at 50.00%
+9	20aa, >10040... at 50.00%
+10	9aa, >11198... at 66.67%
+11	11aa, >13013... at 72.73%
+12	14aa, >13394... at 64.29%
+13	16aa, >13395... at 62.50%
+14	12aa, >13691... at 66.67%
+15	10aa, >13929... at 70.00%
+16	12aa, >3639Cancerppd... at 50.00%
+17	12aa, >3667Cancerppd... at 50.00%
+18	12aa, >3695Cancerppd... at 50.00%
+19	12aa, >satpdb26207... at 50.00%
+>Cluster 113
+0	25aa, >995... *
+1	25aa, >996... at 80.00%
+2	25aa, >997... at 52.00%
+3	25aa, >1003... at 64.00%
+4	25aa, >1004... at 64.00%
+5	23aa, >1409... at 65.22%
+6	25aa, >5360... at 88.00%
+7	16aa, >8811... at 56.25%
+8	13aa, >1868Cancerppd... at 69.23%
+9	13aa, >2020Cancerppd... at 69.23%
+10	13aa, >2172Cancerppd... at 69.23%
+11	13aa, >2324Cancerppd... at 69.23%
+12	13aa, >2477Cancerppd... at 69.23%
+13	13aa, >2620Cancerppd... at 69.23%
+14	13aa, >2763Cancerppd... at 69.23%
+15	23aa, >4551Cancerppd... at 65.22%
+16	23aa, >4552Cancerppd... at 65.22%
+17	23aa, >4553Cancerppd... at 65.22%
+18	23aa, >4554Cancerppd... at 65.22%
+19	23aa, >4555Cancerppd... at 65.22%
+20	23aa, >4556Cancerppd... at 65.22%
+21	23aa, >4557Cancerppd... at 65.22%
+22	23aa, >4558Cancerppd... at 65.22%
+23	23aa, >4559Cancerppd... at 65.22%
+24	23aa, >4560Cancerppd... at 65.22%
+25	23aa, >4561Cancerppd... at 65.22%
+26	23aa, >4562Cancerppd... at 65.22%
+27	23aa, >4563Cancerppd... at 65.22%
+28	23aa, >4564Cancerppd... at 65.22%
+29	23aa, >4565Cancerppd... at 65.22%
+30	23aa, >4566Cancerppd... at 65.22%
+31	23aa, >4567Cancerppd... at 65.22%
+32	23aa, >4568Cancerppd... at 65.22%
+33	23aa, >4569Cancerppd... at 65.22%
+34	23aa, >4572Cancerppd... at 65.22%
+35	23aa, >4575Cancerppd... at 65.22%
+36	25aa, >satpdb10245... at 64.00%
+37	13aa, >satpdb11020... at 69.23%
+38	25aa, >satpdb12845... at 100.00%
+39	25aa, >satpdb17906... at 88.00%
+40	23aa, >satpdb18709... at 65.22%
+41	23aa, >satpdb26139... at 65.22%
+42	25aa, >satpdb26220... at 80.00%
+>Cluster 114
+0	25aa, >1105... *
+1	10aa, >satpdb22493... at 50.00%
+>Cluster 115
+0	25aa, >2042... *
+1	20aa, >2043... at 100.00%
+>Cluster 116
+0	25aa, >4506... *
+1	15aa, >15952... at 80.00%
+2	15aa, >1813Cancerppd... at 80.00%
+3	17aa, >1881Cancerppd... at 82.35%
+4	11aa, >1902Cancerppd... at 72.73%
+5	15aa, >1965Cancerppd... at 80.00%
+6	17aa, >2033Cancerppd... at 82.35%
+7	11aa, >2054Cancerppd... at 72.73%
+8	15aa, >2117Cancerppd... at 80.00%
+9	17aa, >2185Cancerppd... at 82.35%
+10	11aa, >2206Cancerppd... at 72.73%
+11	15aa, >2219Cancerppd... at 80.00%
+12	15aa, >2269Cancerppd... at 80.00%
+13	17aa, >2337Cancerppd... at 82.35%
+14	11aa, >2358Cancerppd... at 72.73%
+15	15aa, >2421Cancerppd... at 80.00%
+16	17aa, >2490Cancerppd... at 82.35%
+17	11aa, >2511Cancerppd... at 72.73%
+18	15aa, >2564Cancerppd... at 80.00%
+19	17aa, >2633Cancerppd... at 82.35%
+20	11aa, >2654Cancerppd... at 72.73%
+21	15aa, >2707Cancerppd... at 80.00%
+22	17aa, >2776Cancerppd... at 82.35%
+23	11aa, >2797Cancerppd... at 72.73%
+24	15aa, >satpdb15966... at 80.00%
+25	25aa, >satpdb17082... at 68.00%
+26	25aa, >satpdb21364... at 84.00%
+27	25aa, >satpdb22244... at 64.00%
+28	15aa, >satpdb22548... at 80.00%
+29	17aa, >satpdb25392... at 82.35%
+30	25aa, >satpdb27107... at 100.00%
+31	11aa, >satpdb27949... at 72.73%
+>Cluster 117
+0	25aa, >5361... *
+1	25aa, >5362... at 80.00%
+2	25aa, >5363... at 64.00%
+3	25aa, >5364... at 84.00%
+4	25aa, >5365... at 92.00%
+5	10aa, >5633... at 50.00%
+6	10aa, >9316... at 50.00%
+7	25aa, >4532Cancerppd... at 68.00%
+8	25aa, >4533Cancerppd... at 68.00%
+9	25aa, >4534Cancerppd... at 68.00%
+10	25aa, >4535Cancerppd... at 68.00%
+11	25aa, >4536Cancerppd... at 68.00%
+12	25aa, >4537Cancerppd... at 68.00%
+13	25aa, >4538Cancerppd... at 68.00%
+14	25aa, >4539Cancerppd... at 68.00%
+15	25aa, >4540Cancerppd... at 68.00%
+16	25aa, >4541Cancerppd... at 68.00%
+17	25aa, >4542Cancerppd... at 68.00%
+18	25aa, >4543Cancerppd... at 68.00%
+19	25aa, >4544Cancerppd... at 68.00%
+20	25aa, >4545Cancerppd... at 68.00%
+21	25aa, >4546Cancerppd... at 68.00%
+22	25aa, >4547Cancerppd... at 68.00%
+23	25aa, >4548Cancerppd... at 68.00%
+24	25aa, >4549Cancerppd... at 68.00%
+25	25aa, >4550Cancerppd... at 68.00%
+26	25aa, >4571Cancerppd... at 68.00%
+27	25aa, >4574Cancerppd... at 68.00%
+28	25aa, >satpdb10530... at 64.00%
+29	25aa, >satpdb14898... at 80.00%
+30	25aa, >satpdb19867... at 68.00%
+31	25aa, >satpdb22989... at 68.00%
+32	25aa, >satpdb24399... at 100.00%
+33	25aa, >satpdb27152... at 92.00%
+34	25aa, >satpdb28198... at 84.00%
+>Cluster 118
+0	25aa, >10358... *
+>Cluster 119
+0	25aa, >10836... *
+>Cluster 120
+0	25aa, >11532... *
+>Cluster 121
+0	25aa, >15088... *
+1	23aa, >15090... at 52.17%
+>Cluster 122
+0	11aa, >3834Cancerppd... at 100.00%
+1	11aa, >3835Cancerppd... at 100.00%
+2	11aa, >3836Cancerppd... at 100.00%
+3	25aa, >3837Cancerppd... *
+4	25aa, >3838Cancerppd... at 100.00%
+5	25aa, >3839Cancerppd... at 100.00%
+6	25aa, >3841Cancerppd... at 100.00%
+7	25aa, >3842Cancerppd... at 100.00%
+8	11aa, >satpdb12112... at 100.00%
+9	25aa, >satpdb16707... at 100.00%
+10	25aa, >satpdb19602... at 100.00%
+>Cluster 123
+0	25aa, >4201Cancerppd... *
+1	25aa, >satpdb18894... at 100.00%
+>Cluster 124
+0	9aa, >2591... at 66.67%
+1	12aa, >13535... at 50.00%
+2	25aa, >4202Cancerppd... *
+3	25aa, >satpdb14511... at 100.00%
+4	20aa, >satpdb23419... at 100.00%
+>Cluster 125
+0	25aa, >4203Cancerppd... *
+1	25aa, >satpdb20431... at 100.00%
+>Cluster 126
+0	25aa, >4204Cancerppd... *
+1	25aa, >satpdb16720... at 100.00%
+>Cluster 127
+0	14aa, >13160... at 57.14%
+1	25aa, >DRAMP01620... *
+>Cluster 128
+0	23aa, >4198... at 73.91%
+1	16aa, >13987... at 56.25%
+2	11aa, >15179... at 63.64%
+3	21aa, >2925Cancerppd... at 66.67%
+4	21aa, >2926Cancerppd... at 66.67%
+5	21aa, >2927Cancerppd... at 66.67%
+6	21aa, >2928Cancerppd... at 66.67%
+7	21aa, >2929Cancerppd... at 66.67%
+8	21aa, >2930Cancerppd... at 66.67%
+9	21aa, >2931Cancerppd... at 66.67%
+10	21aa, >2932Cancerppd... at 66.67%
+11	21aa, >2933Cancerppd... at 66.67%
+12	21aa, >2934Cancerppd... at 66.67%
+13	21aa, >2935Cancerppd... at 66.67%
+14	21aa, >2936Cancerppd... at 66.67%
+15	21aa, >2937Cancerppd... at 66.67%
+16	21aa, >2938Cancerppd... at 66.67%
+17	21aa, >2939Cancerppd... at 66.67%
+18	21aa, >2940Cancerppd... at 66.67%
+19	21aa, >2941Cancerppd... at 66.67%
+20	21aa, >2942Cancerppd... at 66.67%
+21	21aa, >2943Cancerppd... at 66.67%
+22	21aa, >2944Cancerppd... at 66.67%
+23	21aa, >2945Cancerppd... at 66.67%
+24	21aa, >2946Cancerppd... at 66.67%
+25	21aa, >2947Cancerppd... at 66.67%
+26	21aa, >2948Cancerppd... at 66.67%
+27	16aa, >2973Cancerppd... at 75.00%
+28	16aa, >2974Cancerppd... at 75.00%
+29	16aa, >2975Cancerppd... at 75.00%
+30	16aa, >2976Cancerppd... at 75.00%
+31	16aa, >2977Cancerppd... at 75.00%
+32	16aa, >2978Cancerppd... at 75.00%
+33	16aa, >2979Cancerppd... at 75.00%
+34	16aa, >2980Cancerppd... at 75.00%
+35	16aa, >2981Cancerppd... at 75.00%
+36	16aa, >2982Cancerppd... at 75.00%
+37	16aa, >2983Cancerppd... at 75.00%
+38	16aa, >2984Cancerppd... at 75.00%
+39	16aa, >2985Cancerppd... at 75.00%
+40	16aa, >2986Cancerppd... at 75.00%
+41	16aa, >2987Cancerppd... at 75.00%
+42	16aa, >2988Cancerppd... at 75.00%
+43	16aa, >2989Cancerppd... at 75.00%
+44	16aa, >2990Cancerppd... at 75.00%
+45	16aa, >2991Cancerppd... at 75.00%
+46	16aa, >2992Cancerppd... at 75.00%
+47	16aa, >2993Cancerppd... at 75.00%
+48	16aa, >2994Cancerppd... at 75.00%
+49	16aa, >2995Cancerppd... at 75.00%
+50	25aa, >DRAMP18494... *
+51	22aa, >satpdb12562... at 54.55%
+52	21aa, >satpdb15908... at 66.67%
+53	22aa, >satpdb17363... at 50.00%
+54	21aa, >satpdb19967... at 66.67%
+55	16aa, >satpdb23370... at 75.00%
+56	22aa, >satpdb25200... at 50.00%
+57	25aa, >satpdb25643... at 56.00%
+58	25aa, >satpdb28313... at 56.00%
+>Cluster 129
+0	24aa, >satpdb12405... at 58.33%
+1	25aa, >satpdb12859... *
+2	20aa, >satpdb13486... at 55.00%
+3	20aa, >satpdb15493... at 100.00%
+4	19aa, >satpdb17832... at 63.16%
+5	20aa, >satpdb18127... at 80.00%
+6	19aa, >satpdb18272... at 73.68%
+>Cluster 130
+0	24aa, >satpdb10762... at 87.50%
+1	24aa, >satpdb13254... at 83.33%
+2	25aa, >satpdb13953... *
+3	24aa, >satpdb15174... at 87.50%
+4	24aa, >satpdb17209... at 87.50%
+5	24aa, >satpdb18018... at 87.50%
+6	21aa, >satpdb18391... at 61.90%
+7	24aa, >satpdb18626... at 83.33%
+8	21aa, >satpdb18666... at 52.38%
+9	25aa, >satpdb21925... at 88.00%
+10	24aa, >satpdb23669... at 91.67%
+11	21aa, >satpdb24619... at 52.38%
+12	24aa, >satpdb25335... at 91.67%
+13	21aa, >satpdb25577... at 61.90%
+14	25aa, >satpdb25666... at 92.00%
+15	25aa, >satpdb25998... at 100.00%
+16	25aa, >satpdb26225... at 96.00%
+17	25aa, >satpdb28165... at 96.00%
+>Cluster 131
+0	25aa, >satpdb18497... *
+>Cluster 132
+0	17aa, >7558... at 58.82%
+1	9aa, >9776... at 55.56%
+2	9aa, >11201... at 66.67%
+3	15aa, >1111Cancerppd... at 100.00%
+4	15aa, >1113Cancerppd... at 100.00%
+5	15aa, >1114Cancerppd... at 100.00%
+6	15aa, >1115Cancerppd... at 100.00%
+7	22aa, >1352Cancerppd... at 100.00%
+8	22aa, >1353Cancerppd... at 68.18%
+9	18aa, >1604Cancerppd... at 83.33%
+10	18aa, >1605Cancerppd... at 66.67%
+11	18aa, >1619Cancerppd... at 83.33%
+12	18aa, >1620Cancerppd... at 66.67%
+13	18aa, >1634Cancerppd... at 83.33%
+14	18aa, >1635Cancerppd... at 66.67%
+15	12aa, >3282Cancerppd... at 100.00%
+16	12aa, >3283Cancerppd... at 100.00%
+17	12aa, >3284Cancerppd... at 100.00%
+18	12aa, >3285Cancerppd... at 100.00%
+19	12aa, >3286Cancerppd... at 100.00%
+20	12aa, >3287Cancerppd... at 100.00%
+21	12aa, >3314Cancerppd... at 100.00%
+22	12aa, >3315Cancerppd... at 100.00%
+23	12aa, >3316Cancerppd... at 100.00%
+24	12aa, >3341Cancerppd... at 100.00%
+25	22aa, >satpdb10588... at 100.00%
+26	12aa, >satpdb12645... at 100.00%
+27	25aa, >satpdb18777... *
+28	12aa, >satpdb20842... at 50.00%
+29	22aa, >satpdb23574... at 68.18%
+30	18aa, >satpdb23778... at 66.67%
+31	18aa, >satpdb26122... at 83.33%
+32	15aa, >satpdb28743... at 100.00%
+33	12aa, >satpdb28930... at 100.00%
+>Cluster 133
+0	24aa, >616... *
+1	16aa, >619... at 75.00%
+2	19aa, >2278... at 52.63%
+3	19aa, >4900... at 52.63%
+4	23aa, >10849... at 56.52%
+5	14aa, >12889... at 64.29%
+6	14aa, >12890... at 64.29%
+7	14aa, >12892... at 64.29%
+8	14aa, >12893... at 64.29%
+>Cluster 134
+0	24aa, >1001... *
+1	24aa, >1413... at 54.17%
+2	19aa, >1429... at 68.42%
+3	16aa, >4532... at 50.00%
+4	16aa, >4533... at 50.00%
+5	16aa, >4534... at 56.25%
+6	24aa, >satpdb13920... at 100.00%
+7	19aa, >satpdb16790... at 68.42%
+8	11aa, >satpdb22098... at 54.55%
+9	24aa, >satpdb29137... at 54.17%
+>Cluster 135
+0	20aa, >1468... at 70.00%
+1	20aa, >1469... at 85.00%
+2	24aa, >1569... *
+3	21aa, >2317... at 61.90%
+4	24aa, >2318... at 66.67%
+5	20aa, >2319... at 60.00%
+6	24aa, >2320... at 58.33%
+7	13aa, >2322... at 69.23%
+8	24aa, >3536... at 70.83%
+9	24aa, >4213... at 66.67%
+10	24aa, >4214... at 62.50%
+11	24aa, >4215... at 70.83%
+12	24aa, >4418... at 62.50%
+13	24aa, >4419... at 62.50%
+14	24aa, >6167... at 62.50%
+15	24aa, >6168... at 70.83%
+16	24aa, >6169... at 66.67%
+17	24aa, >6170... at 66.67%
+18	20aa, >6703... at 55.00%
+19	21aa, >6840... at 61.90%
+20	20aa, >10585... at 50.00%
+21	20aa, >11075... at 60.00%
+22	14aa, >13348... at 57.14%
+23	21aa, >13651... at 61.90%
+24	17aa, >13655... at 70.59%
+25	21aa, >13656... at 57.14%
+26	21aa, >13657... at 57.14%
+27	21aa, >13658... at 57.14%
+28	21aa, >13659... at 57.14%
+29	21aa, >13667... at 61.90%
+30	24aa, >13908... at 70.83%
+31	24aa, >13909... at 66.67%
+32	21aa, >16101... at 52.38%
+33	24aa, >1001Cancerppd... at 66.67%
+34	21aa, >1002Cancerppd... at 61.90%
+35	20aa, >1003Cancerppd... at 60.00%
+36	24aa, >1004Cancerppd... at 58.33%
+37	13aa, >1005Cancerppd... at 69.23%
+38	13aa, >1006Cancerppd... at 69.23%
+39	24aa, >1009Cancerppd... at 66.67%
+40	21aa, >1010Cancerppd... at 61.90%
+41	20aa, >1011Cancerppd... at 60.00%
+42	24aa, >1012Cancerppd... at 58.33%
+43	13aa, >1013Cancerppd... at 69.23%
+44	13aa, >1014Cancerppd... at 69.23%
+45	24aa, >1017Cancerppd... at 66.67%
+46	21aa, >1018Cancerppd... at 61.90%
+47	20aa, >1019Cancerppd... at 60.00%
+48	24aa, >1020Cancerppd... at 58.33%
+49	13aa, >1021Cancerppd... at 69.23%
+50	13aa, >1022Cancerppd... at 69.23%
+51	24aa, >1025Cancerppd... at 66.67%
+52	21aa, >1026Cancerppd... at 61.90%
+53	20aa, >1027Cancerppd... at 60.00%
+54	24aa, >1028Cancerppd... at 58.33%
+55	13aa, >1029Cancerppd... at 69.23%
+56	13aa, >1030Cancerppd... at 69.23%
+57	24aa, >1033Cancerppd... at 66.67%
+58	21aa, >1034Cancerppd... at 61.90%
+59	20aa, >1035Cancerppd... at 60.00%
+60	24aa, >1036Cancerppd... at 58.33%
+61	13aa, >1037Cancerppd... at 69.23%
+62	13aa, >1038Cancerppd... at 69.23%
+63	24aa, >satpdb13603... at 58.33%
+64	24aa, >satpdb14075... at 58.33%
+65	24aa, >satpdb17760... at 70.83%
+66	24aa, >satpdb19389... at 62.50%
+67	20aa, >satpdb19872... at 60.00%
+68	24aa, >satpdb21377... at 66.67%
+69	24aa, >satpdb22378... at 66.67%
+70	24aa, >satpdb25928... at 70.83%
+71	13aa, >satpdb28603... at 69.23%
+72	24aa, >satpdb29106... at 66.67%
+73	21aa, >satpdb29190... at 61.90%
+>Cluster 136
+0	24aa, >4143... *
+>Cluster 137
+0	24aa, >4194... *
+>Cluster 138
+0	24aa, >4294... *
+1	24aa, >satpdb22267... at 100.00%
+>Cluster 139
+0	20aa, >1273... at 60.00%
+1	24aa, >10248... *
+2	24aa, >10249... at 100.00%
+3	24aa, >10251... at 95.83%
+4	24aa, >10252... at 95.83%
+5	14aa, >13798... at 57.14%
+6	14aa, >13799... at 57.14%
+7	14aa, >13800... at 57.14%
+8	14aa, >13801... at 57.14%
+9	14aa, >13802... at 57.14%
+10	20aa, >satpdb15327... at 60.00%
+>Cluster 140
+0	22aa, >10519... at 59.09%
+1	23aa, >11470... at 60.87%
+2	13aa, >11806... at 100.00%
+3	24aa, >11807... *
+4	20aa, >13836... at 60.00%
+5	22aa, >4195Cancerppd... at 59.09%
+6	22aa, >4196Cancerppd... at 59.09%
+7	22aa, >4197Cancerppd... at 59.09%
+8	22aa, >4198Cancerppd... at 59.09%
+9	22aa, >satpdb16503... at 59.09%
+>Cluster 141
+0	15aa, >5882... at 53.33%
+1	8aa, >9486... at 50.00%
+2	8aa, >9487... at 50.00%
+3	13aa, >10560... at 53.85%
+4	13aa, >10563... at 53.85%
+5	15aa, >10812... at 53.33%
+6	24aa, >12376... *
+7	11aa, >12603... at 63.64%
+>Cluster 142
+0	10aa, >2906... at 70.00%
+1	10aa, >2908... at 80.00%
+2	10aa, >2912... at 80.00%
+3	10aa, >3034... at 70.00%
+4	10aa, >3038... at 70.00%
+5	12aa, >5722... at 58.33%
+6	9aa, >9774... at 55.56%
+7	13aa, >10050... at 53.85%
+8	23aa, >10908... at 56.52%
+9	9aa, >11195... at 66.67%
+10	15aa, >12591... at 100.00%
+11	24aa, >12592... *
+12	12aa, >satpdb28566... at 58.33%
+>Cluster 143
+0	24aa, >12671... *
+>Cluster 144
+0	11aa, >11956... at 54.55%
+1	24aa, >13109... *
+2	17aa, >13116... at 52.94%
+>Cluster 145
+0	20aa, >11380... at 60.00%
+1	23aa, >15913... at 69.57%
+2	23aa, >15914... at 69.57%
+3	23aa, >15921... at 69.57%
+4	16aa, >15922... at 68.75%
+5	23aa, >15923... at 69.57%
+6	15aa, >15926... at 73.33%
+7	24aa, >1357Cancerppd... *
+8	24aa, >1358Cancerppd... at 100.00%
+9	24aa, >1363Cancerppd... at 100.00%
+10	24aa, >1364Cancerppd... at 100.00%
+11	24aa, >1369Cancerppd... at 100.00%
+12	24aa, >1370Cancerppd... at 100.00%
+13	24aa, >1375Cancerppd... at 100.00%
+14	24aa, >1376Cancerppd... at 100.00%
+15	24aa, >1381Cancerppd... at 100.00%
+16	24aa, >1382Cancerppd... at 100.00%
+17	24aa, >1387Cancerppd... at 100.00%
+18	24aa, >1388Cancerppd... at 100.00%
+19	24aa, >1393Cancerppd... at 100.00%
+20	24aa, >1394Cancerppd... at 100.00%
+21	24aa, >1399Cancerppd... at 100.00%
+22	24aa, >1400Cancerppd... at 100.00%
+23	24aa, >1405Cancerppd... at 100.00%
+24	24aa, >1406Cancerppd... at 100.00%
+25	24aa, >1411Cancerppd... at 100.00%
+26	24aa, >1412Cancerppd... at 100.00%
+27	23aa, >1773Cancerppd... at 69.57%
+28	23aa, >1774Cancerppd... at 69.57%
+29	23aa, >1785Cancerppd... at 69.57%
+30	16aa, >1786Cancerppd... at 68.75%
+31	15aa, >1792Cancerppd... at 73.33%
+32	11aa, >1892Cancerppd... at 72.73%
+33	23aa, >1921Cancerppd... at 69.57%
+34	23aa, >1922Cancerppd... at 69.57%
+35	23aa, >1925Cancerppd... at 69.57%
+36	23aa, >1926Cancerppd... at 69.57%
+37	23aa, >1937Cancerppd... at 69.57%
+38	16aa, >1938Cancerppd... at 68.75%
+39	15aa, >1944Cancerppd... at 73.33%
+40	11aa, >2044Cancerppd... at 72.73%
+41	23aa, >2073Cancerppd... at 69.57%
+42	23aa, >2074Cancerppd... at 69.57%
+43	23aa, >2077Cancerppd... at 69.57%
+44	23aa, >2078Cancerppd... at 69.57%
+45	23aa, >2089Cancerppd... at 69.57%
+46	16aa, >2090Cancerppd... at 68.75%
+47	11aa, >2196Cancerppd... at 72.73%
+48	23aa, >2225Cancerppd... at 69.57%
+49	23aa, >2226Cancerppd... at 69.57%
+50	23aa, >2229Cancerppd... at 69.57%
+51	23aa, >2230Cancerppd... at 69.57%
+52	23aa, >2241Cancerppd... at 69.57%
+53	16aa, >2242Cancerppd... at 68.75%
+54	15aa, >2248Cancerppd... at 73.33%
+55	11aa, >2348Cancerppd... at 72.73%
+56	16aa, >2371Cancerppd... at 75.00%
+57	23aa, >2377Cancerppd... at 69.57%
+58	23aa, >2378Cancerppd... at 69.57%
+59	23aa, >2381Cancerppd... at 69.57%
+60	23aa, >2382Cancerppd... at 69.57%
+61	23aa, >2393Cancerppd... at 69.57%
+62	16aa, >2394Cancerppd... at 68.75%
+63	15aa, >2400Cancerppd... at 73.33%
+64	11aa, >2501Cancerppd... at 72.73%
+65	23aa, >2524Cancerppd... at 69.57%
+66	23aa, >2525Cancerppd... at 69.57%
+67	23aa, >2536Cancerppd... at 69.57%
+68	16aa, >2537Cancerppd... at 68.75%
+69	15aa, >2543Cancerppd... at 73.33%
+70	11aa, >2644Cancerppd... at 72.73%
+71	23aa, >2667Cancerppd... at 69.57%
+72	23aa, >2668Cancerppd... at 69.57%
+73	23aa, >2679Cancerppd... at 69.57%
+74	16aa, >2680Cancerppd... at 68.75%
+75	15aa, >2686Cancerppd... at 73.33%
+76	11aa, >2787Cancerppd... at 72.73%
+77	11aa, >satpdb10696... at 72.73%
+78	23aa, >satpdb11430... at 69.57%
+79	16aa, >satpdb11982... at 75.00%
+80	23aa, >satpdb15987... at 69.57%
+81	23aa, >satpdb16251... at 69.57%
+82	24aa, >satpdb19558... at 100.00%
+83	23aa, >satpdb25879... at 69.57%
+84	16aa, >satpdb26638... at 68.75%
+85	23aa, >satpdb26708... at 69.57%
+86	15aa, >satpdb27420... at 73.33%
+>Cluster 146
+0	24aa, >satpdb12199... *
+>Cluster 147
+0	23aa, >satpdb11820... at 56.52%
+1	22aa, >satpdb12249... at 63.64%
+2	24aa, >satpdb14027... *
+3	24aa, >satpdb17154... at 54.17%
+4	22aa, >satpdb24072... at 63.64%
+5	24aa, >satpdb25491... at 58.33%
+6	23aa, >satpdb26801... at 60.87%
+>Cluster 148
+0	11aa, >16120... at 54.55%
+1	24aa, >satpdb22012... *
+2	15aa, >satpdb28594... at 53.33%
+>Cluster 149
+0	23aa, >360... *
+1	22aa, >763... at 72.73%
+2	20aa, >5147... at 60.00%
+3	15aa, >5207... at 60.00%
+4	14aa, >5209... at 64.29%
+5	14aa, >5273... at 57.14%
+6	23aa, >5368... at 100.00%
+7	18aa, >8212... at 55.56%
+8	22aa, >13115... at 72.73%
+9	23aa, >13418... at 73.91%
+10	23aa, >13419... at 65.22%
+11	23aa, >13420... at 60.87%
+12	23aa, >13421... at 56.52%
+13	23aa, >13422... at 56.52%
+14	17aa, >14252... at 100.00%
+15	17aa, >14253... at 76.47%
+16	17aa, >14254... at 88.24%
+17	17aa, >14255... at 88.24%
+18	17aa, >14256... at 64.71%
+19	17aa, >14257... at 64.71%
+20	23aa, >1041Cancerppd... at 95.65%
+21	23aa, >1042Cancerppd... at 95.65%
+22	23aa, >1043Cancerppd... at 95.65%
+23	23aa, >1044Cancerppd... at 95.65%
+24	23aa, >1045Cancerppd... at 95.65%
+25	23aa, >1046Cancerppd... at 95.65%
+26	23aa, >1047Cancerppd... at 91.30%
+27	23aa, >1048Cancerppd... at 91.30%
+28	23aa, >1049Cancerppd... at 91.30%
+29	23aa, >1050Cancerppd... at 91.30%
+30	23aa, >1051Cancerppd... at 91.30%
+31	23aa, >1052Cancerppd... at 91.30%
+32	23aa, >1116Cancerppd... at 100.00%
+33	22aa, >1117Cancerppd... at 72.73%
+34	15aa, >1126Cancerppd... at 60.00%
+35	14aa, >1127Cancerppd... at 64.29%
+36	14aa, >1129Cancerppd... at 57.14%
+37	14aa, >1130Cancerppd... at 57.14%
+38	15aa, >1148Cancerppd... at 60.00%
+39	14aa, >1149Cancerppd... at 64.29%
+40	14aa, >1152Cancerppd... at 57.14%
+41	15aa, >1170Cancerppd... at 60.00%
+42	14aa, >1171Cancerppd... at 64.29%
+43	14aa, >1174Cancerppd... at 57.14%
+44	20aa, >1185Cancerppd... at 60.00%
+45	20aa, >1189Cancerppd... at 60.00%
+46	20aa, >1193Cancerppd... at 60.00%
+47	20aa, >1197Cancerppd... at 60.00%
+48	20aa, >1201Cancerppd... at 60.00%
+49	20aa, >1204Cancerppd... at 50.00%
+50	20aa, >1206Cancerppd... at 55.00%
+51	20aa, >1209Cancerppd... at 55.00%
+52	20aa, >1210Cancerppd... at 55.00%
+53	20aa, >1211Cancerppd... at 60.00%
+54	20aa, >1214Cancerppd... at 50.00%
+55	20aa, >1216Cancerppd... at 55.00%
+56	20aa, >1219Cancerppd... at 55.00%
+57	20aa, >1220Cancerppd... at 55.00%
+58	20aa, >1221Cancerppd... at 60.00%
+59	20aa, >1224Cancerppd... at 50.00%
+60	20aa, >1226Cancerppd... at 55.00%
+61	20aa, >1229Cancerppd... at 55.00%
+62	20aa, >1230Cancerppd... at 55.00%
+63	23aa, >1306Cancerppd... at 100.00%
+64	23aa, >1307Cancerppd... at 100.00%
+65	23aa, >1308Cancerppd... at 100.00%
+66	23aa, >1309Cancerppd... at 100.00%
+67	23aa, >1310Cancerppd... at 100.00%
+68	23aa, >1311Cancerppd... at 100.00%
+69	23aa, >1312Cancerppd... at 100.00%
+70	23aa, >1313Cancerppd... at 100.00%
+71	23aa, >1314Cancerppd... at 100.00%
+72	23aa, >1354Cancerppd... at 86.96%
+73	23aa, >1355Cancerppd... at 91.30%
+74	23aa, >1356Cancerppd... at 95.65%
+75	23aa, >1359Cancerppd... at 100.00%
+76	23aa, >1360Cancerppd... at 86.96%
+77	23aa, >1361Cancerppd... at 91.30%
+78	23aa, >1362Cancerppd... at 95.65%
+79	23aa, >1365Cancerppd... at 100.00%
+80	23aa, >1366Cancerppd... at 86.96%
+81	23aa, >1367Cancerppd... at 91.30%
+82	23aa, >1368Cancerppd... at 95.65%
+83	23aa, >1371Cancerppd... at 100.00%
+84	23aa, >1372Cancerppd... at 86.96%
+85	23aa, >1373Cancerppd... at 91.30%
+86	23aa, >1374Cancerppd... at 95.65%
+87	23aa, >1377Cancerppd... at 100.00%
+88	23aa, >1378Cancerppd... at 86.96%
+89	23aa, >1379Cancerppd... at 91.30%
+90	23aa, >1380Cancerppd... at 95.65%
+91	23aa, >1383Cancerppd... at 100.00%
+92	23aa, >1384Cancerppd... at 86.96%
+93	23aa, >1385Cancerppd... at 91.30%
+94	23aa, >1386Cancerppd... at 95.65%
+95	23aa, >1389Cancerppd... at 100.00%
+96	23aa, >1390Cancerppd... at 86.96%
+97	23aa, >1391Cancerppd... at 91.30%
+98	23aa, >1392Cancerppd... at 95.65%
+99	23aa, >1395Cancerppd... at 100.00%
+100	23aa, >1396Cancerppd... at 86.96%
+101	23aa, >1397Cancerppd... at 91.30%
+102	23aa, >1398Cancerppd... at 95.65%
+103	23aa, >1401Cancerppd... at 100.00%
+104	23aa, >1402Cancerppd... at 86.96%
+105	23aa, >1403Cancerppd... at 91.30%
+106	23aa, >1404Cancerppd... at 95.65%
+107	23aa, >1407Cancerppd... at 100.00%
+108	23aa, >1408Cancerppd... at 86.96%
+109	23aa, >1409Cancerppd... at 91.30%
+110	23aa, >1410Cancerppd... at 95.65%
+111	23aa, >1413Cancerppd... at 100.00%
+112	22aa, >1425Cancerppd... at 72.73%
+113	22aa, >1794Cancerppd... at 72.73%
+114	23aa, >1909Cancerppd... at 86.96%
+115	22aa, >1946Cancerppd... at 72.73%
+116	23aa, >2061Cancerppd... at 86.96%
+117	22aa, >2098Cancerppd... at 72.73%
+118	23aa, >2213Cancerppd... at 86.96%
+119	22aa, >2250Cancerppd... at 72.73%
+120	23aa, >2365Cancerppd... at 86.96%
+121	23aa, >2518Cancerppd... at 86.96%
+122	22aa, >2545Cancerppd... at 72.73%
+123	23aa, >2661Cancerppd... at 86.96%
+124	22aa, >2688Cancerppd... at 72.73%
+125	23aa, >2804Cancerppd... at 86.96%
+126	20aa, >3350Cancerppd... at 60.00%
+127	20aa, >3351Cancerppd... at 60.00%
+128	20aa, >3352Cancerppd... at 60.00%
+129	20aa, >3353Cancerppd... at 60.00%
+130	20aa, >3354Cancerppd... at 60.00%
+131	20aa, >3355Cancerppd... at 60.00%
+132	15aa, >DRAMP03973... at 60.00%
+133	14aa, >DRAMP03974... at 64.29%
+134	14aa, >DRAMP03977... at 57.14%
+135	23aa, >satpdb11151... at 100.00%
+136	22aa, >satpdb13229... at 72.73%
+137	14aa, >satpdb14752... at 64.29%
+138	23aa, >satpdb15178... at 86.96%
+139	14aa, >satpdb16041... at 57.14%
+140	15aa, >satpdb16254... at 60.00%
+141	20aa, >satpdb16315... at 55.00%
+142	20aa, >satpdb16656... at 55.00%
+143	20aa, >satpdb17056... at 50.00%
+144	20aa, >satpdb18393... at 55.00%
+145	20aa, >satpdb20529... at 60.00%
+146	23aa, >satpdb21239... at 95.65%
+147	23aa, >satpdb22069... at 91.30%
+148	22aa, >satpdb22188... at 72.73%
+149	23aa, >satpdb27715... at 100.00%
+150	22aa, >satpdb28333... at 72.73%
+151	23aa, >satpdb28412... at 86.96%
+>Cluster 150
+0	19aa, >1434... at 100.00%
+1	23aa, >1435... *
+2	19aa, >satpdb12620... at 100.00%
+3	23aa, >satpdb14627... at 100.00%
+>Cluster 151
+0	23aa, >2156... *
+1	22aa, >DRAMP02126... at 50.00%
+2	23aa, >satpdb11811... at 100.00%
+>Cluster 152
+0	23aa, >3050... *
+1	23aa, >3051... at 95.65%
+2	23aa, >3052... at 95.65%
+3	23aa, >3053... at 95.65%
+4	23aa, >3054... at 91.30%
+5	23aa, >3055... at 91.30%
+6	23aa, >3056... at 86.96%
+7	11aa, >13028... at 63.64%
+8	11aa, >13039... at 63.64%
+>Cluster 153
+0	23aa, >11273... *
+>Cluster 154
+0	15aa, >447... at 73.33%
+1	20aa, >2063... at 75.00%
+2	23aa, >15983... *
+3	22aa, >16017... at 50.00%
+4	20aa, >1202Cancerppd... at 75.00%
+5	20aa, >1203Cancerppd... at 65.00%
+6	20aa, >1212Cancerppd... at 75.00%
+7	20aa, >1213Cancerppd... at 65.00%
+8	20aa, >1222Cancerppd... at 75.00%
+9	20aa, >1223Cancerppd... at 65.00%
+10	15aa, >1803Cancerppd... at 73.33%
+11	23aa, >1838Cancerppd... at 100.00%
+12	15aa, >1864Cancerppd... at 53.33%
+13	22aa, >1866Cancerppd... at 50.00%
+14	13aa, >1880Cancerppd... at 61.54%
+15	13aa, >1885Cancerppd... at 69.23%
+16	15aa, >1955Cancerppd... at 73.33%
+17	23aa, >1990Cancerppd... at 100.00%
+18	15aa, >2016Cancerppd... at 53.33%
+19	22aa, >2018Cancerppd... at 50.00%
+20	13aa, >2032Cancerppd... at 61.54%
+21	13aa, >2037Cancerppd... at 69.23%
+22	15aa, >2107Cancerppd... at 73.33%
+23	23aa, >2142Cancerppd... at 100.00%
+24	15aa, >2168Cancerppd... at 53.33%
+25	22aa, >2170Cancerppd... at 50.00%
+26	13aa, >2184Cancerppd... at 61.54%
+27	13aa, >2189Cancerppd... at 69.23%
+28	15aa, >2259Cancerppd... at 73.33%
+29	23aa, >2294Cancerppd... at 100.00%
+30	15aa, >2320Cancerppd... at 53.33%
+31	22aa, >2322Cancerppd... at 50.00%
+32	13aa, >2336Cancerppd... at 61.54%
+33	13aa, >2341Cancerppd... at 69.23%
+34	15aa, >2411Cancerppd... at 73.33%
+35	23aa, >2447Cancerppd... at 100.00%
+36	15aa, >2473Cancerppd... at 53.33%
+37	22aa, >2475Cancerppd... at 50.00%
+38	13aa, >2489Cancerppd... at 61.54%
+39	13aa, >2494Cancerppd... at 69.23%
+40	15aa, >2554Cancerppd... at 73.33%
+41	23aa, >2590Cancerppd... at 100.00%
+42	15aa, >2616Cancerppd... at 53.33%
+43	22aa, >2618Cancerppd... at 50.00%
+44	13aa, >2632Cancerppd... at 61.54%
+45	13aa, >2637Cancerppd... at 69.23%
+46	15aa, >2697Cancerppd... at 73.33%
+47	23aa, >2733Cancerppd... at 100.00%
+48	15aa, >2759Cancerppd... at 53.33%
+49	22aa, >2761Cancerppd... at 50.00%
+50	13aa, >2775Cancerppd... at 61.54%
+51	13aa, >2780Cancerppd... at 69.23%
+52	15aa, >2878Cancerppd... at 73.33%
+53	15aa, >satpdb12306... at 73.33%
+54	13aa, >satpdb15116... at 61.54%
+55	15aa, >satpdb15977... at 53.33%
+56	15aa, >satpdb16404... at 73.33%
+57	20aa, >satpdb19156... at 65.00%
+58	20aa, >satpdb19377... at 75.00%
+59	13aa, >satpdb25296... at 69.23%
+60	23aa, >satpdb26377... at 100.00%
+61	22aa, >satpdb28696... at 50.00%
+>Cluster 155
+0	16aa, >4093Cancerppd... at 50.00%
+1	16aa, >4094Cancerppd... at 50.00%
+2	16aa, >4095Cancerppd... at 50.00%
+3	16aa, >4096Cancerppd... at 50.00%
+4	16aa, >4097Cancerppd... at 50.00%
+5	16aa, >4098Cancerppd... at 50.00%
+6	16aa, >4099Cancerppd... at 50.00%
+7	16aa, >4100Cancerppd... at 50.00%
+8	16aa, >4101Cancerppd... at 50.00%
+9	16aa, >4129Cancerppd... at 50.00%
+10	16aa, >4130Cancerppd... at 50.00%
+11	16aa, >4131Cancerppd... at 50.00%
+12	16aa, >4132Cancerppd... at 50.00%
+13	16aa, >4133Cancerppd... at 50.00%
+14	16aa, >4134Cancerppd... at 50.00%
+15	16aa, >4135Cancerppd... at 50.00%
+16	16aa, >4136Cancerppd... at 50.00%
+17	16aa, >4137Cancerppd... at 50.00%
+18	23aa, >satpdb10860... *
+19	16aa, >satpdb13087... at 50.00%
+20	22aa, >satpdb15478... at 86.36%
+21	22aa, >satpdb23992... at 86.36%
+22	23aa, >satpdb24317... at 100.00%
+23	16aa, >satpdb25380... at 50.00%
+>Cluster 156
+0	22aa, >4142... *
+>Cluster 157
+0	22aa, >4146... *
+1	22aa, >9736... at 95.45%
+2	22aa, >9737... at 95.45%
+>Cluster 158
+0	22aa, >7713... *
+>Cluster 159
+0	22aa, >8286... *
+1	19aa, >8287... at 89.47%
+>Cluster 160
+0	10aa, >5634... at 50.00%
+1	11aa, >7746... at 54.55%
+2	22aa, >9496... *
+3	20aa, >9498... at 65.00%
+4	20aa, >9499... at 70.00%
+5	20aa, >9500... at 70.00%
+6	20aa, >9505... at 90.00%
+7	20aa, >9506... at 65.00%
+8	20aa, >9507... at 90.00%
+9	20aa, >9509... at 90.00%
+10	20aa, >9510... at 90.00%
+11	20aa, >9511... at 75.00%
+12	7aa, >11225... at 57.14%
+13	7aa, >11226... at 57.14%
+14	7aa, >11242... at 57.14%
+15	7aa, >11243... at 57.14%
+16	7aa, >11244... at 57.14%
+17	14aa, >13932... at 57.14%
+>Cluster 161
+0	11aa, >6283... at 54.55%
+1	14aa, >8128... at 50.00%
+2	22aa, >9755... *
+>Cluster 162
+0	11aa, >6282... at 54.55%
+1	9aa, >9777... at 66.67%
+2	10aa, >9886... at 100.00%
+3	14aa, >9887... at 100.00%
+4	18aa, >9888... at 100.00%
+5	22aa, >9889... *
+6	9aa, >11879... at 66.67%
+7	9aa, >11907... at 77.78%
+8	8aa, >11908... at 75.00%
+9	12aa, >13690... at 66.67%
+10	12aa, >13692... at 66.67%
+>Cluster 163
+0	22aa, >10591... *
+>Cluster 164
+0	22aa, >12228... *
+>Cluster 165
+0	10aa, >7769... at 60.00%
+1	22aa, >12363... *
+2	22aa, >12364... at 90.91%
+3	22aa, >12365... at 90.91%
+4	22aa, >12366... at 59.09%
+5	22aa, >12367... at 72.73%
+6	12aa, >12772... at 75.00%
+>Cluster 166
+0	22aa, >12632... *
+1	12aa, >13530... at 66.67%
+2	13aa, >1863Cancerppd... at 61.54%
+3	15aa, >1869Cancerppd... at 60.00%
+4	10aa, >1911Cancerppd... at 70.00%
+5	13aa, >2015Cancerppd... at 61.54%
+6	15aa, >2021Cancerppd... at 60.00%
+7	10aa, >2063Cancerppd... at 70.00%
+8	13aa, >2167Cancerppd... at 61.54%
+9	15aa, >2173Cancerppd... at 60.00%
+10	10aa, >2215Cancerppd... at 70.00%
+11	13aa, >2319Cancerppd... at 61.54%
+12	15aa, >2325Cancerppd... at 60.00%
+13	10aa, >2367Cancerppd... at 70.00%
+14	13aa, >2472Cancerppd... at 61.54%
+15	15aa, >2478Cancerppd... at 60.00%
+16	10aa, >2520Cancerppd... at 70.00%
+17	13aa, >2615Cancerppd... at 61.54%
+18	15aa, >2621Cancerppd... at 60.00%
+19	10aa, >2663Cancerppd... at 70.00%
+20	13aa, >2758Cancerppd... at 61.54%
+21	15aa, >2764Cancerppd... at 60.00%
+22	10aa, >2806Cancerppd... at 70.00%
+23	10aa, >satpdb13312... at 70.00%
+24	15aa, >satpdb16252... at 60.00%
+25	13aa, >satpdb18449... at 61.54%
+>Cluster 167
+0	21aa, >2025... at 76.19%
+1	21aa, >2027... at 61.90%
+2	21aa, >13505... at 76.19%
+3	22aa, >13506... *
+4	20aa, >13507... at 50.00%
+5	21aa, >13515... at 66.67%
+6	21aa, >13516... at 66.67%
+7	21aa, >13517... at 76.19%
+>Cluster 168
+0	22aa, >14295... *
+>Cluster 169
+0	22aa, >14296... *
+>Cluster 170
+0	16aa, >8798... at 56.25%
+1	13aa, >8801... at 53.85%
+2	11aa, >9166... at 81.82%
+3	11aa, >9170... at 54.55%
+4	13aa, >10561... at 53.85%
+5	13aa, >10562... at 53.85%
+6	8aa, >11972... at 75.00%
+7	11aa, >12606... at 63.64%
+8	19aa, >14421... at 89.47%
+9	22aa, >14423... *
+10	10aa, >14972... at 70.00%
+11	14aa, >14973... at 71.43%
+12	10aa, >14975... at 70.00%
+13	14aa, >14976... at 71.43%
+14	10aa, >14978... at 70.00%
+15	14aa, >14979... at 71.43%
+16	12aa, >satpdb27278... at 58.33%
+>Cluster 171
+0	12aa, >1547Cancerppd... at 100.00%
+1	22aa, >1549Cancerppd... *
+2	12aa, >satpdb13768... at 100.00%
+3	22aa, >satpdb23434... at 100.00%
+>Cluster 172
+0	22aa, >3368Cancerppd... *
+1	22aa, >3369Cancerppd... at 100.00%
+2	22aa, >3370Cancerppd... at 100.00%
+3	22aa, >3371Cancerppd... at 100.00%
+4	22aa, >3372Cancerppd... at 100.00%
+5	22aa, >3373Cancerppd... at 100.00%
+6	22aa, >3386Cancerppd... at 100.00%
+7	22aa, >3387Cancerppd... at 100.00%
+8	22aa, >3388Cancerppd... at 100.00%
+9	22aa, >3389Cancerppd... at 100.00%
+10	22aa, >3390Cancerppd... at 100.00%
+11	22aa, >3391Cancerppd... at 100.00%
+12	22aa, >3404Cancerppd... at 100.00%
+13	22aa, >3405Cancerppd... at 100.00%
+14	22aa, >3409Cancerppd... at 100.00%
+15	22aa, >3422Cancerppd... at 100.00%
+16	22aa, >3423Cancerppd... at 100.00%
+17	22aa, >3424Cancerppd... at 100.00%
+18	22aa, >3425Cancerppd... at 100.00%
+19	22aa, >3426Cancerppd... at 100.00%
+20	22aa, >3427Cancerppd... at 100.00%
+21	22aa, >3440Cancerppd... at 100.00%
+22	22aa, >3441Cancerppd... at 100.00%
+23	22aa, >3442Cancerppd... at 100.00%
+24	22aa, >3443Cancerppd... at 100.00%
+25	22aa, >3444Cancerppd... at 100.00%
+26	22aa, >3445Cancerppd... at 100.00%
+27	22aa, >3458Cancerppd... at 100.00%
+28	22aa, >3459Cancerppd... at 100.00%
+29	22aa, >3460Cancerppd... at 100.00%
+30	22aa, >3461Cancerppd... at 100.00%
+31	22aa, >3462Cancerppd... at 100.00%
+32	22aa, >3463Cancerppd... at 100.00%
+33	22aa, >satpdb19349... at 100.00%
+>Cluster 173
+0	22aa, >satpdb11381... *
+>Cluster 174
+0	21aa, >satpdb12668... at 100.00%
+1	22aa, >satpdb13516... *
+>Cluster 175
+0	22aa, >satpdb16174... *
+>Cluster 176
+0	22aa, >satpdb17950... *
+>Cluster 177
+0	22aa, >satpdb18336... *
+>Cluster 178
+0	22aa, >satpdb25396... *
+>Cluster 179
+0	22aa, >satpdb27488... *
+>Cluster 180
+0	21aa, >999... *
+1	13aa, >4525... at 61.54%
+2	11aa, >7744... at 54.55%
+3	11aa, >9388... at 54.55%
+4	13aa, >3267Cancerppd... at 61.54%
+5	21aa, >satpdb15279... at 100.00%
+6	13aa, >satpdb26116... at 61.54%
+>Cluster 181
+0	21aa, >1404... *
+1	21aa, >satpdb28552... at 100.00%
+>Cluster 182
+0	14aa, >2335... at 64.29%
+1	14aa, >2337... at 57.14%
+2	14aa, >2339... at 57.14%
+3	14aa, >2340... at 64.29%
+4	14aa, >2341... at 57.14%
+5	14aa, >2343... at 64.29%
+6	14aa, >2344... at 57.14%
+7	14aa, >2345... at 57.14%
+8	14aa, >2346... at 57.14%
+9	14aa, >2347... at 57.14%
+10	14aa, >3343... at 100.00%
+11	13aa, >3446... at 61.54%
+12	14aa, >5014... at 64.29%
+13	21aa, >5499... *
+14	14aa, >9494... at 85.71%
+15	14aa, >11468... at 78.57%
+16	16aa, >11469... at 68.75%
+17	14aa, >12795... at 78.57%
+18	14aa, >12796... at 71.43%
+19	14aa, >12797... at 71.43%
+20	14aa, >12798... at 71.43%
+21	14aa, >12888... at 100.00%
+22	14aa, >12891... at 78.57%
+23	14aa, >14700... at 78.57%
+24	14aa, >14701... at 64.29%
+25	14aa, >15028... at 100.00%
+26	18aa, >15777... at 50.00%
+27	14aa, >satpdb18344... at 100.00%
+>Cluster 183
+0	21aa, >7485... *
+1	12aa, >12017... at 50.00%
+2	21aa, >12415... at 90.48%
+3	21aa, >12811... at 90.48%
+>Cluster 184
+0	18aa, >3348... at 50.00%
+1	21aa, >8062... *
+>Cluster 185
+0	21aa, >11963... *
+1	13aa, >13350... at 61.54%
+2	14aa, >satpdb21447... at 50.00%
+>Cluster 186
+0	21aa, >13897... *
+1	21aa, >13898... at 90.48%
+>Cluster 187
+0	21aa, >14293... *
+>Cluster 188
+0	18aa, >4527... at 55.56%
+1	18aa, >4528... at 50.00%
+2	11aa, >6284... at 54.55%
+3	9aa, >11878... at 66.67%
+4	21aa, >15141... *
+5	21aa, >3288Cancerppd... at 85.71%
+6	21aa, >3289Cancerppd... at 85.71%
+7	21aa, >4475Cancerppd... at 76.19%
+8	21aa, >4476Cancerppd... at 66.67%
+9	21aa, >4478Cancerppd... at 80.95%
+10	21aa, >4479Cancerppd... at 80.95%
+11	21aa, >4480Cancerppd... at 80.95%
+12	21aa, >4481Cancerppd... at 95.24%
+13	21aa, >4482Cancerppd... at 57.14%
+14	21aa, >4483Cancerppd... at 61.90%
+15	21aa, >4485Cancerppd... at 71.43%
+16	21aa, >4486Cancerppd... at 66.67%
+17	21aa, >4488Cancerppd... at 80.95%
+18	21aa, >4489Cancerppd... at 80.95%
+19	21aa, >4490Cancerppd... at 80.95%
+20	21aa, >4491Cancerppd... at 95.24%
+21	21aa, >4492Cancerppd... at 57.14%
+22	21aa, >4493Cancerppd... at 61.90%
+23	21aa, >4495Cancerppd... at 71.43%
+24	21aa, >4496Cancerppd... at 66.67%
+25	21aa, >4498Cancerppd... at 80.95%
+26	21aa, >4499Cancerppd... at 80.95%
+27	21aa, >4500Cancerppd... at 80.95%
+28	21aa, >4501Cancerppd... at 95.24%
+29	21aa, >4502Cancerppd... at 57.14%
+30	21aa, >4503Cancerppd... at 61.90%
+31	21aa, >satpdb10494... at 57.14%
+32	21aa, >satpdb10798... at 61.90%
+33	21aa, >satpdb10905... at 76.19%
+34	21aa, >satpdb11729... at 95.24%
+35	21aa, >satpdb14368... at 80.95%
+36	21aa, >satpdb18072... at 80.95%
+37	21aa, >satpdb20866... at 85.71%
+38	21aa, >satpdb22297... at 71.43%
+39	21aa, >satpdb22645... at 80.95%
+40	21aa, >satpdb27163... at 66.67%
+>Cluster 189
+0	21aa, >15225... *
+1	21aa, >15227... at 90.48%
+2	21aa, >15235... at 95.24%
+>Cluster 190
+0	21aa, >15817... *
+>Cluster 191
+0	21aa, >16102... *
+1	21aa, >16103... at 57.14%
+2	12aa, >satpdb15826... at 50.00%
+>Cluster 192
+0	13aa, >14183... at 61.54%
+1	21aa, >satpdb11371... *
+>Cluster 193
+0	21aa, >satpdb21003... *
+>Cluster 194
+0	20aa, >satpdb10562... at 55.00%
+1	20aa, >satpdb23308... at 50.00%
+2	21aa, >satpdb23522... *
+>Cluster 195
+0	21aa, >satpdb24884... *
+>Cluster 196
+0	20aa, >2350... *
+1	20aa, >2351... at 70.00%
+>Cluster 197
+0	20aa, >2356... *
+>Cluster 198
+0	20aa, >2357... *
+1	11aa, >9167... at 54.55%
+>Cluster 199
+0	20aa, >2360... *
+>Cluster 200
+0	20aa, >3942... *
+1	17aa, >10837... at 58.82%
+>Cluster 201
+0	20aa, >4107... *
+>Cluster 202
+0	20aa, >8063... *
+>Cluster 203
+0	20aa, >8108... *
+>Cluster 204
+0	12aa, >6830... at 66.67%
+1	20aa, >9676... *
+2	12aa, >10785... at 66.67%
+3	12aa, >10786... at 66.67%
+4	12aa, >10787... at 58.33%
+>Cluster 205
+0	18aa, >814... at 88.89%
+1	18aa, >5588... at 88.89%
+2	18aa, >10601... at 94.44%
+3	18aa, >10602... at 88.89%
+4	18aa, >10603... at 88.89%
+5	18aa, >10604... at 88.89%
+6	18aa, >10605... at 77.78%
+7	18aa, >10606... at 88.89%
+8	18aa, >10607... at 83.33%
+9	18aa, >10608... at 72.22%
+10	18aa, >10609... at 88.89%
+11	20aa, >10610... *
+12	18aa, >10611... at 77.78%
+13	18aa, >10612... at 55.56%
+14	18aa, >13885... at 77.78%
+15	18aa, >DRAMP03215... at 88.89%
+16	18aa, >DRAMP21000... at 94.44%
+17	18aa, >DRAMP21001... at 88.89%
+18	18aa, >DRAMP21002... at 88.89%
+19	18aa, >DRAMP21003... at 88.89%
+20	18aa, >DRAMP21004... at 77.78%
+21	18aa, >DRAMP21005... at 88.89%
+22	18aa, >DRAMP21006... at 83.33%
+23	18aa, >DRAMP21007... at 72.22%
+24	18aa, >DRAMP21008... at 88.89%
+25	20aa, >DRAMP21009... at 100.00%
+26	18aa, >DRAMP21010... at 77.78%
+27	18aa, >DRAMP21011... at 55.56%
+28	18aa, >satpdb14459... at 88.89%
+29	18aa, >satpdb17735... at 88.89%
+>Cluster 206
+0	20aa, >10879... *
+>Cluster 207
+0	20aa, >10880... *
+1	11aa, >12604... at 63.64%
+2	15aa, >13184... at 53.33%
+>Cluster 208
+0	16aa, >1570... at 56.25%
+1	13aa, >2324... at 61.54%
+2	16aa, >2407... at 56.25%
+3	16aa, >4360... at 56.25%
+4	16aa, >4361... at 56.25%
+5	16aa, >4364... at 56.25%
+6	16aa, >4367... at 56.25%
+7	16aa, >4371... at 56.25%
+8	16aa, >4373... at 56.25%
+9	13aa, >4935... at 69.23%
+10	20aa, >11076... *
+11	20aa, >11077... at 90.00%
+12	11aa, >13017... at 72.73%
+13	13aa, >1008Cancerppd... at 61.54%
+14	13aa, >1016Cancerppd... at 61.54%
+15	13aa, >1024Cancerppd... at 61.54%
+16	13aa, >1032Cancerppd... at 61.54%
+17	13aa, >1040Cancerppd... at 61.54%
+18	13aa, >satpdb28000... at 61.54%
+>Cluster 209
+0	20aa, >11531... *
+>Cluster 210
+0	16aa, >6203... at 50.00%
+1	16aa, >8797... at 56.25%
+2	20aa, >12310... *
+3	20aa, >12315... at 100.00%
+>Cluster 211
+0	10aa, >3016... at 70.00%
+1	10aa, >3032... at 80.00%
+2	20aa, >12644... *
+>Cluster 212
+0	19aa, >7487... at 73.68%
+1	19aa, >7909... at 78.95%
+2	19aa, >9731... at 68.42%
+3	19aa, >9732... at 68.42%
+4	19aa, >9733... at 63.16%
+5	20aa, >13548... *
+6	20aa, >13550... at 90.00%
+7	19aa, >13587... at 63.16%
+8	19aa, >13591... at 63.16%
+9	19aa, >13592... at 63.16%
+10	19aa, >13593... at 52.63%
+11	19aa, >13594... at 52.63%
+12	19aa, >13595... at 52.63%
+13	19aa, >13596... at 68.42%
+14	19aa, >13597... at 68.42%
+15	19aa, >13598... at 68.42%
+>Cluster 213
+0	8aa, >9818... at 62.50%
+1	8aa, >9819... at 75.00%
+2	8aa, >9820... at 75.00%
+3	12aa, >13533... at 50.00%
+4	11aa, >14242... at 63.64%
+5	20aa, >14298... *
+>Cluster 214
+0	20aa, >14422... *
+>Cluster 215
+0	20aa, >14619... *
+1	20aa, >14620... at 100.00%
+2	20aa, >14621... at 85.00%
+3	20aa, >14622... at 85.00%
+4	20aa, >14623... at 70.00%
+>Cluster 216
+0	20aa, >15680... *
+1	20aa, >15681... at 70.00%
+>Cluster 217
+0	13aa, >3353... at 53.85%
+1	20aa, >15994... *
+>Cluster 218
+0	20aa, >3362Cancerppd... *
+1	20aa, >3363Cancerppd... at 100.00%
+2	20aa, >3364Cancerppd... at 100.00%
+3	20aa, >3365Cancerppd... at 100.00%
+4	20aa, >3366Cancerppd... at 100.00%
+5	20aa, >3367Cancerppd... at 100.00%
+6	20aa, >3380Cancerppd... at 100.00%
+7	20aa, >3381Cancerppd... at 100.00%
+8	20aa, >3382Cancerppd... at 100.00%
+9	20aa, >3383Cancerppd... at 100.00%
+10	20aa, >3384Cancerppd... at 100.00%
+11	20aa, >3385Cancerppd... at 100.00%
+12	20aa, >3398Cancerppd... at 100.00%
+13	20aa, >3399Cancerppd... at 100.00%
+14	20aa, >3400Cancerppd... at 100.00%
+15	20aa, >3401Cancerppd... at 100.00%
+16	20aa, >3402Cancerppd... at 100.00%
+17	20aa, >3403Cancerppd... at 100.00%
+18	20aa, >3416Cancerppd... at 100.00%
+19	20aa, >3417Cancerppd... at 100.00%
+20	20aa, >3418Cancerppd... at 100.00%
+21	20aa, >3419Cancerppd... at 100.00%
+22	20aa, >3420Cancerppd... at 100.00%
+23	20aa, >3421Cancerppd... at 100.00%
+24	20aa, >3434Cancerppd... at 100.00%
+25	20aa, >3435Cancerppd... at 100.00%
+26	20aa, >3436Cancerppd... at 100.00%
+27	20aa, >3437Cancerppd... at 100.00%
+28	20aa, >3438Cancerppd... at 100.00%
+29	20aa, >3439Cancerppd... at 100.00%
+30	20aa, >3452Cancerppd... at 100.00%
+31	20aa, >3453Cancerppd... at 100.00%
+32	20aa, >3454Cancerppd... at 100.00%
+33	20aa, >3455Cancerppd... at 100.00%
+34	20aa, >3456Cancerppd... at 100.00%
+35	20aa, >3457Cancerppd... at 100.00%
+36	20aa, >satpdb12655... at 100.00%
+>Cluster 219
+0	10aa, >4185Cancerppd... at 100.00%
+1	10aa, >4186Cancerppd... at 100.00%
+2	15aa, >4187Cancerppd... at 100.00%
+3	15aa, >4188Cancerppd... at 100.00%
+4	20aa, >4189Cancerppd... *
+5	20aa, >4190Cancerppd... at 100.00%
+6	10aa, >satpdb11180... at 100.00%
+7	10aa, >satpdb11928... at 100.00%
+8	15aa, >satpdb18008... at 100.00%
+9	15aa, >satpdb21006... at 100.00%
+10	20aa, >satpdb26906... at 100.00%
+11	20aa, >satpdb28800... at 100.00%
+>Cluster 220
+0	20aa, >DRAMP00361... *
+>Cluster 221
+0	20aa, >DRAMP18147... *
+1	13aa, >satpdb23812... at 53.85%
+>Cluster 222
+0	12aa, >3346... at 66.67%
+1	16aa, >4363... at 68.75%
+2	16aa, >4368... at 62.50%
+3	16aa, >4369... at 50.00%
+4	16aa, >4370... at 50.00%
+5	17aa, >10437... at 64.71%
+6	20aa, >satpdb10051... *
+7	14aa, >satpdb11856... at 64.29%
+8	20aa, >satpdb14018... at 100.00%
+9	14aa, >satpdb19906... at 64.29%
+>Cluster 223
+0	20aa, >satpdb10113... *
+1	10aa, >satpdb12388... at 90.00%
+2	11aa, >satpdb22601... at 63.64%
+3	18aa, >satpdb23682... at 100.00%
+4	10aa, >satpdb27647... at 100.00%
+5	17aa, >satpdb27667... at 64.71%
+6	19aa, >satpdb28070... at 89.47%
+>Cluster 224
+0	20aa, >satpdb17254... *
+>Cluster 225
+0	20aa, >satpdb18195... *
+>Cluster 226
+0	9aa, >9142... at 66.67%
+1	20aa, >satpdb21584... *
+>Cluster 227
+0	20aa, >satpdb22777... *
+>Cluster 228
+0	20aa, >satpdb23760... *
+>Cluster 229
+0	10aa, >1650... at 80.00%
+1	10aa, >1665... at 70.00%
+2	10aa, >satpdb24206... at 90.00%
+3	20aa, >satpdb24223... *
+>Cluster 230
+0	20aa, >satpdb25330... *
+>Cluster 231
+0	19aa, >satpdb11308... at 68.42%
+1	19aa, >satpdb12468... at 63.16%
+2	18aa, >satpdb13253... at 50.00%
+3	19aa, >satpdb16504... at 57.89%
+4	18aa, >satpdb16807... at 66.67%
+5	19aa, >satpdb16830... at 52.63%
+6	19aa, >satpdb19902... at 52.63%
+7	19aa, >satpdb19979... at 68.42%
+8	17aa, >satpdb21725... at 76.47%
+9	17aa, >satpdb24370... at 70.59%
+10	19aa, >satpdb24903... at 57.89%
+11	20aa, >satpdb26450... *
+12	19aa, >satpdb27624... at 57.89%
+>Cluster 232
+0	19aa, >satpdb12052... at 52.63%
+1	17aa, >satpdb17430... at 58.82%
+2	19aa, >satpdb26971... at 57.89%
+3	19aa, >satpdb28027... at 63.16%
+4	20aa, >satpdb28887... *
+>Cluster 233
+0	9aa, >2542... at 66.67%
+1	19aa, >2545... *
+2	19aa, >2547... at 78.95%
+3	19aa, >2549... at 89.47%
+4	19aa, >2550... at 78.95%
+>Cluster 234
+0	19aa, >3889... *
+1	17aa, >4297... at 58.82%
+2	19aa, >9466... at 94.74%
+3	19aa, >9468... at 78.95%
+4	19aa, >10833... at 63.16%
+5	19aa, >12382... at 63.16%
+6	19aa, >12390... at 73.68%
+7	19aa, >12391... at 78.95%
+8	13aa, >14186... at 69.23%
+9	13aa, >14187... at 61.54%
+10	13aa, >14188... at 61.54%
+11	13aa, >14189... at 61.54%
+>Cluster 235
+0	19aa, >4907... *
+1	19aa, >4908... at 89.47%
+2	19aa, >4910... at 89.47%
+3	19aa, >4911... at 89.47%
+4	19aa, >4912... at 100.00%
+5	19aa, >4913... at 89.47%
+6	19aa, >4915... at 89.47%
+7	19aa, >4918... at 89.47%
+8	15aa, >13111... at 60.00%
+9	19aa, >satpdb15171... at 94.74%
+10	19aa, >satpdb25277... at 94.74%
+>Cluster 236
+0	19aa, >7181... *
+1	19aa, >7206... at 89.47%
+>Cluster 237
+0	17aa, >3753... at 58.82%
+1	18aa, >3884... at 66.67%
+2	18aa, >3885... at 66.67%
+3	18aa, >3886... at 66.67%
+4	17aa, >4298... at 52.94%
+5	16aa, >4531... at 50.00%
+6	19aa, >8151... *
+7	19aa, >8152... at 94.74%
+8	19aa, >8153... at 73.68%
+9	19aa, >8154... at 68.42%
+10	19aa, >10851... at 57.89%
+11	19aa, >12626... at 57.89%
+12	19aa, >12627... at 52.63%
+13	18aa, >13647... at 66.67%
+14	18aa, >13649... at 66.67%
+15	17aa, >3125Cancerppd... at 52.94%
+16	17aa, >3126Cancerppd... at 52.94%
+17	17aa, >3127Cancerppd... at 52.94%
+18	17aa, >3128Cancerppd... at 52.94%
+19	17aa, >3129Cancerppd... at 52.94%
+20	16aa, >4048Cancerppd... at 50.00%
+21	16aa, >4049Cancerppd... at 50.00%
+22	16aa, >4050Cancerppd... at 50.00%
+23	16aa, >4051Cancerppd... at 50.00%
+24	16aa, >4052Cancerppd... at 50.00%
+25	16aa, >4053Cancerppd... at 50.00%
+26	16aa, >4054Cancerppd... at 50.00%
+27	16aa, >4055Cancerppd... at 50.00%
+28	16aa, >4056Cancerppd... at 50.00%
+29	17aa, >DRAMP03688... at 52.94%
+30	19aa, >satpdb11910... at 94.74%
+31	19aa, >satpdb14095... at 100.00%
+32	17aa, >satpdb18121... at 52.94%
+33	16aa, >satpdb21451... at 50.00%
+34	17aa, >satpdb22104... at 52.94%
+35	17aa, >satpdb28988... at 70.59%
+>Cluster 238
+0	19aa, >10834... *
+1	19aa, >10835... at 73.68%
+>Cluster 239
+0	13aa, >9531... at 61.54%
+1	13aa, >9533... at 61.54%
+2	19aa, >10878... *
+3	12aa, >12773... at 66.67%
+4	12aa, >12776... at 66.67%
+>Cluster 240
+0	11aa, >8932... at 54.55%
+1	7aa, >9121... at 71.43%
+2	19aa, >12113... *
+3	17aa, >1878Cancerppd... at 52.94%
+4	17aa, >2030Cancerppd... at 52.94%
+5	17aa, >2182Cancerppd... at 52.94%
+6	17aa, >2334Cancerppd... at 52.94%
+7	17aa, >2487Cancerppd... at 52.94%
+8	17aa, >2630Cancerppd... at 52.94%
+9	17aa, >2773Cancerppd... at 52.94%
+10	17aa, >satpdb12115... at 52.94%
+>Cluster 241
+0	19aa, >12408... *
+>Cluster 242
+0	18aa, >3893... at 61.11%
+1	19aa, >12628... *
+2	19aa, >12629... at 94.74%
+3	19aa, >12630... at 89.47%
+4	18aa, >13648... at 61.11%
+5	18aa, >satpdb12545... at 61.11%
+6	18aa, >satpdb26571... at 61.11%
+>Cluster 243
+0	19aa, >13895... *
+>Cluster 244
+0	19aa, >14292... *
+>Cluster 245
+0	19aa, >14716... *
+>Cluster 246
+0	19aa, >satpdb11458... *
+1	19aa, >satpdb16260... at 89.47%
+2	19aa, >satpdb19605... at 89.47%
+3	19aa, >satpdb26663... at 89.47%
+4	19aa, >satpdb29014... at 84.21%
+>Cluster 247
+0	19aa, >satpdb11493... *
+1	19aa, >satpdb14271... at 68.42%
+2	19aa, >satpdb14705... at 63.16%
+3	19aa, >satpdb15595... at 68.42%
+4	19aa, >satpdb16955... at 57.89%
+5	19aa, >satpdb17296... at 57.89%
+6	13aa, >satpdb22249... at 69.23%
+7	18aa, >satpdb28727... at 72.22%
+8	19aa, >satpdb29089... at 63.16%
+>Cluster 248
+0	19aa, >satpdb11710... *
+>Cluster 249
+0	19aa, >satpdb14297... *
+>Cluster 250
+0	19aa, >satpdb17856... *
+1	19aa, >satpdb18859... at 68.42%
+2	19aa, >satpdb23443... at 68.42%
+>Cluster 251
+0	19aa, >satpdb24623... *
+>Cluster 252
+0	19aa, >satpdb26888... *
+>Cluster 253
+0	18aa, >3807... *
+1	18aa, >3808... at 100.00%
+>Cluster 254
+0	17aa, >2229... at 76.47%
+1	17aa, >2261... at 76.47%
+2	17aa, >3838... at 88.24%
+3	18aa, >3839... *
+4	17aa, >6088... at 82.35%
+5	18aa, >12230... at 94.44%
+6	18aa, >12231... at 100.00%
+7	18aa, >12233... at 72.22%
+8	17aa, >12234... at 88.24%
+9	17aa, >12235... at 82.35%
+10	17aa, >13887... at 76.47%
+11	18aa, >13889... at 72.22%
+12	18aa, >13890... at 83.33%
+13	18aa, >13891... at 77.78%
+14	17aa, >DRAMP02926... at 76.47%
+15	17aa, >satpdb16987... at 76.47%
+>Cluster 255
+0	18aa, >4529... *
+1	18aa, >4530... at 83.33%
+2	18aa, >1606Cancerppd... at 77.78%
+3	18aa, >1607Cancerppd... at 72.22%
+4	18aa, >1608Cancerppd... at 83.33%
+5	18aa, >1609Cancerppd... at 77.78%
+6	18aa, >1610Cancerppd... at 77.78%
+7	18aa, >1611Cancerppd... at 61.11%
+8	18aa, >1612Cancerppd... at 77.78%
+9	18aa, >1613Cancerppd... at 77.78%
+10	18aa, >1614Cancerppd... at 66.67%
+11	18aa, >1615Cancerppd... at 77.78%
+12	18aa, >1616Cancerppd... at 77.78%
+13	18aa, >1617Cancerppd... at 72.22%
+14	18aa, >1618Cancerppd... at 66.67%
+15	18aa, >1621Cancerppd... at 77.78%
+16	18aa, >1622Cancerppd... at 72.22%
+17	18aa, >1623Cancerppd... at 83.33%
+18	18aa, >1624Cancerppd... at 77.78%
+19	18aa, >1625Cancerppd... at 77.78%
+20	18aa, >1626Cancerppd... at 61.11%
+21	18aa, >1627Cancerppd... at 77.78%
+22	18aa, >1628Cancerppd... at 77.78%
+23	18aa, >1629Cancerppd... at 66.67%
+24	18aa, >1630Cancerppd... at 77.78%
+25	18aa, >1631Cancerppd... at 77.78%
+26	18aa, >1632Cancerppd... at 72.22%
+27	18aa, >1633Cancerppd... at 66.67%
+28	18aa, >1636Cancerppd... at 77.78%
+29	18aa, >1637Cancerppd... at 72.22%
+30	18aa, >1638Cancerppd... at 83.33%
+31	18aa, >1639Cancerppd... at 77.78%
+32	18aa, >1640Cancerppd... at 77.78%
+33	18aa, >1641Cancerppd... at 61.11%
+34	18aa, >1642Cancerppd... at 77.78%
+35	18aa, >1643Cancerppd... at 77.78%
+36	18aa, >1644Cancerppd... at 66.67%
+37	18aa, >1645Cancerppd... at 77.78%
+38	18aa, >1646Cancerppd... at 77.78%
+39	18aa, >1647Cancerppd... at 72.22%
+40	18aa, >1648Cancerppd... at 66.67%
+41	18aa, >satpdb13414... at 77.78%
+42	18aa, >satpdb13668... at 77.78%
+43	18aa, >satpdb14097... at 77.78%
+44	18aa, >satpdb14891... at 72.22%
+45	18aa, >satpdb16272... at 61.11%
+46	18aa, >satpdb16838... at 77.78%
+47	18aa, >satpdb19004... at 72.22%
+48	18aa, >satpdb22240... at 66.67%
+49	18aa, >satpdb24374... at 77.78%
+50	18aa, >satpdb24735... at 77.78%
+51	18aa, >satpdb25211... at 66.67%
+52	18aa, >satpdb25308... at 83.33%
+53	18aa, >satpdb28886... at 77.78%
+>Cluster 256
+0	18aa, >4631... *
+1	18aa, >15321... at 100.00%
+>Cluster 257
+0	18aa, >4757... *
+1	18aa, >1426Cancerppd... at 77.78%
+2	18aa, >satpdb17940... at 77.78%
+>Cluster 258
+0	18aa, >9871... *
+1	18aa, >9872... at 94.44%
+2	18aa, >9873... at 83.33%
+3	18aa, >9874... at 72.22%
+4	18aa, >9875... at 61.11%
+>Cluster 259
+0	18aa, >10728... *
+1	18aa, >10729... at 100.00%
+2	18aa, >10730... at 100.00%
+3	10aa, >1912Cancerppd... at 70.00%
+4	10aa, >2064Cancerppd... at 70.00%
+5	10aa, >2216Cancerppd... at 70.00%
+6	10aa, >2368Cancerppd... at 70.00%
+7	10aa, >2521Cancerppd... at 70.00%
+8	10aa, >2664Cancerppd... at 70.00%
+9	10aa, >2807Cancerppd... at 70.00%
+10	18aa, >3222Cancerppd... at 100.00%
+11	18aa, >3223Cancerppd... at 100.00%
+12	18aa, >3224Cancerppd... at 100.00%
+13	18aa, >3225Cancerppd... at 100.00%
+14	18aa, >satpdb12834... at 100.00%
+15	18aa, >satpdb14638... at 100.00%
+16	18aa, >satpdb21908... at 100.00%
+17	10aa, >satpdb28885... at 70.00%
+>Cluster 260
+0	18aa, >12407... *
+>Cluster 261
+0	10aa, >12587... at 100.00%
+1	12aa, >12588... at 100.00%
+2	18aa, >12589... *
+3	18aa, >12590... at 88.89%
+4	9aa, >2043Cancerppd... at 77.78%
+5	9aa, >satpdb17264... at 77.78%
+>Cluster 262
+0	18aa, >13425... *
+1	18aa, >13426... at 72.22%
+>Cluster 263
+0	18aa, >13541... *
+>Cluster 264
+0	18aa, >14299... *
+>Cluster 265
+0	18aa, >14829... *
+>Cluster 266
+0	9aa, >9770... at 77.78%
+1	9aa, >12600... at 66.67%
+2	18aa, >14980... *
+3	18aa, >14981... at 100.00%
+4	18aa, >14982... at 100.00%
+5	18aa, >14983... at 100.00%
+>Cluster 267
+0	18aa, >15442... *
+>Cluster 268
+0	18aa, >15798... *
+1	10aa, >satpdb26393... at 50.00%
+>Cluster 269
+0	18aa, >16162... *
+>Cluster 270
+0	18aa, >satpdb13892... *
+1	18aa, >satpdb19109... at 61.11%
+2	18aa, >satpdb23373... at 61.11%
+3	18aa, >satpdb28517... at 55.56%
+>Cluster 271
+0	13aa, >satpdb21017... at 100.00%
+1	18aa, >satpdb22231... *
+2	11aa, >satpdb29088... at 100.00%
+>Cluster 272
+0	13aa, >779... at 69.23%
+1	17aa, >781... *
+2	17aa, >1257... at 88.24%
+3	17aa, >1261... at 94.12%
+4	12aa, >13112... at 58.33%
+5	12aa, >13170... at 66.67%
+6	13aa, >1252Cancerppd... at 69.23%
+7	13aa, >1253Cancerppd... at 69.23%
+8	13aa, >1254Cancerppd... at 69.23%
+9	13aa, >1255Cancerppd... at 69.23%
+10	13aa, >1256Cancerppd... at 69.23%
+11	13aa, >1257Cancerppd... at 69.23%
+12	13aa, >1258Cancerppd... at 69.23%
+13	13aa, >1259Cancerppd... at 69.23%
+14	13aa, >1260Cancerppd... at 69.23%
+15	17aa, >1279Cancerppd... at 88.24%
+16	17aa, >1280Cancerppd... at 88.24%
+17	17aa, >1281Cancerppd... at 88.24%
+18	17aa, >1282Cancerppd... at 88.24%
+19	17aa, >1283Cancerppd... at 88.24%
+20	17aa, >1284Cancerppd... at 88.24%
+21	17aa, >1285Cancerppd... at 88.24%
+22	17aa, >1286Cancerppd... at 88.24%
+23	17aa, >1287Cancerppd... at 88.24%
+24	17aa, >1288Cancerppd... at 94.12%
+25	17aa, >1289Cancerppd... at 94.12%
+26	17aa, >1290Cancerppd... at 94.12%
+27	17aa, >1291Cancerppd... at 94.12%
+28	17aa, >1292Cancerppd... at 94.12%
+29	17aa, >1293Cancerppd... at 94.12%
+30	17aa, >1294Cancerppd... at 94.12%
+31	17aa, >1295Cancerppd... at 94.12%
+32	17aa, >1296Cancerppd... at 94.12%
+33	17aa, >1297Cancerppd... at 100.00%
+34	17aa, >1298Cancerppd... at 100.00%
+35	17aa, >1299Cancerppd... at 100.00%
+36	17aa, >1300Cancerppd... at 100.00%
+37	17aa, >1301Cancerppd... at 100.00%
+38	17aa, >1302Cancerppd... at 100.00%
+39	17aa, >1303Cancerppd... at 100.00%
+40	17aa, >1304Cancerppd... at 100.00%
+41	17aa, >1305Cancerppd... at 100.00%
+42	13aa, >DRAMP01607... at 69.23%
+43	17aa, >DRAMP01614... at 88.24%
+44	17aa, >DRAMP01617... at 94.12%
+45	17aa, >DRAMP01618... at 100.00%
+46	16aa, >DRAMP01610... at 68.75%
+47	14aa, >DRAMP01615... at 92.86%
+48	15aa, >DRAMP01616... at 86.67%
+49	15aa, >DRAMP01619... at 100.00%
+50	13aa, >satpdb11488... at 69.23%
+51	17aa, >satpdb13076... at 100.00%
+52	17aa, >satpdb13137... at 94.12%
+53	17aa, >satpdb13756... at 88.24%
+54	17aa, >satpdb16384... at 94.12%
+55	16aa, >satpdb19406... at 68.75%
+56	15aa, >satpdb21354... at 66.67%
+57	15aa, >satpdb22551... at 66.67%
+58	16aa, >satpdb23356... at 68.75%
+59	13aa, >satpdb24748... at 76.92%
+60	13aa, >satpdb24776... at 76.92%
+61	13aa, >satpdb26109... at 69.23%
+62	17aa, >satpdb27079... at 100.00%
+63	16aa, >satpdb27424... at 56.25%
+64	17aa, >satpdb28581... at 88.24%
+>Cluster 273
+0	17aa, >1477... *
+1	17aa, >satpdb16069... at 100.00%
+>Cluster 274
+0	17aa, >3443... *
+1	17aa, >3587Cancerppd... at 100.00%
+2	17aa, >3619Cancerppd... at 100.00%
+3	17aa, >satpdb19522... at 100.00%
+4	17aa, >satpdb28624... at 100.00%
+>Cluster 275
+0	17aa, >4299... *
+1	17aa, >4300... at 76.47%
+2	17aa, >8199... at 64.71%
+3	17aa, >11270... at 76.47%
+4	17aa, >11271... at 70.59%
+5	17aa, >3123Cancerppd... at 70.59%
+6	17aa, >3124Cancerppd... at 70.59%
+7	17aa, >3130Cancerppd... at 100.00%
+8	17aa, >3131Cancerppd... at 100.00%
+9	17aa, >3132Cancerppd... at 100.00%
+10	17aa, >3133Cancerppd... at 100.00%
+11	17aa, >3134Cancerppd... at 100.00%
+12	17aa, >3135Cancerppd... at 76.47%
+13	17aa, >3136Cancerppd... at 76.47%
+14	17aa, >3137Cancerppd... at 76.47%
+15	17aa, >3138Cancerppd... at 76.47%
+16	17aa, >3139Cancerppd... at 76.47%
+17	17aa, >DRAMP03687... at 70.59%
+18	17aa, >satpdb10006... at 76.47%
+19	17aa, >satpdb10684... at 70.59%
+20	17aa, >satpdb15266... at 70.59%
+21	17aa, >satpdb19041... at 64.71%
+22	17aa, >satpdb20631... at 100.00%
+>Cluster 276
+0	17aa, >4537... *
+1	17aa, >4538... at 94.12%
+2	17aa, >4540... at 88.24%
+3	17aa, >4541... at 94.12%
+4	17aa, >4542... at 88.24%
+5	17aa, >4543... at 82.35%
+6	17aa, >4544... at 94.12%
+7	15aa, >6701... at 100.00%
+8	12aa, >9174... at 58.33%
+9	15aa, >2851Cancerppd... at 100.00%
+10	15aa, >2852Cancerppd... at 100.00%
+11	15aa, >2853Cancerppd... at 100.00%
+12	15aa, >2854Cancerppd... at 100.00%
+13	15aa, >2875Cancerppd... at 100.00%
+14	15aa, >2876Cancerppd... at 100.00%
+15	15aa, >2877Cancerppd... at 100.00%
+16	17aa, >DRAMP04130... at 100.00%
+17	17aa, >DRAMP04131... at 94.12%
+18	17aa, >DRAMP04132... at 94.12%
+19	17aa, >DRAMP04133... at 88.24%
+20	17aa, >DRAMP04134... at 88.24%
+21	17aa, >DRAMP04135... at 82.35%
+22	17aa, >satpdb10634... at 100.00%
+23	17aa, >satpdb12466... at 94.12%
+24	17aa, >satpdb13477... at 88.24%
+25	17aa, >satpdb14581... at 94.12%
+26	17aa, >satpdb18647... at 82.35%
+27	17aa, >satpdb18714... at 94.12%
+28	17aa, >satpdb19861... at 88.24%
+29	17aa, >satpdb22147... at 94.12%
+30	15aa, >satpdb23641... at 100.00%
+>Cluster 277
+0	17aa, >5724... *
+1	17aa, >5725... at 82.35%
+>Cluster 278
+0	17aa, >7557... *
+>Cluster 279
+0	17aa, >7559... *
+>Cluster 280
+0	7aa, >4726... at 100.00%
+1	17aa, >7581... *
+2	17aa, >7582... at 76.47%
+3	9aa, >9775... at 55.56%
+4	9aa, >11875... at 77.78%
+5	7aa, >11909... at 71.43%
+>Cluster 281
+0	13aa, >2204... at 69.23%
+1	13aa, >8203... at 69.23%
+2	13aa, >9109... at 69.23%
+3	13aa, >9110... at 69.23%
+4	13aa, >9111... at 61.54%
+5	13aa, >9112... at 61.54%
+6	13aa, >9113... at 61.54%
+7	17aa, >9469... *
+8	13aa, >10354... at 53.85%
+9	13aa, >13347... at 53.85%
+10	13aa, >14182... at 61.54%
+11	13aa, >14184... at 61.54%
+12	13aa, >14185... at 69.23%
+13	16aa, >16143... at 81.25%
+>Cluster 282
+0	17aa, >12237... *
+>Cluster 283
+0	17aa, >13027... *
+1	11aa, >13029... at 54.55%
+2	11aa, >13040... at 63.64%
+3	11aa, >13041... at 63.64%
+4	11aa, >13065... at 72.73%
+5	11aa, >13066... at 63.64%
+6	11aa, >13067... at 63.64%
+7	11aa, >13068... at 63.64%
+8	11aa, >13069... at 63.64%
+9	11aa, >13070... at 63.64%
+10	11aa, >13071... at 63.64%
+11	11aa, >13072... at 63.64%
+12	11aa, >13073... at 63.64%
+13	11aa, >13172... at 100.00%
+>Cluster 284
+0	17aa, >13164... *
+>Cluster 285
+0	17aa, >13627... *
+1	16aa, >13831... at 87.50%
+2	16aa, >13832... at 81.25%
+3	16aa, >13833... at 93.75%
+>Cluster 286
+0	17aa, >14300... *
+>Cluster 287
+0	17aa, >14457... *
+1	17aa, >14460... at 88.24%
+2	17aa, >14461... at 88.24%
+3	17aa, >14462... at 88.24%
+4	17aa, >14463... at 88.24%
+5	17aa, >14464... at 88.24%
+6	17aa, >14465... at 88.24%
+7	17aa, >14466... at 94.12%
+8	17aa, >14467... at 94.12%
+9	17aa, >14468... at 88.24%
+10	17aa, >14469... at 94.12%
+11	17aa, >14470... at 94.12%
+12	17aa, >14471... at 88.24%
+13	17aa, >14472... at 82.35%
+14	17aa, >14473... at 82.35%
+15	17aa, >14474... at 82.35%
+16	17aa, >14475... at 88.24%
+17	17aa, >14476... at 88.24%
+18	17aa, >14477... at 88.24%
+19	17aa, >14478... at 76.47%
+20	17aa, >14479... at 76.47%
+21	17aa, >14480... at 76.47%
+22	17aa, >14481... at 82.35%
+23	17aa, >14482... at 76.47%
+24	17aa, >14483... at 82.35%
+25	17aa, >14484... at 76.47%
+26	17aa, >14485... at 76.47%
+27	17aa, >14486... at 70.59%
+28	17aa, >14487... at 70.59%
+29	17aa, >14488... at 70.59%
+30	17aa, >14489... at 76.47%
+31	17aa, >14490... at 76.47%
+32	17aa, >14491... at 70.59%
+33	17aa, >14492... at 82.35%
+34	17aa, >14493... at 82.35%
+35	17aa, >14494... at 88.24%
+36	17aa, >14495... at 76.47%
+37	17aa, >14496... at 70.59%
+>Cluster 288
+0	17aa, >satpdb10067... *
+>Cluster 289
+0	17aa, >satpdb17407... *
+>Cluster 290
+0	17aa, >satpdb17431... *
+>Cluster 291
+0	17aa, >satpdb20599... *
+>Cluster 292
+0	17aa, >satpdb28590... *
+>Cluster 293
+0	11aa, >928... at 54.55%
+1	16aa, >4376... *
+2	16aa, >4377... at 87.50%
+3	16aa, >4378... at 93.75%
+4	13aa, >9534... at 53.85%
+5	13aa, >13994... at 61.54%
+6	11aa, >1722Cancerppd... at 54.55%
+7	11aa, >1723Cancerppd... at 54.55%
+8	11aa, >1724Cancerppd... at 54.55%
+9	11aa, >1725Cancerppd... at 54.55%
+10	11aa, >1726Cancerppd... at 54.55%
+11	11aa, >1727Cancerppd... at 54.55%
+12	11aa, >1736Cancerppd... at 54.55%
+13	11aa, >1740Cancerppd... at 54.55%
+14	11aa, >1757Cancerppd... at 54.55%
+15	11aa, >1758Cancerppd... at 54.55%
+16	11aa, >1759Cancerppd... at 54.55%
+17	11aa, >1760Cancerppd... at 54.55%
+18	11aa, >1761Cancerppd... at 54.55%
+19	11aa, >1762Cancerppd... at 54.55%
+20	11aa, >1763Cancerppd... at 54.55%
+21	11aa, >1764Cancerppd... at 54.55%
+22	11aa, >3226Cancerppd... at 54.55%
+23	11aa, >3227Cancerppd... at 54.55%
+24	11aa, >3228Cancerppd... at 54.55%
+25	11aa, >3229Cancerppd... at 54.55%
+26	11aa, >3230Cancerppd... at 54.55%
+27	11aa, >3231Cancerppd... at 54.55%
+28	11aa, >3232Cancerppd... at 54.55%
+29	11aa, >3727Cancerppd... at 54.55%
+30	11aa, >3728Cancerppd... at 54.55%
+31	11aa, >3729Cancerppd... at 54.55%
+32	11aa, >3730Cancerppd... at 54.55%
+33	11aa, >3732Cancerppd... at 54.55%
+34	11aa, >3733Cancerppd... at 54.55%
+35	11aa, >satpdb23294... at 54.55%
+36	11aa, >satpdb25929... at 54.55%
+>Cluster 294
+0	16aa, >5370... *
+1	16aa, >5371... at 93.75%
+2	16aa, >satpdb10888... at 93.75%
+3	16aa, >satpdb24538... at 100.00%
+>Cluster 295
+0	16aa, >8799... *
+1	13aa, >8800... at 84.62%
+2	13aa, >8802... at 100.00%
+3	10aa, >8803... at 80.00%
+>Cluster 296
+0	16aa, >8804... *
+1	16aa, >8805... at 93.75%
+2	16aa, >8806... at 75.00%
+3	16aa, >8807... at 68.75%
+>Cluster 297
+0	16aa, >10229... *
+>Cluster 298
+0	13aa, >5840... at 100.00%
+1	13aa, >10749... at 92.31%
+2	16aa, >10750... *
+3	16aa, >10751... at 93.75%
+4	13aa, >1670Cancerppd... at 100.00%
+5	13aa, >1671Cancerppd... at 92.31%
+6	16aa, >1672Cancerppd... at 100.00%
+7	16aa, >1673Cancerppd... at 93.75%
+8	13aa, >1674Cancerppd... at 100.00%
+9	13aa, >1675Cancerppd... at 92.31%
+10	16aa, >1676Cancerppd... at 100.00%
+11	16aa, >1677Cancerppd... at 93.75%
+12	13aa, >1678Cancerppd... at 100.00%
+13	13aa, >1679Cancerppd... at 92.31%
+14	16aa, >1680Cancerppd... at 100.00%
+15	16aa, >1681Cancerppd... at 93.75%
+16	13aa, >1682Cancerppd... at 100.00%
+17	13aa, >1683Cancerppd... at 92.31%
+18	16aa, >1684Cancerppd... at 100.00%
+19	16aa, >1685Cancerppd... at 93.75%
+20	13aa, >1686Cancerppd... at 100.00%
+21	13aa, >1687Cancerppd... at 92.31%
+22	16aa, >1688Cancerppd... at 100.00%
+23	16aa, >1689Cancerppd... at 93.75%
+24	13aa, >1690Cancerppd... at 100.00%
+25	13aa, >1691Cancerppd... at 92.31%
+26	16aa, >1692Cancerppd... at 100.00%
+27	16aa, >1693Cancerppd... at 93.75%
+28	13aa, >1694Cancerppd... at 100.00%
+29	13aa, >1695Cancerppd... at 92.31%
+30	16aa, >1696Cancerppd... at 100.00%
+31	16aa, >1697Cancerppd... at 93.75%
+32	13aa, >1698Cancerppd... at 100.00%
+33	13aa, >1699Cancerppd... at 92.31%
+34	16aa, >1700Cancerppd... at 100.00%
+35	16aa, >1701Cancerppd... at 93.75%
+36	13aa, >1702Cancerppd... at 100.00%
+37	13aa, >1703Cancerppd... at 92.31%
+38	16aa, >1704Cancerppd... at 100.00%
+39	16aa, >1705Cancerppd... at 93.75%
+40	16aa, >satpdb10608... at 93.75%
+41	13aa, >satpdb16774... at 100.00%
+42	13aa, >satpdb17068... at 92.31%
+43	16aa, >satpdb19066... at 100.00%
+>Cluster 299
+0	16aa, >12216... *
+>Cluster 300
+0	16aa, >12224... *
+>Cluster 301
+0	16aa, >12238... *
+>Cluster 302
+0	16aa, >12359... *
+>Cluster 303
+0	13aa, >491... at 61.54%
+1	13aa, >4806... at 61.54%
+2	11aa, >12607... at 81.82%
+3	16aa, >13988... *
+4	16aa, >13989... at 62.50%
+5	16aa, >13990... at 62.50%
+6	11aa, >15843... at 81.82%
+7	11aa, >15844... at 81.82%
+8	11aa, >15845... at 81.82%
+9	11aa, >15846... at 81.82%
+10	11aa, >15847... at 81.82%
+11	11aa, >15848... at 81.82%
+12	11aa, >15849... at 81.82%
+>Cluster 304
+0	16aa, >14297... *
+>Cluster 305
+0	16aa, >4165Cancerppd... *
+1	16aa, >4166Cancerppd... at 100.00%
+2	16aa, >4167Cancerppd... at 100.00%
+3	16aa, >4168Cancerppd... at 100.00%
+4	16aa, >4169Cancerppd... at 100.00%
+5	16aa, >4170Cancerppd... at 100.00%
+6	16aa, >4171Cancerppd... at 100.00%
+7	16aa, >4172Cancerppd... at 100.00%
+8	16aa, >4173Cancerppd... at 100.00%
+9	16aa, >satpdb16781... at 100.00%
+>Cluster 306
+0	16aa, >satpdb10989... *
+>Cluster 307
+0	16aa, >satpdb14958... *
+>Cluster 308
+0	16aa, >satpdb21617... *
+1	16aa, >satpdb23749... at 87.50%
+>Cluster 309
+0	16aa, >satpdb23309... *
+>Cluster 310
+0	15aa, >1666... *
+>Cluster 311
+0	15aa, >3431... *
+1	15aa, >3436... at 66.67%
+2	12aa, >13540... at 50.00%
+3	15aa, >3508Cancerppd... at 100.00%
+4	15aa, >3533Cancerppd... at 100.00%
+5	15aa, >3558Cancerppd... at 100.00%
+6	15aa, >satpdb14851... at 66.67%
+7	15aa, >satpdb23444... at 100.00%
+>Cluster 312
+0	12aa, >3274... at 58.33%
+1	15aa, >3433... *
+2	15aa, >3434... at 86.67%
+3	15aa, >3435... at 73.33%
+4	15aa, >3437... at 73.33%
+5	15aa, >3438... at 73.33%
+6	15aa, >3439... at 73.33%
+7	15aa, >3440... at 66.67%
+8	15aa, >3441... at 73.33%
+9	15aa, >3495Cancerppd... at 80.00%
+10	15aa, >3496Cancerppd... at 73.33%
+11	15aa, >3497Cancerppd... at 66.67%
+12	15aa, >3498Cancerppd... at 73.33%
+13	15aa, >3499Cancerppd... at 73.33%
+14	15aa, >3500Cancerppd... at 73.33%
+15	15aa, >3501Cancerppd... at 80.00%
+16	15aa, >3502Cancerppd... at 80.00%
+17	15aa, >3503Cancerppd... at 73.33%
+18	15aa, >3506Cancerppd... at 66.67%
+19	15aa, >3509Cancerppd... at 66.67%
+20	15aa, >3512Cancerppd... at 73.33%
+21	15aa, >3515Cancerppd... at 73.33%
+22	15aa, >3516Cancerppd... at 73.33%
+23	15aa, >3517Cancerppd... at 66.67%
+24	15aa, >3518Cancerppd... at 73.33%
+25	15aa, >3519Cancerppd... at 80.00%
+26	15aa, >3520Cancerppd... at 80.00%
+27	15aa, >3521Cancerppd... at 73.33%
+28	15aa, >3522Cancerppd... at 66.67%
+29	15aa, >3523Cancerppd... at 73.33%
+30	15aa, >3524Cancerppd... at 73.33%
+31	15aa, >3525Cancerppd... at 73.33%
+32	15aa, >3526Cancerppd... at 80.00%
+33	15aa, >3527Cancerppd... at 80.00%
+34	15aa, >3528Cancerppd... at 73.33%
+35	15aa, >3531Cancerppd... at 66.67%
+36	15aa, >3534Cancerppd... at 66.67%
+37	15aa, >3537Cancerppd... at 73.33%
+38	15aa, >3540Cancerppd... at 73.33%
+39	15aa, >3541Cancerppd... at 73.33%
+40	15aa, >3542Cancerppd... at 66.67%
+41	15aa, >3543Cancerppd... at 73.33%
+42	15aa, >3544Cancerppd... at 80.00%
+43	15aa, >3545Cancerppd... at 80.00%
+44	15aa, >3546Cancerppd... at 73.33%
+45	15aa, >3547Cancerppd... at 66.67%
+46	15aa, >3548Cancerppd... at 73.33%
+47	15aa, >3549Cancerppd... at 73.33%
+48	15aa, >3550Cancerppd... at 73.33%
+49	15aa, >3551Cancerppd... at 80.00%
+50	15aa, >3552Cancerppd... at 80.00%
+51	15aa, >3553Cancerppd... at 73.33%
+52	15aa, >3556Cancerppd... at 66.67%
+53	15aa, >3559Cancerppd... at 66.67%
+54	15aa, >3562Cancerppd... at 73.33%
+55	15aa, >3565Cancerppd... at 73.33%
+56	15aa, >3566Cancerppd... at 73.33%
+57	15aa, >3567Cancerppd... at 66.67%
+58	15aa, >3568Cancerppd... at 73.33%
+59	15aa, >3569Cancerppd... at 80.00%
+60	12aa, >3643Cancerppd... at 58.33%
+61	12aa, >3699Cancerppd... at 58.33%
+62	15aa, >DRAMP02989... at 73.33%
+63	15aa, >DRAMP02990... at 73.33%
+64	15aa, >DRAMP02991... at 80.00%
+65	15aa, >satpdb12515... at 73.33%
+66	15aa, >satpdb12553... at 80.00%
+67	15aa, >satpdb12825... at 80.00%
+68	15aa, >satpdb13519... at 73.33%
+69	15aa, >satpdb14061... at 80.00%
+70	15aa, >satpdb15668... at 73.33%
+71	15aa, >satpdb17776... at 66.67%
+72	15aa, >satpdb19107... at 73.33%
+73	15aa, >satpdb21304... at 73.33%
+74	15aa, >satpdb21902... at 73.33%
+75	15aa, >satpdb23172... at 73.33%
+76	15aa, >satpdb23728... at 73.33%
+77	15aa, >satpdb24016... at 73.33%
+78	15aa, >satpdb24201... at 66.67%
+79	12aa, >satpdb25785... at 58.33%
+80	15aa, >satpdb26394... at 66.67%
+81	15aa, >satpdb26764... at 73.33%
+82	15aa, >satpdb26924... at 73.33%
+83	15aa, >satpdb27021... at 66.67%
+84	15aa, >satpdb28610... at 80.00%
+>Cluster 313
+0	13aa, >847... at 92.31%
+1	12aa, >5721... at 58.33%
+2	15aa, >5741... *
+3	13aa, >10852... at 76.92%
+4	13aa, >10906... at 69.23%
+5	13aa, >10907... at 61.54%
+6	13aa, >DRAMP18658... at 69.23%
+7	12aa, >satpdb22765... at 58.33%
+>Cluster 314
+0	15aa, >10285... *
+1	15aa, >10286... at 86.67%
+2	15aa, >10287... at 86.67%
+3	15aa, >10288... at 93.33%
+4	15aa, >10289... at 80.00%
+5	9aa, >12596... at 66.67%
+>Cluster 315
+0	15aa, >10931... *
+1	15aa, >10942... at 73.33%
+2	15aa, >DRAMP18367... at 100.00%
+3	15aa, >DRAMP18366... at 73.33%
+4	15aa, >DRAMP18198... at 100.00%
+>Cluster 316
+0	13aa, >9532... at 61.54%
+1	9aa, >9773... at 55.56%
+2	15aa, >12905... *
+3	15aa, >12911... at 73.33%
+>Cluster 317
+0	15aa, >15450... *
+1	15aa, >15451... at 73.33%
+>Cluster 318
+0	15aa, >15452... *
+1	15aa, >15453... at 73.33%
+>Cluster 319
+0	15aa, >4577Cancerppd... *
+1	15aa, >satpdb25289... at 100.00%
+>Cluster 320
+0	15aa, >satpdb10012... *
+>Cluster 321
+0	7aa, >13304... at 71.43%
+1	15aa, >satpdb12938... *
+>Cluster 322
+0	15aa, >satpdb14897... *
+1	15aa, >satpdb16213... at 86.67%
+>Cluster 323
+0	15aa, >satpdb15356... *
+1	15aa, >satpdb18163... at 73.33%
+>Cluster 324
+0	15aa, >satpdb25112... *
+>Cluster 325
+0	15aa, >satpdb28376... *
+>Cluster 326
+0	14aa, >3561... *
+>Cluster 327
+0	14aa, >8864... *
+>Cluster 328
+0	11aa, >8931... at 100.00%
+1	11aa, >8934... at 72.73%
+2	11aa, >8935... at 72.73%
+3	13aa, >8966... at 92.31%
+4	12aa, >8967... at 100.00%
+5	10aa, >8968... at 100.00%
+6	9aa, >8969... at 88.89%
+7	8aa, >8970... at 100.00%
+8	7aa, >8971... at 100.00%
+9	13aa, >9116... at 92.31%
+10	12aa, >9117... at 100.00%
+11	10aa, >9118... at 100.00%
+12	9aa, >9119... at 100.00%
+13	8aa, >9120... at 100.00%
+14	13aa, >9135... at 69.23%
+15	10aa, >9136... at 100.00%
+16	9aa, >9137... at 100.00%
+17	8aa, >9138... at 100.00%
+18	7aa, >9139... at 100.00%
+19	14aa, >9161... *
+20	14aa, >9162... at 85.71%
+21	14aa, >9163... at 57.14%
+22	14aa, >9165... at 50.00%
+>Cluster 329
+0	10aa, >3017... at 60.00%
+1	14aa, >14641... *
+2	14aa, >satpdb22814... at 92.86%
+3	14aa, >satpdb24876... at 92.86%
+>Cluster 330
+0	14aa, >3345Cancerppd... *
+1	14aa, >3346Cancerppd... at 100.00%
+2	14aa, >satpdb17179... at 100.00%
+>Cluster 331
+0	14aa, >DRAMP03024... *
+1	14aa, >satpdb19410... at 100.00%
+>Cluster 332
+0	14aa, >satpdb12614... *
+>Cluster 333
+0	14aa, >satpdb16227... *
+>Cluster 334
+0	14aa, >satpdb16441... *
+>Cluster 335
+0	14aa, >satpdb17970... *
+>Cluster 336
+0	14aa, >satpdb24107... *
+>Cluster 337
+0	14aa, >satpdb25823... *
+>Cluster 338
+0	13aa, >1026... *
+1	13aa, >DRAMP01746... at 100.00%
+2	13aa, >satpdb15370... at 100.00%
+3	13aa, >satpdb16211... at 100.00%
+>Cluster 339
+0	13aa, >3453... *
+1	13aa, >3454... at 76.92%
+2	13aa, >3455... at 69.23%
+3	13aa, >3456... at 69.23%
+4	13aa, >3457... at 69.23%
+5	13aa, >3586Cancerppd... at 76.92%
+6	13aa, >3589Cancerppd... at 69.23%
+7	13aa, >3590Cancerppd... at 69.23%
+8	13aa, >3591Cancerppd... at 76.92%
+9	13aa, >3592Cancerppd... at 76.92%
+10	13aa, >3595Cancerppd... at 76.92%
+11	13aa, >3596Cancerppd... at 76.92%
+12	13aa, >3598Cancerppd... at 76.92%
+13	13aa, >3602Cancerppd... at 76.92%
+14	13aa, >3605Cancerppd... at 69.23%
+15	13aa, >3606Cancerppd... at 69.23%
+16	13aa, >3607Cancerppd... at 76.92%
+17	13aa, >3608Cancerppd... at 76.92%
+18	13aa, >3611Cancerppd... at 76.92%
+19	13aa, >3612Cancerppd... at 76.92%
+20	13aa, >3614Cancerppd... at 76.92%
+21	13aa, >3618Cancerppd... at 76.92%
+22	13aa, >3621Cancerppd... at 69.23%
+23	13aa, >3622Cancerppd... at 69.23%
+24	13aa, >3623Cancerppd... at 76.92%
+25	13aa, >3624Cancerppd... at 76.92%
+26	13aa, >3627Cancerppd... at 76.92%
+27	13aa, >3628Cancerppd... at 76.92%
+28	13aa, >3630Cancerppd... at 76.92%
+29	13aa, >satpdb11865... at 76.92%
+30	13aa, >satpdb13422... at 76.92%
+31	13aa, >satpdb13566... at 69.23%
+32	13aa, >satpdb17797... at 69.23%
+33	13aa, >satpdb20333... at 76.92%
+34	13aa, >satpdb22014... at 100.00%
+35	13aa, >satpdb27661... at 76.92%
+>Cluster 340
+0	13aa, >3491... *
+>Cluster 341
+0	13aa, >4693... *
+>Cluster 342
+0	13aa, >9851... *
+1	12aa, >9852... at 83.33%
+2	12aa, >9853... at 66.67%
+3	10aa, >9855... at 60.00%
+4	13aa, >9856... at 53.85%
+5	10aa, >9862... at 70.00%
+>Cluster 343
+0	13aa, >10051... *
+1	13aa, >10052... at 92.31%
+2	13aa, >10053... at 84.62%
+3	13aa, >10054... at 76.92%
+4	11aa, >14178... at 63.64%
+5	11aa, >14190... at 63.64%
+6	11aa, >14207... at 63.64%
+7	11aa, >14232... at 63.64%
+8	11aa, >14236... at 63.64%
+9	10aa, >14240... at 70.00%
+10	9aa, >satpdb23905... at 66.67%
+>Cluster 344
+0	13aa, >11191... *
+1	13aa, >11192... at 84.62%
+2	13aa, >11193... at 84.62%
+3	13aa, >11194... at 100.00%
+>Cluster 345
+0	12aa, >12130... at 100.00%
+1	13aa, >12133... *
+2	13aa, >12134... at 92.31%
+3	11aa, >15530... at 100.00%
+4	10aa, >15531... at 100.00%
+5	9aa, >15532... at 100.00%
+6	8aa, >15533... at 100.00%
+7	7aa, >15534... at 100.00%
+8	13aa, >DRAMP03064... at 92.31%
+9	13aa, >satpdb12687... at 92.31%
+10	12aa, >satpdb22817... at 100.00%
+>Cluster 346
+0	13aa, >12532... *
+>Cluster 347
+0	13aa, >13431... *
+>Cluster 348
+0	8aa, >9821... at 75.00%
+1	13aa, >14063... *
+2	13aa, >14064... at 100.00%
+3	13aa, >14065... at 100.00%
+4	13aa, >14066... at 84.62%
+5	7aa, >14952... at 85.71%
+6	13aa, >3268Cancerppd... at 84.62%
+7	13aa, >3269Cancerppd... at 84.62%
+8	13aa, >satpdb26826... at 84.62%
+>Cluster 349
+0	13aa, >14078... *
+1	13aa, >14079... at 92.31%
+2	12aa, >1424Cancerppd... at 75.00%
+3	13aa, >1812Cancerppd... at 84.62%
+4	13aa, >1827Cancerppd... at 84.62%
+5	13aa, >1964Cancerppd... at 84.62%
+6	13aa, >1979Cancerppd... at 84.62%
+7	13aa, >2116Cancerppd... at 84.62%
+8	13aa, >2131Cancerppd... at 84.62%
+9	13aa, >2268Cancerppd... at 84.62%
+10	13aa, >2283Cancerppd... at 84.62%
+11	13aa, >2420Cancerppd... at 84.62%
+12	13aa, >2435Cancerppd... at 84.62%
+13	13aa, >2563Cancerppd... at 84.62%
+14	13aa, >2578Cancerppd... at 84.62%
+15	13aa, >2706Cancerppd... at 84.62%
+16	13aa, >2721Cancerppd... at 84.62%
+17	13aa, >satpdb10628... at 84.62%
+18	13aa, >satpdb22480... at 84.62%
+19	12aa, >satpdb27895... at 75.00%
+>Cluster 350
+0	7aa, >11344... at 57.14%
+1	13aa, >14176... *
+>Cluster 351
+0	13aa, >satpdb10266... *
+1	12aa, >satpdb25624... at 83.33%
+>Cluster 352
+0	13aa, >satpdb14648... *
+>Cluster 353
+0	11aa, >satpdb13691... at 100.00%
+1	13aa, >satpdb16044... *
+2	13aa, >satpdb18904... at 92.31%
+>Cluster 354
+0	13aa, >satpdb19683... *
+>Cluster 355
+0	13aa, >satpdb20500... *
+>Cluster 356
+0	13aa, >satpdb27572... *
+>Cluster 357
+0	12aa, >6782... *
+1	12aa, >6783... at 100.00%
+>Cluster 358
+0	12aa, >11203... *
+>Cluster 359
+0	12aa, >11205... *
+>Cluster 360
+0	9aa, >11902... at 66.67%
+1	9aa, >11903... at 66.67%
+2	9aa, >11904... at 66.67%
+3	9aa, >13121... at 100.00%
+4	9aa, >13122... at 100.00%
+5	9aa, >13123... at 100.00%
+6	9aa, >13128... at 100.00%
+7	9aa, >13130... at 100.00%
+8	9aa, >13131... at 100.00%
+9	9aa, >13132... at 100.00%
+10	9aa, >13133... at 100.00%
+11	9aa, >13135... at 100.00%
+12	9aa, >13141... at 100.00%
+13	8aa, >13142... at 100.00%
+14	7aa, >14861... at 71.43%
+15	7aa, >14862... at 71.43%
+16	7aa, >14863... at 71.43%
+17	7aa, >14864... at 71.43%
+18	7aa, >14865... at 71.43%
+19	7aa, >14866... at 71.43%
+20	12aa, >15095... *
+21	12aa, >15097... at 91.67%
+22	11aa, >15098... at 100.00%
+23	11aa, >15677... at 72.73%
+>Cluster 361
+0	12aa, >1423Cancerppd... *
+1	12aa, >satpdb17100... at 100.00%
+>Cluster 362
+0	12aa, >4218Cancerppd... *
+>Cluster 363
+0	12aa, >4578Cancerppd... *
+1	12aa, >satpdb11254... at 91.67%
+2	12aa, >satpdb15265... at 100.00%
+3	12aa, >satpdb15377... at 91.67%
+4	12aa, >satpdb17763... at 91.67%
+5	12aa, >satpdb24635... at 91.67%
+6	12aa, >satpdb26343... at 91.67%
+7	12aa, >satpdb28334... at 91.67%
+>Cluster 364
+0	12aa, >4579Cancerppd... *
+1	12aa, >4580Cancerppd... at 75.00%
+2	12aa, >satpdb23900... at 100.00%
+3	12aa, >satpdb28460... at 75.00%
+>Cluster 365
+0	10aa, >1350Cancerppd... at 100.00%
+1	12aa, >4581Cancerppd... *
+2	12aa, >satpdb13581... at 66.67%
+3	12aa, >satpdb15746... at 75.00%
+4	12aa, >satpdb17937... at 66.67%
+5	12aa, >satpdb22314... at 100.00%
+6	12aa, >satpdb23321... at 66.67%
+7	10aa, >satpdb28786... at 100.00%
+>Cluster 366
+0	12aa, >satpdb14246... *
+>Cluster 367
+0	12aa, >satpdb16901... *
+1	12aa, >satpdb17142... at 100.00%
+2	12aa, >satpdb25065... at 91.67%
+>Cluster 368
+0	12aa, >satpdb17767... *
+>Cluster 369
+0	12aa, >satpdb27298... *
+>Cluster 370
+0	12aa, >satpdb28120... *
+>Cluster 371
+0	11aa, >7855... *
+>Cluster 372
+0	10aa, >7738... at 90.00%
+1	10aa, >7739... at 90.00%
+2	10aa, >7742... at 80.00%
+3	10aa, >7743... at 80.00%
+4	10aa, >7745... at 80.00%
+5	11aa, >9391... *
+6	11aa, >9392... at 72.73%
+7	11aa, >9393... at 72.73%
+8	11aa, >9394... at 81.82%
+9	11aa, >9395... at 81.82%
+10	11aa, >9396... at 81.82%
+11	11aa, >9806... at 90.91%
+12	11aa, >9807... at 90.91%
+>Cluster 373
+0	11aa, >11539... *
+1	11aa, >11550... at 81.82%
+2	11aa, >11551... at 81.82%
+3	11aa, >11552... at 81.82%
+4	10aa, >11553... at 80.00%
+5	11aa, >11554... at 81.82%
+>Cluster 374
+0	11aa, >DRAMP02397... *
+>Cluster 375
+0	10aa, >satpdb11935... at 70.00%
+1	11aa, >satpdb12029... *
+2	11aa, >satpdb18128... at 81.82%
+>Cluster 376
+0	11aa, >satpdb14979... *
+>Cluster 377
+0	11aa, >satpdb18483... *
+>Cluster 378
+0	11aa, >satpdb20109... *
+>Cluster 379
+0	11aa, >satpdb26128... *
+>Cluster 380
+0	11aa, >satpdb28282... *
+>Cluster 381
+0	10aa, >1568... *
+>Cluster 382
+0	10aa, >1681... *
+>Cluster 383
+0	10aa, >3316... *
+1	10aa, >6090... at 90.00%
+2	10aa, >6091... at 90.00%
+3	10aa, >6092... at 80.00%
+4	10aa, >6093... at 80.00%
+5	10aa, >6094... at 70.00%
+>Cluster 384
+0	10aa, >4695... *
+>Cluster 385
+0	10aa, >10982... *
+1	10aa, >10984... at 90.00%
+2	10aa, >10986... at 70.00%
+>Cluster 386
+0	10aa, >4576Cancerppd... *
+1	10aa, >satpdb17969... at 100.00%
+>Cluster 387
+0	10aa, >DRAMP00301... *
+>Cluster 388
+0	10aa, >DRAMP00302... *
+>Cluster 389
+0	10aa, >satpdb16447... *
+>Cluster 390
+0	9aa, >5445... *
+>Cluster 391
+0	9aa, >3140Cancerppd... *
+1	9aa, >3141Cancerppd... at 100.00%
+2	9aa, >3142Cancerppd... at 100.00%
+3	9aa, >3143Cancerppd... at 88.89%
+4	9aa, >3144Cancerppd... at 88.89%
+5	9aa, >3145Cancerppd... at 88.89%
+6	9aa, >3146Cancerppd... at 88.89%
+7	9aa, >3147Cancerppd... at 88.89%
+8	9aa, >3148Cancerppd... at 88.89%
+9	9aa, >3149Cancerppd... at 88.89%
+10	9aa, >3150Cancerppd... at 88.89%
+11	9aa, >3151Cancerppd... at 88.89%
+12	9aa, >3152Cancerppd... at 88.89%
+13	9aa, >3153Cancerppd... at 88.89%
+14	9aa, >3154Cancerppd... at 88.89%
+15	9aa, >3155Cancerppd... at 88.89%
+16	9aa, >3156Cancerppd... at 88.89%
+17	9aa, >satpdb16909... at 88.89%
+18	9aa, >satpdb18516... at 88.89%
+19	9aa, >satpdb22169... at 88.89%
+20	9aa, >satpdb25235... at 88.89%
+21	9aa, >satpdb25718... at 100.00%
+22	9aa, >satpdb27266... at 88.89%
+23	9aa, >satpdb27518... at 88.89%
+24	9aa, >satpdb28846... at 100.00%
+>Cluster 392
+0	9aa, >satpdb10964... *
+>Cluster 393
+0	7aa, >11202... *
