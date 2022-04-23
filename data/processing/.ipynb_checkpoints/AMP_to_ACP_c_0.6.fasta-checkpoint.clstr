@@ -1,0 +1,1482 @@
+>Cluster 0
+0	88aa, >DRAMP02467... *
+>Cluster 1
+0	85aa, >DRAMP02472... *
+>Cluster 2
+0	78aa, >DRAMP02980... *
+1	27aa, >1486... at 100.00%
+>Cluster 3
+0	74aa, >DRAMP18114... *
+>Cluster 4
+0	60aa, >DRAMP01274... *
+>Cluster 5
+0	50aa, >satpdb15053... *
+1	12aa, >1236... at 66.67%
+>Cluster 6
+0	50aa, >satpdb15843... *
+1	11aa, >7550... at 63.64%
+2	7aa, >9846... at 71.43%
+>Cluster 7
+0	49aa, >satpdb10374... *
+1	11aa, >3483... at 100.00%
+2	30aa, >11980... at 100.00%
+>Cluster 8
+0	48aa, >satpdb11282... *
+>Cluster 9
+0	48aa, >satpdb11543... *
+>Cluster 10
+0	47aa, >satpdb10632... *
+>Cluster 11
+0	47aa, >satpdb24247... *
+1	26aa, >349... at 100.00%
+>Cluster 12
+0	46aa, >satpdb13326... *
+1	17aa, >7407... at 64.71%
+>Cluster 13
+0	46aa, >satpdb19524... *
+>Cluster 14
+0	43aa, >satpdb20803... *
+1	9aa, >816... at 66.67%
+>Cluster 15
+0	42aa, >satpdb23000... *
+>Cluster 16
+0	42aa, >satpdb27112... *
+1	17aa, >4114... at 82.35%
+2	13aa, >4115... at 76.92%
+>Cluster 17
+0	40aa, >satpdb14445... *
+>Cluster 18
+0	40aa, >satpdb15805... *
+>Cluster 19
+0	39aa, >satpdb15417... *
+1	26aa, >5048... at 100.00%
+2	24aa, >5374... at 100.00%
+3	19aa, >11539... at 63.16%
+>Cluster 20
+0	39aa, >satpdb16356... *
+1	14aa, >4532... at 71.43%
+2	21aa, >11952... at 85.71%
+>Cluster 21
+0	38aa, >satpdb19441... *
+1	30aa, >6633... at 73.33%
+2	21aa, >8376... at 85.71%
+>Cluster 22
+0	38aa, >satpdb20061... *
+>Cluster 23
+0	38aa, >satpdb23915... *
+1	18aa, >437... at 61.11%
+2	30aa, >6902... at 63.33%
+3	14aa, >8757... at 85.71%
+4	13aa, >11520... at 61.54%
+>Cluster 24
+0	37aa, >DRAMP03571... *
+1	12aa, >2500... at 100.00%
+2	30aa, >3015... at 100.00%
+>Cluster 25
+0	37aa, >satpdb11835... *
+>Cluster 26
+0	37aa, >satpdb15009... *
+1	30aa, >3261... at 100.00%
+>Cluster 27
+0	36aa, >satpdb17617... *
+1	24aa, >5925... at 70.83%
+>Cluster 28
+0	35aa, >satpdb25049... *
+>Cluster 29
+0	34aa, >DRAMP18372... *
+>Cluster 30
+0	34aa, >satpdb12020... *
+>Cluster 31
+0	34aa, >satpdb18078... *
+>Cluster 32
+0	34aa, >satpdb18469... *
+>Cluster 33
+0	34aa, >satpdb21937... *
+>Cluster 34
+0	34aa, >satpdb24687... *
+>Cluster 35
+0	34aa, >satpdb28956... *
+1	30aa, >823... at 63.33%
+>Cluster 36
+0	33aa, >satpdb10341... *
+1	14aa, >286... at 64.29%
+2	18aa, >4268... at 77.78%
+3	12aa, >4943... at 66.67%
+4	27aa, >10031... at 66.67%
+5	14aa, >12566... at 64.29%
+>Cluster 37
+0	33aa, >satpdb16778... *
+1	18aa, >3450... at 83.33%
+2	27aa, >5321... at 100.00%
+>Cluster 38
+0	33aa, >satpdb17836... *
+1	29aa, >1507... at 79.31%
+2	25aa, >2320... at 64.00%
+3	29aa, >4182... at 72.41%
+4	17aa, >5489... at 64.71%
+>Cluster 39
+0	33aa, >satpdb22855... *
+1	21aa, >1041... at 61.90%
+2	15aa, >1544... at 60.00%
+>Cluster 40
+0	32aa, >DRAMP00768... *
+1	30aa, >467... at 80.00%
+>Cluster 41
+0	32aa, >satpdb14378... *
+1	28aa, >405... at 60.71%
+2	27aa, >6874... at 70.37%
+3	7aa, >12002... at 71.43%
+>Cluster 42
+0	32aa, >satpdb26623... *
+1	17aa, >8511... at 64.71%
+>Cluster 43
+0	31aa, >satpdb19272... *
+1	23aa, >966... at 73.91%
+2	25aa, >3355... at 64.00%
+3	24aa, >3361... at 66.67%
+4	22aa, >9434... at 72.73%
+5	17aa, >9619... at 70.59%
+6	22aa, >9996... at 68.18%
+7	23aa, >10865... at 73.91%
+8	21aa, >11849... at 61.90%
+>Cluster 44
+0	31aa, >satpdb20915... *
+>Cluster 45
+0	31aa, >satpdb22038... *
+>Cluster 46
+0	31aa, >satpdb27573... *
+>Cluster 47
+0	30aa, >1737... *
+1	30aa, >1251... at 100.00%
+>Cluster 48
+0	30aa, >2453... *
+1	30aa, >4416... at 86.67%
+>Cluster 49
+0	30aa, >4275... *
+1	30aa, >3168... at 100.00%
+>Cluster 50
+0	30aa, >8157... *
+1	30aa, >5840... at 100.00%
+>Cluster 51
+0	30aa, >8873... *
+1	30aa, >6264... at 100.00%
+>Cluster 52
+0	30aa, >9680... *
+1	30aa, >6808... at 100.00%
+>Cluster 53
+0	30aa, >11541... *
+1	30aa, >8216... at 100.00%
+>Cluster 54
+0	30aa, >13379... *
+1	30aa, >9409... at 100.00%
+>Cluster 55
+0	30aa, >14140... *
+1	30aa, >10010... at 100.00%
+>Cluster 56
+0	30aa, >16415... *
+1	30aa, >11187... at 100.00%
+>Cluster 57
+0	30aa, >1665Cancerppd... *
+1	18aa, >4833... at 72.22%
+2	20aa, >6306... at 90.00%
+>Cluster 58
+0	30aa, >3102Cancerppd... *
+>Cluster 59
+0	30aa, >3374Cancerppd... *
+>Cluster 60
+0	30aa, >satpdb19871... *
+>Cluster 61
+0	30aa, >satpdb21751... *
+1	30aa, >471... at 96.67%
+>Cluster 62
+0	30aa, >satpdb26524... *
+>Cluster 63
+0	29aa, >3785... *
+1	29aa, >2744... at 100.00%
+>Cluster 64
+0	29aa, >3786... *
+1	29aa, >2745... at 100.00%
+>Cluster 65
+0	29aa, >3867... *
+1	29aa, >2799... at 100.00%
+>Cluster 66
+0	29aa, >4195... *
+1	29aa, >1039... at 75.86%
+2	29aa, >4019... at 65.52%
+>Cluster 67
+0	29aa, >4288... *
+1	29aa, >3180... at 100.00%
+>Cluster 68
+0	29aa, >4405... *
+1	29aa, >3278... at 100.00%
+>Cluster 69
+0	29aa, >4477... *
+1	29aa, >3341... at 100.00%
+>Cluster 70
+0	29aa, >9677... *
+1	29aa, >6805... at 100.00%
+>Cluster 71
+0	29aa, >10541... *
+>Cluster 72
+0	29aa, >12678... *
+>Cluster 73
+0	29aa, >14003... *
+1	29aa, >9925... at 100.00%
+>Cluster 74
+0	29aa, >15615... *
+>Cluster 75
+0	29aa, >satpdb14780... *
+>Cluster 76
+0	29aa, >satpdb17014... *
+>Cluster 77
+0	28aa, >102... *
+1	27aa, >4181... at 92.59%
+>Cluster 78
+0	28aa, >565... *
+1	28aa, >334... at 100.00%
+>Cluster 79
+0	28aa, >1485... *
+>Cluster 80
+0	28aa, >4305... *
+>Cluster 81
+0	28aa, >4459... *
+>Cluster 82
+0	28aa, >4466... *
+1	28aa, >3334... at 100.00%
+>Cluster 83
+0	28aa, >6166... *
+>Cluster 84
+0	28aa, >7009... *
+1	28aa, >5030... at 100.00%
+>Cluster 85
+0	28aa, >9012... *
+1	28aa, >6394... at 100.00%
+>Cluster 86
+0	28aa, >9847... *
+1	28aa, >6943... at 100.00%
+>Cluster 87
+0	28aa, >9973... *
+1	28aa, >7052... at 100.00%
+>Cluster 88
+0	28aa, >10589... *
+1	28aa, >7465... at 100.00%
+>Cluster 89
+0	28aa, >11804... *
+1	21aa, >2246... at 66.67%
+>Cluster 90
+0	28aa, >12680... *
+1	18aa, >8899... at 100.00%
+>Cluster 91
+0	28aa, >12703... *
+1	28aa, >8915... at 100.00%
+>Cluster 92
+0	28aa, >12708... *
+1	28aa, >8920... at 100.00%
+>Cluster 93
+0	28aa, >13110... *
+>Cluster 94
+0	28aa, >13362... *
+1	28aa, >9392... at 100.00%
+>Cluster 95
+0	28aa, >13371... *
+1	28aa, >9401... at 100.00%
+>Cluster 96
+0	28aa, >13374... *
+1	28aa, >9404... at 100.00%
+>Cluster 97
+0	28aa, >14985... *
+1	28aa, >10569... at 100.00%
+>Cluster 98
+0	28aa, >15610... *
+>Cluster 99
+0	28aa, >15801... *
+1	28aa, >10734... at 100.00%
+>Cluster 100
+0	28aa, >16047... *
+1	28aa, >10917... at 100.00%
+>Cluster 101
+0	28aa, >16426... *
+1	28aa, >11198... at 100.00%
+>Cluster 102
+0	28aa, >satpdb12519... *
+1	12aa, >8410... at 66.67%
+>Cluster 103
+0	27aa, >832... *
+1	27aa, >513... at 100.00%
+>Cluster 104
+0	27aa, >841... *
+1	27aa, >308... at 74.07%
+>Cluster 105
+0	27aa, >1106... *
+>Cluster 106
+0	27aa, >4406... *
+1	27aa, >3279... at 100.00%
+>Cluster 107
+0	27aa, >4460... *
+>Cluster 108
+0	27aa, >5888... *
+>Cluster 109
+0	27aa, >10522... *
+1	27aa, >7404... at 100.00%
+>Cluster 110
+0	27aa, >12031... *
+>Cluster 111
+0	27aa, >12306... *
+1	27aa, >8646... at 100.00%
+>Cluster 112
+0	27aa, >13910... *
+1	27aa, >9842... at 100.00%
+>Cluster 113
+0	27aa, >13912... *
+1	27aa, >9844... at 100.00%
+>Cluster 114
+0	27aa, >14986... *
+1	27aa, >10570... at 100.00%
+>Cluster 115
+0	27aa, >satpdb17795... *
+>Cluster 116
+0	27aa, >satpdb24401... *
+>Cluster 117
+0	26aa, >264... *
+1	26aa, >150... at 96.15%
+>Cluster 118
+0	26aa, >536... *
+1	26aa, >315... at 100.00%
+>Cluster 119
+0	26aa, >806... *
+1	17aa, >5947... at 70.59%
+2	26aa, >6384... at 88.46%
+>Cluster 120
+0	26aa, >998... *
+1	26aa, >644... at 100.00%
+>Cluster 121
+0	26aa, >1412... *
+1	26aa, >964... at 100.00%
+>Cluster 122
+0	26aa, >4306... *
+1	25aa, >8784... at 72.00%
+>Cluster 123
+0	26aa, >6333... *
+1	26aa, >4659... at 100.00%
+>Cluster 124
+0	26aa, >8795... *
+1	26aa, >6208... at 100.00%
+>Cluster 125
+0	26aa, >10592... *
+1	26aa, >7468... at 100.00%
+>Cluster 126
+0	26aa, >11935... *
+1	26aa, >8424... at 100.00%
+>Cluster 127
+0	26aa, >13114... *
+>Cluster 128
+0	26aa, >13888... *
+1	26aa, >490... at 76.92%
+>Cluster 129
+0	26aa, >1888Cancerppd... *
+>Cluster 130
+0	26aa, >3718Cancerppd... *
+>Cluster 131
+0	26aa, >satpdb15770... *
+>Cluster 132
+0	26aa, >satpdb17813... *
+1	26aa, >2826... at 100.00%
+>Cluster 133
+0	26aa, >satpdb18073... *
+>Cluster 134
+0	26aa, >satpdb21624... *
+1	26aa, >648... at 100.00%
+>Cluster 135
+0	26aa, >satpdb23349... *
+>Cluster 136
+0	26aa, >satpdb25257... *
+>Cluster 137
+0	25aa, >535... *
+1	25aa, >314... at 100.00%
+>Cluster 138
+0	25aa, >995... *
+1	25aa, >641... at 100.00%
+>Cluster 139
+0	25aa, >997... *
+>Cluster 140
+0	25aa, >1105... *
+1	25aa, >714... at 100.00%
+>Cluster 141
+0	25aa, >1420... *
+1	25aa, >970... at 100.00%
+>Cluster 142
+0	25aa, >2042... *
+1	25aa, >1505... at 100.00%
+>Cluster 143
+0	25aa, >4503... *
+>Cluster 144
+0	25aa, >10358... *
+1	25aa, >7299... at 100.00%
+>Cluster 145
+0	25aa, >11532... *
+1	25aa, >8207... at 100.00%
+>Cluster 146
+0	25aa, >12878... *
+>Cluster 147
+0	25aa, >15088... *
+1	25aa, >10651... at 100.00%
+>Cluster 148
+0	25aa, >3837Cancerppd... *
+>Cluster 149
+0	25aa, >4201Cancerppd... *
+>Cluster 150
+0	25aa, >4202Cancerppd... *
+>Cluster 151
+0	25aa, >4203Cancerppd... *
+>Cluster 152
+0	25aa, >4204Cancerppd... *
+>Cluster 153
+0	25aa, >DRAMP01620... *
+>Cluster 154
+0	25aa, >DRAMP18494... *
+>Cluster 155
+0	25aa, >satpdb12859... *
+>Cluster 156
+0	25aa, >satpdb13953... *
+1	25aa, >291... at 100.00%
+>Cluster 157
+0	25aa, >satpdb18497... *
+>Cluster 158
+0	25aa, >satpdb18777... *
+>Cluster 159
+0	25aa, >satpdb25643... *
+1	25aa, >7377... at 92.00%
+>Cluster 160
+0	24aa, >626... *
+1	24aa, >373... at 100.00%
+>Cluster 161
+0	24aa, >1001... *
+1	24aa, >647... at 100.00%
+>Cluster 162
+0	24aa, >1413... *
+1	24aa, >965... at 100.00%
+>Cluster 163
+0	24aa, >1569... *
+1	24aa, >1098... at 100.00%
+>Cluster 164
+0	24aa, >2320... *
+1	24aa, >1449... at 62.50%
+>Cluster 165
+0	24aa, >4143... *
+>Cluster 166
+0	24aa, >4194... *
+1	24aa, >3094... at 100.00%
+>Cluster 167
+0	24aa, >4216... *
+1	24aa, >639... at 87.50%
+>Cluster 168
+0	24aa, >4294... *
+1	11aa, >6637... at 63.64%
+>Cluster 169
+0	24aa, >8814... *
+1	24aa, >6226... at 100.00%
+>Cluster 170
+0	24aa, >10248... *
+1	24aa, >7228... at 100.00%
+>Cluster 171
+0	24aa, >11337... *
+>Cluster 172
+0	24aa, >11807... *
+1	24aa, >8325... at 100.00%
+>Cluster 173
+0	24aa, >12018... *
+1	24aa, >8486... at 100.00%
+>Cluster 174
+0	24aa, >12376... *
+>Cluster 175
+0	24aa, >12592... *
+>Cluster 176
+0	24aa, >12671... *
+1	24aa, >8897... at 100.00%
+>Cluster 177
+0	24aa, >13109... *
+>Cluster 178
+0	24aa, >13399... *
+1	17aa, >8479... at 70.59%
+2	15aa, >9032... at 60.00%
+>Cluster 179
+0	24aa, >1357Cancerppd... *
+1	15aa, >9631... at 60.00%
+>Cluster 180
+0	24aa, >4205Cancerppd... *
+>Cluster 181
+0	24aa, >satpdb11307... *
+1	21aa, >563... at 61.90%
+>Cluster 182
+0	24aa, >satpdb12199... *
+>Cluster 183
+0	24aa, >satpdb12405... *
+>Cluster 184
+0	24aa, >satpdb14027... *
+>Cluster 185
+0	24aa, >satpdb17154... *
+1	19aa, >3223... at 73.68%
+2	10aa, >7538... at 60.00%
+>Cluster 186
+0	24aa, >satpdb22012... *
+>Cluster 187
+0	24aa, >satpdb25491... *
+>Cluster 188
+0	23aa, >360... *
+>Cluster 189
+0	23aa, >1435... *
+1	23aa, >984... at 100.00%
+>Cluster 190
+0	23aa, >2156... *
+1	23aa, >1012... at 91.30%
+>Cluster 191
+0	23aa, >3050... *
+1	23aa, >2204... at 100.00%
+>Cluster 192
+0	23aa, >10908... *
+1	23aa, >7724... at 100.00%
+>Cluster 193
+0	23aa, >11273... *
+1	23aa, >8011... at 100.00%
+>Cluster 194
+0	23aa, >13421... *
+>Cluster 195
+0	23aa, >14830... *
+1	23aa, >10477... at 100.00%
+>Cluster 196
+0	23aa, >15090... *
+1	23aa, >10653... at 100.00%
+>Cluster 197
+0	23aa, >15983... *
+>Cluster 198
+0	23aa, >satpdb10860... *
+1	21aa, >2853... at 76.19%
+2	15aa, >9633... at 60.00%
+>Cluster 199
+0	23aa, >satpdb11820... *
+>Cluster 200
+0	22aa, >4142... *
+>Cluster 201
+0	22aa, >4146... *
+1	22aa, >3047... at 100.00%
+>Cluster 202
+0	22aa, >7713... *
+>Cluster 203
+0	22aa, >8286... *
+1	22aa, >5928... at 100.00%
+>Cluster 204
+0	22aa, >9496... *
+>Cluster 205
+0	22aa, >9620... *
+>Cluster 206
+0	22aa, >9755... *
+1	22aa, >6871... at 100.00%
+>Cluster 207
+0	22aa, >9889... *
+1	22aa, >6971... at 100.00%
+>Cluster 208
+0	22aa, >10519... *
+1	22aa, >7401... at 100.00%
+>Cluster 209
+0	22aa, >10591... *
+1	22aa, >7467... at 100.00%
+>Cluster 210
+0	22aa, >11382... *
+1	22aa, >8091... at 100.00%
+>Cluster 211
+0	22aa, >12228... *
+1	22aa, >8619... at 100.00%
+>Cluster 212
+0	22aa, >12363... *
+1	22aa, >7521... at 95.45%
+>Cluster 213
+0	22aa, >12366... *
+>Cluster 214
+0	22aa, >12632... *
+1	22aa, >3080... at 68.18%
+>Cluster 215
+0	22aa, >13506... *
+1	22aa, >9507... at 100.00%
+>Cluster 216
+0	22aa, >14295... *
+>Cluster 217
+0	22aa, >14296... *
+>Cluster 218
+0	22aa, >14423... *
+1	9aa, >5079... at 66.67%
+2	14aa, >10563... at 71.43%
+3	12aa, >12767... at 66.67%
+>Cluster 219
+0	22aa, >14424... *
+1	13aa, >9479... at 61.54%
+2	15aa, >12510... at 60.00%
+>Cluster 220
+0	22aa, >16017... *
+1	22aa, >10898... at 100.00%
+>Cluster 221
+0	22aa, >1549Cancerppd... *
+>Cluster 222
+0	22aa, >3368Cancerppd... *
+>Cluster 223
+0	22aa, >DRAMP02126... *
+>Cluster 224
+0	22aa, >satpdb11381... *
+1	7aa, >5008... at 71.43%
+>Cluster 225
+0	22aa, >satpdb12562... *
+1	22aa, >3039... at 100.00%
+>Cluster 226
+0	22aa, >satpdb13516... *
+>Cluster 227
+0	22aa, >satpdb16174... *
+>Cluster 228
+0	22aa, >satpdb17363... *
+1	22aa, >470... at 95.45%
+>Cluster 229
+0	22aa, >satpdb17857... *
+1	22aa, >2859... at 72.73%
+>Cluster 230
+0	22aa, >satpdb17950... *
+>Cluster 231
+0	22aa, >satpdb18336... *
+>Cluster 232
+0	22aa, >satpdb25396... *
+>Cluster 233
+0	22aa, >satpdb27488... *
+>Cluster 234
+0	21aa, >999... *
+1	21aa, >645... at 100.00%
+>Cluster 235
+0	21aa, >1404... *
+1	21aa, >957... at 100.00%
+>Cluster 236
+0	21aa, >5499... *
+>Cluster 237
+0	21aa, >7485... *
+>Cluster 238
+0	21aa, >8062... *
+1	21aa, >5759... at 100.00%
+>Cluster 239
+0	21aa, >11963... *
+1	21aa, >8447... at 100.00%
+>Cluster 240
+0	21aa, >13656... *
+>Cluster 241
+0	21aa, >13897... *
+>Cluster 242
+0	21aa, >14293... *
+>Cluster 243
+0	21aa, >15142... *
+1	19aa, >229... at 63.16%
+2	19aa, >1470... at 63.16%
+>Cluster 244
+0	21aa, >15225... *
+>Cluster 245
+0	21aa, >15817... *
+>Cluster 246
+0	21aa, >16101... *
+1	21aa, >2851... at 80.95%
+>Cluster 247
+0	21aa, >16102... *
+1	21aa, >10948... at 100.00%
+>Cluster 248
+0	21aa, >1438Cancerppd... *
+1	12aa, >4996... at 66.67%
+2	16aa, >12490... at 68.75%
+>Cluster 249
+0	21aa, >satpdb11371... *
+1	21aa, >3038... at 100.00%
+>Cluster 250
+0	21aa, >satpdb18666... *
+1	21aa, >1685... at 100.00%
+>Cluster 251
+0	21aa, >satpdb21003... *
+>Cluster 252
+0	21aa, >satpdb23522... *
+1	13aa, >7522... at 76.92%
+>Cluster 253
+0	21aa, >satpdb24884... *
+>Cluster 254
+0	20aa, >2350... *
+1	20aa, >1732... at 100.00%
+>Cluster 255
+0	20aa, >2353... *
+1	20aa, >1735... at 100.00%
+>Cluster 256
+0	20aa, >2356... *
+1	20aa, >1738... at 100.00%
+>Cluster 257
+0	20aa, >2357... *
+1	20aa, >1739... at 100.00%
+>Cluster 258
+0	20aa, >2358... *
+1	20aa, >1740... at 100.00%
+>Cluster 259
+0	20aa, >3871... *
+1	20aa, >2803... at 100.00%
+>Cluster 260
+0	20aa, >3942... *
+1	20aa, >2863... at 100.00%
+>Cluster 261
+0	20aa, >4107... *
+1	20aa, >3017... at 100.00%
+>Cluster 262
+0	20aa, >6703... *
+1	20aa, >7869... at 85.00%
+>Cluster 263
+0	20aa, >8063... *
+1	20aa, >5760... at 100.00%
+>Cluster 264
+0	20aa, >9676... *
+1	20aa, >6804... at 100.00%
+>Cluster 265
+0	20aa, >10040... *
+1	20aa, >7081... at 100.00%
+>Cluster 266
+0	20aa, >10610... *
+1	20aa, >7484... at 100.00%
+>Cluster 267
+0	20aa, >10879... *
+1	20aa, >7699... at 100.00%
+>Cluster 268
+0	20aa, >10880... *
+1	20aa, >7700... at 100.00%
+>Cluster 269
+0	20aa, >11531... *
+1	20aa, >8206... at 100.00%
+>Cluster 270
+0	20aa, >12310... *
+>Cluster 271
+0	20aa, >12644... *
+1	20aa, >8874... at 100.00%
+>Cluster 272
+0	20aa, >13507... *
+1	20aa, >9508... at 100.00%
+>Cluster 273
+0	20aa, >13548... *
+>Cluster 274
+0	20aa, >14298... *
+1	9aa, >12029... at 66.67%
+2	7aa, >12048... at 85.71%
+>Cluster 275
+0	20aa, >14422... *
+1	13aa, >11334... at 61.54%
+2	12aa, >11344... at 66.67%
+>Cluster 276
+0	20aa, >14619... *
+1	20aa, >10324... at 100.00%
+>Cluster 277
+0	20aa, >15680... *
+>Cluster 278
+0	20aa, >15994... *
+1	20aa, >10876... at 100.00%
+>Cluster 279
+0	20aa, >1204Cancerppd... *
+1	20aa, >985... at 65.00%
+>Cluster 280
+0	20aa, >3362Cancerppd... *
+>Cluster 281
+0	20aa, >4189Cancerppd... *
+>Cluster 282
+0	20aa, >DRAMP00361... *
+>Cluster 283
+0	20aa, >DRAMP18147... *
+1	20aa, >7836... at 60.00%
+>Cluster 284
+0	20aa, >satpdb10051... *
+1	20aa, >514... at 100.00%
+>Cluster 285
+0	20aa, >satpdb10113... *
+>Cluster 286
+0	20aa, >satpdb10562... *
+>Cluster 287
+0	20aa, >satpdb13486... *
+>Cluster 288
+0	20aa, >satpdb17254... *
+>Cluster 289
+0	20aa, >satpdb18195... *
+>Cluster 290
+0	20aa, >satpdb21584... *
+>Cluster 291
+0	20aa, >satpdb22777... *
+>Cluster 292
+0	20aa, >satpdb23308... *
+>Cluster 293
+0	20aa, >satpdb23760... *
+>Cluster 294
+0	20aa, >satpdb24223... *
+1	10aa, >288... at 90.00%
+>Cluster 295
+0	20aa, >satpdb26450... *
+>Cluster 296
+0	20aa, >satpdb28887... *
+>Cluster 297
+0	19aa, >564... *
+1	19aa, >333... at 100.00%
+>Cluster 298
+0	19aa, >1428... *
+1	19aa, >977... at 100.00%
+>Cluster 299
+0	19aa, >2278... *
+1	19aa, >1665... at 100.00%
+>Cluster 300
+0	19aa, >2545... *
+1	19aa, >1838... at 100.00%
+>Cluster 301
+0	19aa, >3889... *
+1	19aa, >8696... at 63.16%
+>Cluster 302
+0	19aa, >8151... *
+1	19aa, >5838... at 73.68%
+2	16aa, >11978... at 62.50%
+>Cluster 303
+0	19aa, >10834... *
+1	19aa, >6709... at 94.74%
+>Cluster 304
+0	19aa, >10851... *
+1	19aa, >5549... at 73.68%
+2	19aa, >6909... at 63.16%
+>Cluster 305
+0	19aa, >10878... *
+1	19aa, >7698... at 100.00%
+>Cluster 306
+0	19aa, >12113... *
+1	19aa, >8553... at 100.00%
+>Cluster 307
+0	19aa, >12408... *
+1	19aa, >8707... at 100.00%
+>Cluster 308
+0	19aa, >13593... *
+>Cluster 309
+0	19aa, >14292... *
+>Cluster 310
+0	19aa, >14716... *
+1	19aa, >9036... at 78.95%
+>Cluster 311
+0	19aa, >satpdb11458... *
+1	19aa, >8853... at 73.68%
+>Cluster 312
+0	19aa, >satpdb11493... *
+>Cluster 313
+0	19aa, >satpdb11710... *
+>Cluster 314
+0	19aa, >satpdb12052... *
+>Cluster 315
+0	19aa, >satpdb14297... *
+>Cluster 316
+0	19aa, >satpdb16504... *
+>Cluster 317
+0	19aa, >satpdb16830... *
+>Cluster 318
+0	19aa, >satpdb16955... *
+>Cluster 319
+0	19aa, >satpdb17856... *
+>Cluster 320
+0	19aa, >satpdb24623... *
+>Cluster 321
+0	19aa, >satpdb24903... *
+>Cluster 322
+0	19aa, >satpdb26888... *
+>Cluster 323
+0	18aa, >696... *
+>Cluster 324
+0	18aa, >1000... *
+1	18aa, >646... at 100.00%
+>Cluster 325
+0	18aa, >1022... *
+>Cluster 326
+0	18aa, >3348... *
+1	18aa, >2462... at 100.00%
+>Cluster 327
+0	18aa, >3807... *
+1	18aa, >509... at 72.22%
+>Cluster 328
+0	18aa, >3839... *
+1	9aa, >5092... at 66.67%
+>Cluster 329
+0	18aa, >3893... *
+1	18aa, >7263... at 88.89%
+>Cluster 330
+0	18aa, >4527... *
+1	9aa, >6756... at 66.67%
+2	18aa, >11261... at 88.89%
+>Cluster 331
+0	18aa, >4631... *
+>Cluster 332
+0	18aa, >4757... *
+>Cluster 333
+0	18aa, >8278... *
+1	18aa, >5920... at 100.00%
+>Cluster 334
+0	18aa, >9871... *
+1	18aa, >6953... at 100.00%
+>Cluster 335
+0	18aa, >9876... *
+1	18aa, >6958... at 100.00%
+>Cluster 336
+0	18aa, >10612... *
+>Cluster 337
+0	18aa, >10728... *
+>Cluster 338
+0	18aa, >12407... *
+1	18aa, >8706... at 100.00%
+>Cluster 339
+0	18aa, >12589... *
+>Cluster 340
+0	18aa, >13403... *
+>Cluster 341
+0	18aa, >13425... *
+1	18aa, >9449... at 100.00%
+>Cluster 342
+0	18aa, >13648... *
+1	17aa, >3192... at 76.47%
+>Cluster 343
+0	18aa, >14291... *
+>Cluster 344
+0	18aa, >14299... *
+>Cluster 345
+0	18aa, >15442... *
+1	12aa, >6407... at 66.67%
+>Cluster 346
+0	18aa, >15777... *
+>Cluster 347
+0	18aa, >15798... *
+1	18aa, >10731... at 100.00%
+>Cluster 348
+0	18aa, >16162... *
+1	18aa, >10997... at 100.00%
+>Cluster 349
+0	18aa, >satpdb10126... *
+1	17aa, >1663... at 64.71%
+2	18aa, >3720... at 94.44%
+>Cluster 350
+0	18aa, >satpdb13253... *
+>Cluster 351
+0	18aa, >satpdb22231... *
+>Cluster 352
+0	17aa, >781... *
+1	17aa, >493... at 100.00%
+>Cluster 353
+0	17aa, >1477... *
+1	17aa, >1022... at 88.24%
+>Cluster 354
+0	17aa, >3443... *
+>Cluster 355
+0	17aa, >3753... *
+>Cluster 356
+0	17aa, >4297... *
+>Cluster 357
+0	17aa, >4393... *
+1	17aa, >3266... at 100.00%
+>Cluster 358
+0	17aa, >4537... *
+1	17aa, >3381... at 94.12%
+>Cluster 359
+0	17aa, >4545... *
+1	17aa, >3382... at 100.00%
+>Cluster 360
+0	17aa, >5724... *
+>Cluster 361
+0	17aa, >7557... *
+1	17aa, >5428... at 100.00%
+>Cluster 362
+0	17aa, >7558... *
+1	17aa, >5429... at 100.00%
+>Cluster 363
+0	17aa, >7559... *
+1	17aa, >5430... at 100.00%
+>Cluster 364
+0	17aa, >7581... *
+>Cluster 365
+0	17aa, >8233... *
+>Cluster 366
+0	17aa, >9469... *
+1	17aa, >6663... at 100.00%
+>Cluster 367
+0	17aa, >10837... *
+1	15aa, >2606... at 60.00%
+>Cluster 368
+0	17aa, >11171... *
+1	17aa, >7927... at 100.00%
+>Cluster 369
+0	17aa, >11172... *
+1	17aa, >7564... at 64.71%
+>Cluster 370
+0	17aa, >12237... *
+1	17aa, >8624... at 100.00%
+>Cluster 371
+0	17aa, >13027... *
+1	17aa, >6622... at 100.00%
+>Cluster 372
+0	17aa, >13116... *
+>Cluster 373
+0	17aa, >13164... *
+>Cluster 374
+0	17aa, >13331... *
+>Cluster 375
+0	17aa, >13627... *
+>Cluster 376
+0	17aa, >14300... *
+>Cluster 377
+0	17aa, >satpdb10067... *
+>Cluster 378
+0	17aa, >satpdb17407... *
+>Cluster 379
+0	17aa, >satpdb17430... *
+>Cluster 380
+0	17aa, >satpdb17431... *
+>Cluster 381
+0	17aa, >satpdb20599... *
+>Cluster 382
+0	17aa, >satpdb28590... *
+>Cluster 383
+0	16aa, >2407... *
+1	16aa, >1641... at 62.50%
+2	16aa, >3241... at 93.75%
+>Cluster 384
+0	16aa, >3427... *
+>Cluster 385
+0	16aa, >4531... *
+>Cluster 386
+0	16aa, >5369... *
+>Cluster 387
+0	16aa, >6203... *
+1	16aa, >4601... at 100.00%
+>Cluster 388
+0	16aa, >8804... *
+1	16aa, >6216... at 100.00%
+>Cluster 389
+0	16aa, >8811... *
+1	16aa, >6221... at 68.75%
+>Cluster 390
+0	16aa, >10229... *
+1	16aa, >7210... at 100.00%
+>Cluster 391
+0	16aa, >10332... *
+>Cluster 392
+0	16aa, >10586... *
+1	16aa, >7462... at 100.00%
+>Cluster 393
+0	16aa, >10750... *
+1	13aa, >4436... at 100.00%
+>Cluster 394
+0	16aa, >12216... *
+1	16aa, >8610... at 100.00%
+>Cluster 395
+0	16aa, >12224... *
+1	16aa, >8615... at 100.00%
+>Cluster 396
+0	16aa, >12238... *
+1	16aa, >8625... at 100.00%
+>Cluster 397
+0	16aa, >12359... *
+1	16aa, >8675... at 100.00%
+>Cluster 398
+0	16aa, >13189... *
+>Cluster 399
+0	16aa, >13626... *
+1	16aa, >9615... at 100.00%
+>Cluster 400
+0	16aa, >13987... *
+1	16aa, >9909... at 100.00%
+>Cluster 401
+0	16aa, >14297... *
+>Cluster 402
+0	16aa, >4165Cancerppd... *
+1	16aa, >1349... at 100.00%
+>Cluster 403
+0	16aa, >DRAMP01608... *
+1	16aa, >838... at 100.00%
+>Cluster 404
+0	16aa, >satpdb10989... *
+>Cluster 405
+0	16aa, >satpdb14958... *
+>Cluster 406
+0	16aa, >satpdb21617... *
+>Cluster 407
+0	16aa, >satpdb23309... *
+>Cluster 408
+0	15aa, >1666... *
+1	15aa, >1184... at 100.00%
+>Cluster 409
+0	15aa, >5882... *
+>Cluster 410
+0	15aa, >8064... *
+>Cluster 411
+0	15aa, >10284... *
+1	15aa, >7256... at 100.00%
+>Cluster 412
+0	15aa, >10931... *
+1	15aa, >7746... at 100.00%
+>Cluster 413
+0	15aa, >12905... *
+1	15aa, >9075... at 100.00%
+>Cluster 414
+0	15aa, >13184... *
+>Cluster 415
+0	15aa, >15450... *
+>Cluster 416
+0	15aa, >15452... *
+>Cluster 417
+0	15aa, >1871Cancerppd... *
+>Cluster 418
+0	15aa, >4577Cancerppd... *
+>Cluster 419
+0	15aa, >satpdb10012... *
+>Cluster 420
+0	15aa, >satpdb12938... *
+>Cluster 421
+0	15aa, >satpdb14897... *
+>Cluster 422
+0	15aa, >satpdb15356... *
+>Cluster 423
+0	15aa, >satpdb25112... *
+>Cluster 424
+0	15aa, >satpdb28376... *
+>Cluster 425
+0	15aa, >satpdb28594... *
+>Cluster 426
+0	14aa, >1584... *
+1	14aa, >1113... at 100.00%
+>Cluster 427
+0	14aa, >2336... *
+1	14aa, >1314... at 78.57%
+>Cluster 428
+0	14aa, >3490... *
+1	14aa, >2571... at 100.00%
+>Cluster 429
+0	14aa, >3561... *
+1	14aa, >2587... at 100.00%
+>Cluster 430
+0	14aa, >5058... *
+1	14aa, >3832... at 100.00%
+>Cluster 431
+0	14aa, >7164... *
+>Cluster 432
+0	14aa, >8128... *
+1	14aa, >3742... at 78.57%
+>Cluster 433
+0	14aa, >9161... *
+1	14aa, >6516... at 100.00%
+>Cluster 434
+0	14aa, >9163... *
+1	14aa, >6518... at 100.00%
+>Cluster 435
+0	14aa, >12180... *
+>Cluster 436
+0	14aa, >12889... *
+>Cluster 437
+0	14aa, >13160... *
+>Cluster 438
+0	14aa, >13348... *
+1	14aa, >2582... at 78.57%
+>Cluster 439
+0	14aa, >13798... *
+>Cluster 440
+0	14aa, >13932... *
+>Cluster 441
+0	14aa, >13974... *
+1	11aa, >6526... at 63.64%
+>Cluster 442
+0	14aa, >13975... *
+>Cluster 443
+0	14aa, >3345Cancerppd... *
+>Cluster 444
+0	14aa, >satpdb12614... *
+>Cluster 445
+0	14aa, >satpdb14785... *
+>Cluster 446
+0	14aa, >satpdb16227... *
+>Cluster 447
+0	14aa, >satpdb16441... *
+>Cluster 448
+0	14aa, >satpdb17970... *
+>Cluster 449
+0	14aa, >satpdb21447... *
+>Cluster 450
+0	14aa, >satpdb24107... *
+>Cluster 451
+0	14aa, >satpdb25823... *
+>Cluster 452
+0	14aa, >satpdb26145... *
+>Cluster 453
+0	13aa, >160... *
+>Cluster 454
+0	13aa, >1026... *
+1	13aa, >663... at 100.00%
+>Cluster 455
+0	13aa, >2324... *
+>Cluster 456
+0	13aa, >3353... *
+>Cluster 457
+0	13aa, >3446... *
+>Cluster 458
+0	13aa, >3483... *
+>Cluster 459
+0	13aa, >3491... *
+1	13aa, >12383... at 69.23%
+>Cluster 460
+0	13aa, >4693... *
+1	13aa, >3509... at 100.00%
+>Cluster 461
+0	13aa, >9534... *
+1	13aa, >6707... at 100.00%
+>Cluster 462
+0	13aa, >9851... *
+>Cluster 463
+0	13aa, >9856... *
+>Cluster 464
+0	13aa, >10050... *
+1	9aa, >6167... at 66.67%
+2	13aa, >7093... at 76.92%
+>Cluster 465
+0	13aa, >10354... *
+>Cluster 466
+0	13aa, >10560... *
+1	8aa, >8446... at 62.50%
+2	13aa, >9751... at 69.23%
+>Cluster 467
+0	13aa, >10561... *
+>Cluster 468
+0	13aa, >11191... *
+>Cluster 469
+0	13aa, >12129... *
+>Cluster 470
+0	13aa, >12532... *
+>Cluster 471
+0	13aa, >13158... *
+>Cluster 472
+0	13aa, >13159... *
+>Cluster 473
+0	13aa, >13349... *
+>Cluster 474
+0	13aa, >13431... *
+1	13aa, >9455... at 100.00%
+>Cluster 475
+0	13aa, >14078... *
+1	13aa, >372... at 61.54%
+2	13aa, >3589... at 69.23%
+>Cluster 476
+0	13aa, >14176... *
+>Cluster 477
+0	13aa, >1427Cancerppd... *
+>Cluster 478
+0	13aa, >satpdb10266... *
+>Cluster 479
+0	13aa, >satpdb14648... *
+>Cluster 480
+0	13aa, >satpdb16044... *
+>Cluster 481
+0	13aa, >satpdb19683... *
+>Cluster 482
+0	13aa, >satpdb20500... *
+>Cluster 483
+0	13aa, >satpdb23812... *
+>Cluster 484
+0	13aa, >satpdb27572... *
+>Cluster 485
+0	12aa, >1204... *
+>Cluster 486
+0	12aa, >3261... *
+1	12aa, >2375... at 100.00%
+>Cluster 487
+0	12aa, >3287... *
+1	12aa, >2404... at 91.67%
+>Cluster 488
+0	12aa, >5721... *
+1	12aa, >4340... at 100.00%
+>Cluster 489
+0	12aa, >6782... *
+>Cluster 490
+0	12aa, >9854... *
+>Cluster 491
+0	12aa, >10787... *
+>Cluster 492
+0	12aa, >11203... *
+>Cluster 493
+0	12aa, >11205... *
+>Cluster 494
+0	12aa, >12358... *
+1	12aa, >8674... at 100.00%
+>Cluster 495
+0	12aa, >13171... *
+>Cluster 496
+0	12aa, >13532... *
+1	12aa, >9524... at 66.67%
+>Cluster 497
+0	12aa, >13537... *
+>Cluster 498
+0	12aa, >13671... *
+>Cluster 499
+0	12aa, >13676... *
+>Cluster 500
+0	12aa, >13687... *
+>Cluster 501
+0	12aa, >15095... *
+>Cluster 502
+0	12aa, >16048... *
+1	12aa, >10918... at 100.00%
+>Cluster 503
+0	12aa, >1423Cancerppd... *
+>Cluster 504
+0	12aa, >4218Cancerppd... *
+>Cluster 505
+0	12aa, >4578Cancerppd... *
+>Cluster 506
+0	12aa, >4579Cancerppd... *
+>Cluster 507
+0	12aa, >4581Cancerppd... *
+>Cluster 508
+0	12aa, >satpdb10083... *
+>Cluster 509
+0	12aa, >satpdb14246... *
+>Cluster 510
+0	12aa, >satpdb15826... *
+>Cluster 511
+0	12aa, >satpdb17767... *
+>Cluster 512
+0	12aa, >satpdb18274... *
+>Cluster 513
+0	12aa, >satpdb20842... *
+>Cluster 514
+0	12aa, >satpdb27278... *
+>Cluster 515
+0	12aa, >satpdb27298... *
+>Cluster 516
+0	12aa, >satpdb28120... *
+>Cluster 517
+0	11aa, >3177... *
+>Cluster 518
+0	11aa, >4584... *
+1	11aa, >3418... at 81.82%
+2	10aa, >12181... at 60.00%
+>Cluster 519
+0	11aa, >4876... *
+>Cluster 520
+0	11aa, >6282... *
+>Cluster 521
+0	11aa, >7855... *
+>Cluster 522
+0	11aa, >8932... *
+1	11aa, >6318... at 72.73%
+>Cluster 523
+0	11aa, >8936... *
+>Cluster 524
+0	11aa, >12360... *
+>Cluster 525
+0	11aa, >13029... *
+1	11aa, >9152... at 100.00%
+>Cluster 526
+0	11aa, >14178... *
+>Cluster 527
+0	11aa, >16120... *
+>Cluster 528
+0	11aa, >3726Cancerppd... *
+>Cluster 529
+0	11aa, >DRAMP02397... *
+>Cluster 530
+0	11aa, >satpdb10075... *
+>Cluster 531
+0	11aa, >satpdb12029... *
+>Cluster 532
+0	11aa, >satpdb14979... *
+>Cluster 533
+0	11aa, >satpdb15978... *
+>Cluster 534
+0	11aa, >satpdb18483... *
+>Cluster 535
+0	11aa, >satpdb20109... *
+1	11aa, >2343... at 100.00%
+>Cluster 536
+0	11aa, >satpdb22098... *
+>Cluster 537
+0	11aa, >satpdb26128... *
+>Cluster 538
+0	11aa, >satpdb28282... *
+>Cluster 539
+0	10aa, >1568... *
+>Cluster 540
+0	10aa, >1655... *
+>Cluster 541
+0	10aa, >1681... *
+1	10aa, >1199... at 100.00%
+>Cluster 542
+0	10aa, >1688... *
+>Cluster 543
+0	10aa, >2899... *
+>Cluster 544
+0	10aa, >3316... *
+1	10aa, >4546... at 70.00%
+>Cluster 545
+0	10aa, >4695... *
+>Cluster 546
+0	10aa, >5633... *
+>Cluster 547
+0	10aa, >10982... *
+>Cluster 548
+0	10aa, >4576Cancerppd... *
+>Cluster 549
+0	10aa, >DRAMP00301... *
+>Cluster 550
+0	10aa, >DRAMP00302... *
+>Cluster 551
+0	10aa, >satpdb16447... *
+>Cluster 552
+0	10aa, >satpdb21232... *
+>Cluster 553
+0	10aa, >satpdb22493... *
+>Cluster 554
+0	9aa, >2585... *
+>Cluster 555
+0	9aa, >2980... *
+>Cluster 556
+0	9aa, >3238... *
+1	9aa, >2352... at 100.00%
+>Cluster 557
+0	9aa, >5444... *
+>Cluster 558
+0	9aa, >9774... *
+>Cluster 559
+0	9aa, >11196... *
+>Cluster 560
+0	9aa, >11197... *
+>Cluster 561
+0	9aa, >12255... *
+>Cluster 562
+0	9aa, >12598... *
+1	9aa, >12650... at 66.67%
+>Cluster 563
+0	9aa, >3140Cancerppd... *
+>Cluster 564
+0	9aa, >satpdb10964... *
+>Cluster 565
+0	8aa, >3232... *
+>Cluster 566
+0	8aa, >4694... *
+>Cluster 567
+0	8aa, >6915... *
+>Cluster 568
+0	8aa, >9486... *
+>Cluster 569
+0	8aa, >11943... *
+>Cluster 570
+0	8aa, >11971... *
+>Cluster 571
+0	7aa, >5449... *
+>Cluster 572
+0	7aa, >6133... *
+>Cluster 573
+0	7aa, >9139... *
+>Cluster 574
+0	7aa, >10703... *
+>Cluster 575
+0	7aa, >11202... *
+>Cluster 576
+0	7aa, >11225... *
+>Cluster 577
+0	7aa, >11239... *
+1	7aa, >7983... at 100.00%
+>Cluster 578
+0	7aa, >11344... *
+>Cluster 579
+0	7aa, >13166... *
